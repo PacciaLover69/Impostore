@@ -1,5002 +1,5001 @@
-[
-    {
-        "id": 1,
-        "parola": "Aereo",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 2,
-        "parola": "Banca",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 3,
-        "parola": "Pizza",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 4,
-        "parola": "Chitarra",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 5,
-        "parola": "Dottore",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 6,
-        "parola": "Leone",
-        "categoria": "Animali"
-    },
-    {
-        "id": 7,
-        "parola": "Spiaggia",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 8,
-        "parola": "Calcio",
-        "categoria": "Sport"
-    },
-    {
-        "id": 9,
-        "parola": "Computer",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 10,
-        "parola": "Cioccolato",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 11,
-        "parola": "Pompierre",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 12,
-        "parola": "Biblioteca",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 13,
-        "parola": "Cane",
-        "categoria": "Animali"
-    },
-    {
-        "id": 14,
-        "parola": "Treno",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 15,
-        "parola": "Occhiali",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 16,
-        "parola": "Matrimonio",
-        "categoria": "Eventi"
-    },
-    {
-        "id": 17,
-        "parola": "Sushi",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 18,
-        "parola": "Montagna",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 19,
-        "parola": "Poliziotto",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 20,
-        "parola": "Orologio",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 21,
-        "parola": "Vino",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 22,
-        "parola": "Cinema",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 23,
-        "parola": "Gatto",
-        "categoria": "Animali"
-    },
-    {
-        "id": 24,
-        "parola": "Bicicletta",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 25,
-        "parola": "Insegnante",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 26,
-        "parola": "Gelato",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 27,
-        "parola": "Ospedale",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 28,
-        "parola": "Scarpe",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 29,
-        "parola": "Pianoforte",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 30,
-        "parola": "Natale",
-        "categoria": "Feste"
-    },
-    {
-        "id": 31,
-        "parola": "Sole",
-        "categoria": "Natura"
-    },
-    {
-        "id": 32,
-        "parola": "Libro",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 33,
-        "parola": "Avvocato",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 34,
-        "parola": "Pasta",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 35,
-        "parola": "Palestra",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 36,
-        "parola": "Telefono",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 37,
-        "parola": "Letto",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 38,
-        "parola": "Aeroporto",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 39,
-        "parola": "Ballerina",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 40,
-        "parola": "Acqua",
-        "categoria": "Elementi"
-    },
-    {
-        "id": 41,
-        "parola": "Mela",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 42,
-        "parola": "Squalo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 43,
-        "parola": "Discoteca",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 44,
-        "parola": "Cuoco",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 45,
-        "parola": "Caffè",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 46,
-        "parola": "Ombrello",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 47,
-        "parola": "Teatro",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 48,
-        "parola": "Fotocamera",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 49,
-        "parola": "Astronauta",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 50,
-        "parola": "Deserto",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 51,
-        "parola": "Tavolo",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 52,
-        "parola": "Finestra",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 53,
-        "parola": "Chiave",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 54,
-        "parola": "Automobile",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 55,
-        "parola": "Giardino",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 56,
-        "parola": "Ristorante",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 57,
-        "parola": "Farmacia",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 58,
-        "parola": "Stadio",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 59,
-        "parola": "Museo",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 60,
-        "parola": "Zoo",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 61,
-        "parola": "Elefante",
-        "categoria": "Animali"
-    },
-    {
-        "id": 62,
-        "parola": "Giraffa",
-        "categoria": "Animali"
-    },
-    {
-        "id": 63,
-        "parola": "Uccello",
-        "categoria": "Animali"
-    },
-    {
-        "id": 64,
-        "parola": "Serpente",
-        "categoria": "Animali"
-    },
-    {
-        "id": 65,
-        "parola": "Pesce",
-        "categoria": "Animali"
-    },
-    {
-        "id": 66,
-        "parola": "Pane",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 67,
-        "parola": "Latte",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 68,
-        "parola": "Uovo",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 69,
-        "parola": "Arancia",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 70,
-        "parola": "Torta",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 71,
-        "parola": "Pilota",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 72,
-        "parola": "Giudice",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 73,
-        "parola": "Pittore",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 74,
-        "parola": "Barbiere",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 75,
-        "parola": "Contadino",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 76,
-        "parola": "Luna",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 77,
-        "parola": "Nuvola",
-        "categoria": "Meteo"
-    },
-    {
-        "id": 78,
-        "parola": "Bosco",
-        "categoria": "Natura"
-    },
-    {
-        "id": 79,
-        "parola": "Fiume",
-        "categoria": "Natura"
-    },
-    {
-        "id": 80,
-        "parola": "Vulcano",
-        "categoria": "Natura"
-    },
-    {
-        "id": 81,
-        "parola": "Specchio",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 82,
-        "parola": "Divano",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 83,
-        "parola": "Frigorifero",
-        "categoria": "Elettrodomestici"
-    },
-    {
-        "id": 84,
-        "parola": "Lavatrice",
-        "categoria": "Elettrodomestici"
-    },
-    {
-        "id": 85,
-        "parola": "Sapone",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 86,
-        "parola": "Asciugamano",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 87,
-        "parola": "Cuscino",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 88,
-        "parola": "Coltello",
-        "categoria": "Posate"
-    },
-    {
-        "id": 89,
-        "parola": "Forchetta",
-        "categoria": "Posate"
-    },
-    {
-        "id": 90,
-        "parola": "Bottiglia",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 91,
-        "parola": "Maglietta",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 92,
-        "parola": "Pantaloni",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 93,
-        "parola": "Cappello",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 94,
-        "parola": "Guanti",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 95,
-        "parola": "Sciarpa",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 96,
-        "parola": "Martello",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 97,
-        "parola": "Cacciavite",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 98,
-        "parola": "Tablet",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 99,
-        "parola": "Mouse",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 100,
-        "parola": "Radio",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 101,
-        "parola": "Basket",
-        "categoria": "Sport"
-    },
-    {
-        "id": 102,
-        "parola": "Tennis",
-        "categoria": "Sport"
-    },
-    {
-        "id": 103,
-        "parola": "Nuoto",
-        "categoria": "Sport"
-    },
-    {
-        "id": 104,
-        "parola": "Sci",
-        "categoria": "Sport"
-    },
-    {
-        "id": 105,
-        "parola": "Golf",
-        "categoria": "Sport"
-    },
-    {
-        "id": 106,
-        "parola": "Barca",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 107,
-        "parola": "Moto",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 108,
-        "parola": "Camion",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 109,
-        "parola": "Taxi",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 110,
-        "parola": "Autobus",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 111,
-        "parola": "Ape",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 112,
-        "parola": "Formica",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 113,
-        "parola": "Zanzara",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 114,
-        "parola": "Ragno",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 115,
-        "parola": "Farfalla",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 116,
-        "parola": "Drago",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 117,
-        "parola": "Castello",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 118,
-        "parola": "Pirata",
-        "categoria": "Personaggi"
-    },
-    {
-        "id": 119,
-        "parola": "Fantasma",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 120,
-        "parola": "Robot",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 121,
-        "parola": "Sigaretta",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 122,
-        "parola": "Candela",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 123,
-        "parola": "Anello",
-        "categoria": "Gioielli"
-    },
-    {
-        "id": 124,
-        "parola": "Valigia",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 125,
-        "parola": "Lucchetto",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 126,
-        "parola": "Cuore",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 127,
-        "parola": "Cervello",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 128,
-        "parola": "Denti",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 129,
-        "parola": "Mano",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 130,
-        "parola": "Piede",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 131,
-        "parola": "Penna",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 132,
-        "parola": "Matita",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 133,
-        "parola": "Quaderno",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 134,
-        "parola": "Lavagna",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 135,
-        "parola": "Zaino",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 136,
-        "parola": "Tuono",
-        "categoria": "Meteo"
-    },
-    {
-        "id": 137,
-        "parola": "Ghiaccio",
-        "categoria": "Elementi"
-    },
-    {
-        "id": 138,
-        "parola": "Vento",
-        "categoria": "Meteo"
-    },
-    {
-        "id": 139,
-        "parola": "Arcobaleno",
-        "categoria": "Meteo"
-    },
-    {
-        "id": 140,
-        "parola": "Stella",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 141,
-        "parola": "Formaggio",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 142,
-        "parola": "Carne",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 143,
-        "parola": "Insalata",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 144,
-        "parola": "Patatine",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 145,
-        "parola": "Zuppa",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 146,
-        "parola": "Scrittore",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 147,
-        "parola": "Cantante",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 148,
-        "parola": "Soldato",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 149,
-        "parola": "Cameriere",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 150,
-        "parola": "Dentista",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 151,
-        "parola": "Tigre",
-        "categoria": "Animali"
-    },
-    {
-        "id": 152,
-        "parola": "Orso",
-        "categoria": "Animali"
-    },
-    {
-        "id": 153,
-        "parola": "Lupo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 154,
-        "parola": "Cavallo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 155,
-        "parola": "Mucca",
-        "categoria": "Animali"
-    },
-    {
-        "id": 156,
-        "parola": "Pecora",
-        "categoria": "Animali"
-    },
-    {
-        "id": 157,
-        "parola": "Maiale",
-        "categoria": "Animali"
-    },
-    {
-        "id": 158,
-        "parola": "Pollo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 159,
-        "parola": "Coniglio",
-        "categoria": "Animali"
-    },
-    {
-        "id": 160,
-        "parola": "Lampada",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 161,
-        "parola": "Tappeto",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 162,
-        "parola": "Sedia",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 163,
-        "parola": "Armadio",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 164,
-        "parola": "Scopa",
-        "categoria": "Pulizia"
-    },
-    {
-        "id": 165,
-        "parola": "Secchio",
-        "categoria": "Pulizia"
-    },
-    {
-        "id": 166,
-        "parola": "Riso",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 167,
-        "parola": "Pesca",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 168,
-        "parola": "Pera",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 169,
-        "parola": "Banana",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 170,
-        "parola": "Fragola",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 171,
-        "parola": "Limone",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 172,
-        "parola": "Zucchero",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 173,
-        "parola": "Sale",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 174,
-        "parola": "Pepe",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 175,
-        "parola": "Olio",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 176,
-        "parola": "Forbici",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 177,
-        "parola": "Colla",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 178,
-        "parola": "Nastro",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 179,
-        "parola": "Righello",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 180,
-        "parola": "Calcolatrice",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 181,
-        "parola": "Fiore",
-        "categoria": "Natura"
-    },
-    {
-        "id": 182,
-        "parola": "Erba",
-        "categoria": "Natura"
-    },
-    {
-        "id": 183,
-        "parola": "Foglia",
-        "categoria": "Natura"
-    },
-    {
-        "id": 184,
-        "parola": "Radice",
-        "categoria": "Natura"
-    },
-    {
-        "id": 185,
-        "parola": "Sasso",
-        "categoria": "Natura"
-    },
-    {
-        "id": 186,
-        "parola": "Hotel",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 187,
-        "parola": "Ufficio",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 188,
-        "parola": "Mercato",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 189,
-        "parola": "Ponte",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 190,
-        "parola": "Parco",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 191,
-        "parola": "Elicottero",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 192,
-        "parola": "Nave",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 193,
-        "parola": "Metropolitana",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 194,
-        "parola": "Razzo",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 195,
-        "parola": "Sottomarino",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 196,
-        "parola": "Calzini",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 197,
-        "parola": "Gonna",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 198,
-        "parola": "Cappotto",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 199,
-        "parola": "Giacca",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 200,
-        "parola": "Cintura",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 201,
-        "parola": "Cravatta",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 202,
-        "parola": "Violino",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 203,
-        "parola": "Batteria",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 204,
-        "parola": "Tromba",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 205,
-        "parola": "Flauto",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 206,
-        "parola": "Volley",
-        "categoria": "Sport"
-    },
-    {
-        "id": 207,
-        "parola": "Rugby",
-        "categoria": "Sport"
-    },
-    {
-        "id": 208,
-        "parola": "Baseball",
-        "categoria": "Sport"
-    },
-    {
-        "id": 209,
-        "parola": "Karate",
-        "categoria": "Sport"
-    },
-    {
-        "id": 210,
-        "parola": "Boxe",
-        "categoria": "Sport"
-    },
-    {
-        "id": 211,
-        "parola": "Meccanico",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 212,
-        "parola": "Elettricista",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 213,
-        "parola": "Idraulico",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 214,
-        "parola": "Muratore",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 215,
-        "parola": "Architetto",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 216,
-        "parola": "Pomodoro",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 217,
-        "parola": "Patata",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 218,
-        "parola": "Cipolla",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 219,
-        "parola": "Aglio",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 220,
-        "parola": "Carota",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 221,
-        "parola": "Pipistrello",
-        "categoria": "Animali"
-    },
-    {
-        "id": 222,
-        "parola": "Delfino",
-        "categoria": "Animali"
-    },
-    {
-        "id": 223,
-        "parola": "Balena",
-        "categoria": "Animali"
-    },
-    {
-        "id": 224,
-        "parola": "Pinguino",
-        "categoria": "Animali"
-    },
-    {
-        "id": 225,
-        "parola": "Canguro",
-        "categoria": "Animali"
-    },
-    {
-        "id": 226,
-        "parola": "Microscopio",
-        "categoria": "Scienza"
-    },
-    {
-        "id": 227,
-        "parola": "Telescopio",
-        "categoria": "Scienza"
-    },
-    {
-        "id": 228,
-        "parola": "Bussola",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 229,
-        "parola": "Mappa",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 230,
-        "parola": "Globo",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 231,
-        "parola": "Moneta",
-        "categoria": "Soldi"
-    },
-    {
-        "id": 232,
-        "parola": "Banconota",
-        "categoria": "Soldi"
-    },
-    {
-        "id": 233,
-        "parola": "Portafoglio",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 234,
-        "parola": "Borsa",
-        "categoria": "Accessori"
-    },
-    {
-        "id": 235,
-        "parola": "Occhio",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 236,
-        "parola": "Naso",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 237,
-        "parola": "Bocca",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 238,
-        "parola": "Orecchio",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 239,
-        "parola": "Capelli",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 240,
-        "parola": "Scheletro",
-        "categoria": "Corpo Umano"
-    },
-    {
-        "id": 241,
-        "parola": "Fantasma",
-        "categoria": "Halloween"
-    },
-    {
-        "id": 242,
-        "parola": "Zucca",
-        "categoria": "Halloween"
-    },
-    {
-        "id": 243,
-        "parola": "Strega",
-        "categoria": "Halloween"
-    },
-    {
-        "id": 244,
-        "parola": "Vampiro",
-        "categoria": "Halloween"
-    },
-    {
-        "id": 245,
-        "parola": "Zombie",
-        "categoria": "Halloween"
-    },
-    {
-        "id": 246,
-        "parola": "Corona",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 247,
-        "parola": "Trono",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 248,
-        "parola": "Spada",
-        "categoria": "Armi"
-    },
-    {
-        "id": 249,
-        "parola": "Scudo",
-        "categoria": "Armi"
-    },
-    {
-        "id": 250,
-        "parola": "Bandiera",
-        "categoria": "Simboli"
-    },
-    {
-        "id": 251,
-        "parola": "Doccia",
-        "categoria": "Bagno"
-    },
-    {
-        "id": 252,
-        "parola": "Vasca",
-        "categoria": "Bagno"
-    },
-    {
-        "id": 253,
-        "parola": "Gabinetto",
-        "categoria": "Bagno"
-    },
-    {
-        "id": 254,
-        "parola": "Lavandino",
-        "categoria": "Bagno"
-    },
-    {
-        "id": 255,
-        "parola": "Dentifricio",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 256,
-        "parola": "Spazzolino",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 257,
-        "parola": "Shampoo",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 258,
-        "parola": "Pettine",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 259,
-        "parola": "Phon",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 260,
-        "parola": "Carta Igienica",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 261,
-        "parola": "Balcone",
-        "categoria": "Casa"
-    },
-    {
-        "id": 262,
-        "parola": "Tetto",
-        "categoria": "Casa"
-    },
-    {
-        "id": 263,
-        "parola": "Cantina",
-        "categoria": "Casa"
-    },
-    {
-        "id": 264,
-        "parola": "Soffitta",
-        "categoria": "Casa"
-    },
-    {
-        "id": 265,
-        "parola": "Scale",
-        "categoria": "Casa"
-    },
-    {
-        "id": 266,
-        "parola": "Ascensore",
-        "categoria": "Casa"
-    },
-    {
-        "id": 267,
-        "parola": "Garage",
-        "categoria": "Casa"
-    },
-    {
-        "id": 268,
-        "parola": "Cancello",
-        "categoria": "Casa"
-    },
-    {
-        "id": 269,
-        "parola": "Citofono",
-        "categoria": "Casa"
-    },
-    {
-        "id": 270,
-        "parola": "Posta",
-        "categoria": "Servizi"
-    },
-    {
-        "id": 271,
-        "parola": "Francobollo",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 272,
-        "parola": "Pacco",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 273,
-        "parola": "Busta",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 274,
-        "parola": "Giornale",
-        "categoria": "Media"
-    },
-    {
-        "id": 275,
-        "parola": "Rivista",
-        "categoria": "Media"
-    },
-    {
-        "id": 276,
-        "parola": "Microfono",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 277,
-        "parola": "Televisione",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 278,
-        "parola": "Internet",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 279,
-        "parola": "Wi-Fi",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 280,
-        "parola": "Password",
-        "categoria": "Sicurezza"
-    },
-    {
-        "id": 281,
-        "parola": "Chiavetta USB",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 282,
-        "parola": "Stampante",
-        "categoria": "Ufficio"
-    },
-    {
-        "id": 283,
-        "parola": "Scanner",
-        "categoria": "Ufficio"
-    },
-    {
-        "id": 284,
-        "parola": "Proiettore",
-        "categoria": "Ufficio"
-    },
-    {
-        "id": 285,
-        "parola": "Schermo",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 286,
-        "parola": "Tastiera",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 287,
-        "parola": "Webcam",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 288,
-        "parola": "Cavo",
-        "categoria": "Elettronica"
-    },
-    {
-        "id": 289,
-        "parola": "Presa",
-        "categoria": "Elettrica"
-    },
-    {
-        "id": 290,
-        "parola": "Lampadina",
-        "categoria": "Elettrica"
-    },
-    {
-        "id": 291,
-        "parola": "Torcia",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 292,
-        "parola": "Accendino",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 293,
-        "parola": "Fiammifero",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 294,
-        "parola": "Camino",
-        "categoria": "Casa"
-    },
-    {
-        "id": 295,
-        "parola": "Stufa",
-        "categoria": "Casa"
-    },
-    {
-        "id": 296,
-        "parola": "Ventilatore",
-        "categoria": "Casa"
-    },
-    {
-        "id": 297,
-        "parola": "Condizionatore",
-        "categoria": "Casa"
-    },
-    {
-        "id": 298,
-        "parola": "Termosifone",
-        "categoria": "Casa"
-    },
-    {
-        "id": 299,
-        "parola": "Tenda",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 300,
-        "parola": "Tapparella",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 301,
-        "parola": "Panino",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 302,
-        "parola": "Hamburger",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 303,
-        "parola": "Wurstel",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 304,
-        "parola": "Ketchup",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 305,
-        "parola": "Maionese",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 306,
-        "parola": "Senape",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 307,
-        "parola": "Aceto",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 308,
-        "parola": "Zucchina",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 309,
-        "parola": "Melanzana",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 310,
-        "parola": "Peperone",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 311,
-        "parola": "Fungo",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 312,
-        "parola": "Tartufo",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 313,
-        "parola": "Castagna",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 314,
-        "parola": "Noce",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 315,
-        "parola": "Mandorla",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 316,
-        "parola": "Marmellata",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 317,
-        "parola": "Nutella",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 318,
-        "parola": "Biscotto",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 319,
-        "parola": "Cornetto",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 320,
-        "parola": "Cereali",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 321,
-        "parola": "Yogurt",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 322,
-        "parola": "Burro",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 323,
-        "parola": "Panna",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 324,
-        "parola": "Cavatappi",
-        "categoria": "Utensili"
-    },
-    {
-        "id": 325,
-        "parola": "Apriscatole",
-        "categoria": "Utensili"
-    },
-    {
-        "id": 326,
-        "parola": "Grattugia",
-        "categoria": "Utensili"
-    },
-    {
-        "id": 327,
-        "parola": "Mestolo",
-        "categoria": "Utensili"
-    },
-    {
-        "id": 328,
-        "parola": "Padella",
-        "categoria": "Utensili"
-    },
-    {
-        "id": 329,
-        "parola": "Pentola",
-        "categoria": "Utensili"
-    },
-    {
-        "id": 330,
-        "parola": "Coperchio",
-        "categoria": "Utensili"
-    },
-    {
-        "id": 331,
-        "parola": "Teglia",
-        "categoria": "Utensili"
-    },
-    {
-        "id": 332,
-        "parola": "Forno",
-        "categoria": "Elettrodomestici"
-    },
-    {
-        "id": 333,
-        "parola": "Microonde",
-        "categoria": "Elettrodomestici"
-    },
-    {
-        "id": 334,
-        "parola": "Frullatore",
-        "categoria": "Elettrodomestici"
-    },
-    {
-        "id": 335,
-        "parola": "Tostapane",
-        "categoria": "Elettrodomestici"
-    },
-    {
-        "id": 336,
-        "parola": "Bollitore",
-        "categoria": "Elettrodomestici"
-    },
-    {
-        "id": 337,
-        "parola": "Bilancia",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 338,
-        "parola": "Metro",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 339,
-        "parola": "Termometro",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 340,
-        "parola": "Stetoscopio",
-        "categoria": "Medico"
-    },
-    {
-        "id": 341,
-        "parola": "Siringa",
-        "categoria": "Medico"
-    },
-    {
-        "id": 342,
-        "parola": "Cerotto",
-        "categoria": "Medico"
-    },
-    {
-        "id": 343,
-        "parola": "Benda",
-        "categoria": "Medico"
-    },
-    {
-        "id": 344,
-        "parola": "Stampella",
-        "categoria": "Medico"
-    },
-    {
-        "id": 345,
-        "parola": "Carrozzina",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 346,
-        "parola": "Culla",
-        "categoria": "Mobili"
-    },
-    {
-        "id": 347,
-        "parola": "Biberon",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 348,
-        "parola": "Ciuccio",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 349,
-        "parola": "Pannolino",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 350,
-        "parola": "Giocattolo",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 351,
-        "parola": "Gorilla",
-        "categoria": "Animali"
-    },
-    {
-        "id": 352,
-        "parola": "Scimmia",
-        "categoria": "Animali"
-    },
-    {
-        "id": 353,
-        "parola": "Zebra",
-        "categoria": "Animali"
-    },
-    {
-        "id": 354,
-        "parola": "Rinoceronte",
-        "categoria": "Animali"
-    },
-    {
-        "id": 355,
-        "parola": "Ippopotamo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 356,
-        "parola": "Coccodrillo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 357,
-        "parola": "Tartaruga",
-        "categoria": "Animali"
-    },
-    {
-        "id": 358,
-        "parola": "Rana",
-        "categoria": "Animali"
-    },
-    {
-        "id": 359,
-        "parola": "Lumaca",
-        "categoria": "Animali"
-    },
-    {
-        "id": 360,
-        "parola": "Farfalla",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 361,
-        "parola": "Isola",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 362,
-        "parola": "Grotta",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 363,
-        "parola": "Cascata",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 364,
-        "parola": "Lago",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 365,
-        "parola": "Collina",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 366,
-        "parola": "Pianura",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 367,
-        "parola": "Foresta",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 368,
-        "parola": "Giungla",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 369,
-        "parola": "Ghiacciaio",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 370,
-        "parola": "Palude",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 371,
-        "parola": "Piazza",
-        "categoria": "Città"
-    },
-    {
-        "id": 372,
-        "parola": "Grattacielo",
-        "categoria": "Città"
-    },
-    {
-        "id": 373,
-        "parola": "Fontana",
-        "categoria": "Città"
-    },
-    {
-        "id": 374,
-        "parola": "Statua",
-        "categoria": "Città"
-    },
-    {
-        "id": 375,
-        "parola": "Semaforo",
-        "categoria": "Città"
-    },
-    {
-        "id": 376,
-        "parola": "Marciapiede",
-        "categoria": "Città"
-    },
-    {
-        "id": 377,
-        "parola": "Incrocio",
-        "categoria": "Città"
-    },
-    {
-        "id": 378,
-        "parola": "Parcheggio",
-        "categoria": "Città"
-    },
-    {
-        "id": 379,
-        "parola": "Benzinaio",
-        "categoria": "Città"
-    },
-    {
-        "id": 380,
-        "parola": "Edicola",
-        "categoria": "Città"
-    },
-    {
-        "id": 381,
-        "parola": "Scacchi",
-        "categoria": "Giochi"
-    },
-    {
-        "id": 382,
-        "parola": "Dama",
-        "categoria": "Giochi"
-    },
-    {
-        "id": 383,
-        "parola": "Carte",
-        "categoria": "Giochi"
-    },
-    {
-        "id": 384,
-        "parola": "Puzzle",
-        "categoria": "Giochi"
-    },
-    {
-        "id": 385,
-        "parola": "Domino",
-        "categoria": "Giochi"
-    },
-    {
-        "id": 386,
-        "parola": "Videogioco",
-        "categoria": "Giochi"
-    },
-    {
-        "id": 387,
-        "parola": "Pesca",
-        "categoria": "Hobby"
-    },
-    {
-        "id": 388,
-        "parola": "Caccia",
-        "categoria": "Hobby"
-    },
-    {
-        "id": 389,
-        "parola": "Giardinaggio",
-        "categoria": "Hobby"
-    },
-    {
-        "id": 390,
-        "parola": "Campeggio",
-        "categoria": "Hobby"
-    },
-    {
-        "id": 391,
-        "parola": "Concerto",
-        "categoria": "Eventi"
-    },
-    {
-        "id": 392,
-        "parola": "Opera",
-        "categoria": "Eventi"
-    },
-    {
-        "id": 393,
-        "parola": "Circo",
-        "categoria": "Eventi"
-    },
-    {
-        "id": 394,
-        "parola": "Carnevale",
-        "categoria": "Eventi"
-    },
-    {
-        "id": 395,
-        "parola": "Pasqua",
-        "categoria": "Feste"
-    },
-    {
-        "id": 396,
-        "parola": "Capodanno",
-        "categoria": "Feste"
-    },
-    {
-        "id": 397,
-        "parola": "Compleanno",
-        "categoria": "Feste"
-    },
-    {
-        "id": 398,
-        "parola": "Funerale",
-        "categoria": "Eventi"
-    },
-    {
-        "id": 399,
-        "parola": "Laurea",
-        "categoria": "Eventi"
-    },
-    {
-        "id": 400,
-        "parola": "Battesimo",
-        "categoria": "Eventi"
-    },
-    {
-        "id": 401,
-        "parola": "Orecchini",
-        "categoria": "Gioielli"
-    },
-    {
-        "id": 402,
-        "parola": "Collana",
-        "categoria": "Gioielli"
-    },
-    {
-        "id": 403,
-        "parola": "Bracciale",
-        "categoria": "Gioielli"
-    },
-    {
-        "id": 404,
-        "parola": "Orologio",
-        "categoria": "Gioielli"
-    },
-    {
-        "id": 405,
-        "parola": "Spilla",
-        "categoria": "Gioielli"
-    },
-    {
-        "id": 406,
-        "parola": "Piercing",
-        "categoria": "Gioielli"
-    },
-    {
-        "id": 407,
-        "parola": "Tatuaggio",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 408,
-        "parola": "Barba",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 409,
-        "parola": "Baffi",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 410,
-        "parola": "Unie",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 411,
-        "parola": "Birra",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 412,
-        "parola": "Vino Rosso",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 413,
-        "parola": "Vino Bianco",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 414,
-        "parola": "Champagne",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 415,
-        "parola": "Cocktail",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 416,
-        "parola": "Succo",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 417,
-        "parola": "Tè",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 418,
-        "parola": "Camomilla",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 419,
-        "parola": "Limonata",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 420,
-        "parola": "Bibita",
-        "categoria": "Bevande"
-    },
-    {
-        "id": 421,
-        "parola": "Giornalista",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 422,
-        "parola": "Scienziato",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 423,
-        "parola": "Veterinario",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 424,
-        "parola": "Farmacista",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 425,
-        "parola": "Infermiere",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 426,
-        "parola": "Segretaria",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 427,
-        "parola": "Direttore",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 428,
-        "parola": "Cassiere",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 429,
-        "parola": "Magazziniere",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 430,
-        "parola": "Autista",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 431,
-        "parola": "Terremoto",
-        "categoria": "Disastri"
-    },
-    {
-        "id": 432,
-        "parola": "Incendio",
-        "categoria": "Disastri"
-    },
-    {
-        "id": 433,
-        "parola": "Alluvione",
-        "categoria": "Disastri"
-    },
-    {
-        "id": 434,
-        "parola": "Tornado",
-        "categoria": "Disastri"
-    },
-    {
-        "id": 435,
-        "parola": "Valanga",
-        "categoria": "Disastri"
-    },
-    {
-        "id": 436,
-        "parola": "Esame",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 437,
-        "parola": "Lezione",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 438,
-        "parola": "Ricreazione",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 439,
-        "parola": "Pagella",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 440,
-        "parola": "Diploma",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 441,
-        "parola": "Passaporto",
-        "categoria": "Documenti"
-    },
-    {
-        "id": 442,
-        "parola": "Patente",
-        "categoria": "Documenti"
-    },
-    {
-        "id": 443,
-        "parola": "Carta d'Identità",
-        "categoria": "Documenti"
-    },
-    {
-        "id": 444,
-        "parola": "Biglietto",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 445,
-        "parola": "Scontrino",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 446,
-        "parola": "Fattura",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 447,
-        "parola": "Contratto",
-        "categoria": "Lavoro"
-    },
-    {
-        "id": 448,
-        "parola": "Firma",
-        "categoria": "Lavoro"
-    },
-    {
-        "id": 449,
-        "parola": "Timbro",
-        "categoria": "Ufficio"
-    },
-    {
-        "id": 450,
-        "parola": "Busta Paga",
-        "categoria": "Lavoro"
-    },
-    {
-        "id": 451,
-        "parola": "Sassofono",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 452,
-        "parola": "Arpa",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 453,
-        "parola": "Fisarmonica",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 454,
-        "parola": "Tamburo",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 455,
-        "parola": "Clarinetto",
-        "categoria": "Strumenti"
-    },
-    {
-        "id": 456,
-        "parola": "Casco",
-        "categoria": "Accessori"
-    },
-    {
-        "id": 457,
-        "parola": "Maschera",
-        "categoria": "Accessori"
-    },
-    {
-        "id": 458,
-        "parola": "Pigiama",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 459,
-        "parola": "Ciabatte",
-        "categoria": "Calzature"
-    },
-    {
-        "id": 460,
-        "parola": "Costume",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 461,
-        "parola": "Cometa",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 462,
-        "parola": "Alieno",
-        "categoria": "Fantascienza"
-    },
-    {
-        "id": 463,
-        "parola": "Ufo",
-        "categoria": "Fantascienza"
-    },
-    {
-        "id": 464,
-        "parola": "Pianeta",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 465,
-        "parola": "Galassia",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 466,
-        "parola": "Mago",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 467,
-        "parola": "Fata",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 468,
-        "parola": "Orco",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 469,
-        "parola": "Sirena",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 470,
-        "parola": "Gigante",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 471,
-        "parola": "Nebbia",
-        "categoria": "Meteo"
-    },
-    {
-        "id": 472,
-        "parola": "Grandine",
-        "categoria": "Meteo"
-    },
-    {
-        "id": 473,
-        "parola": "Uragano",
-        "categoria": "Meteo"
-    },
-    {
-        "id": 474,
-        "parola": "Tempesta",
-        "categoria": "Meteo"
-    },
-    {
-        "id": 475,
-        "parola": "Primavera",
-        "categoria": "Stagioni"
-    },
-    {
-        "id": 476,
-        "parola": "Estate",
-        "categoria": "Stagioni"
-    },
-    {
-        "id": 477,
-        "parola": "Autunno",
-        "categoria": "Stagioni"
-    },
-    {
-        "id": 478,
-        "parola": "Inverno",
-        "categoria": "Stagioni"
-    },
-    {
-        "id": 479,
-        "parola": "Oro",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 480,
-        "parola": "Argento",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 481,
-        "parola": "Plastica",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 482,
-        "parola": "Legno",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 483,
-        "parola": "Ferro",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 484,
-        "parola": "Cotone",
-        "categoria": "Tessuti"
-    },
-    {
-        "id": 485,
-        "parola": "Lana",
-        "categoria": "Tessuti"
-    },
-    {
-        "id": 486,
-        "parola": "Seta",
-        "categoria": "Tessuti"
-    },
-    {
-        "id": 487,
-        "parola": "Email",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 488,
-        "parola": "App",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 489,
-        "parola": "Batteria",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 490,
-        "parola": "Caricabatterie",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 491,
-        "parola": "Cuffie",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 492,
-        "parola": "Telecomando",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 493,
-        "parola": "Videocamera",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 494,
-        "parola": "Drone",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 495,
-        "parola": "Joystick",
-        "categoria": "Tecnologia"
-    },
-    {
-        "id": 496,
-        "parola": "Cavalletta",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 497,
-        "parola": "Scarafaggio",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 498,
-        "parola": "Grillo",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 499,
-        "parola": "Lucciola",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 500,
-        "parola": "Coccinella",
-        "categoria": "Insetti"
-    },
-    {
-        "id": 501,
-        "parola": "Ferro da stiro",
-        "categoria": "Elettrodomestici"
-    },
-    {
-        "id": 502,
-        "parola": "Aspirapolvere",
-        "categoria": "Elettrodomestici"
-    },
-    {
-        "id": 503,
-        "parola": "Mocio",
-        "categoria": "Pulizia"
-    },
-    {
-        "id": 504,
-        "parola": "Molletta",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 505,
-        "parola": "Stendino",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 506,
-        "parola": "Faro",
-        "categoria": "Edifici"
-    },
-    {
-        "id": 507,
-        "parola": "Igloo",
-        "categoria": "Edifici"
-    },
-    {
-        "id": 508,
-        "parola": "Mulino",
-        "categoria": "Edifici"
-    },
-    {
-        "id": 509,
-        "parola": "Granaio",
-        "categoria": "Edifici"
-    },
-    {
-        "id": 510,
-        "parola": "Serra",
-        "categoria": "Edifici"
-    },
-    {
-        "id": 511,
-        "parola": "Acquario",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 512,
-        "parola": "Gabbia",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 513,
-        "parola": "Cuccia",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 514,
-        "parola": "Guinzaglio",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 515,
-        "parola": "Museruola",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 516,
-        "parola": "Sella",
-        "categoria": "Equitazione"
-    },
-    {
-        "id": 517,
-        "parola": "Ferro di cavallo",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 518,
-        "parola": "Fieno",
-        "categoria": "Natura"
-    },
-    {
-        "id": 519,
-        "parola": "Spaventapasseri",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 520,
-        "parola": "Trattore",
-        "categoria": "Veicoli"
-    },
-    {
-        "id": 521,
-        "parola": "Ambulanza",
-        "categoria": "Veicoli"
-    },
-    {
-        "id": 522,
-        "parola": "Caserma",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 523,
-        "parola": "Prigione",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 524,
-        "parola": "Tribunale",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 525,
-        "parola": "Municipio",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 526,
-        "parola": "Panetteria",
-        "categoria": "Negozi"
-    },
-    {
-        "id": 527,
-        "parola": "Macelleria",
-        "categoria": "Negozi"
-    },
-    {
-        "id": 528,
-        "parola": "Pescheria",
-        "categoria": "Negozi"
-    },
-    {
-        "id": 529,
-        "parola": "Gelateria",
-        "categoria": "Negozi"
-    },
-    {
-        "id": 530,
-        "parola": "Pizzeria",
-        "categoria": "Negozi"
-    },
-    {
-        "id": 531,
-        "parola": "Libreria",
-        "categoria": "Negozi"
-    },
-    {
-        "id": 532,
-        "parola": "Cartoleria",
-        "categoria": "Negozi"
-    },
-    {
-        "id": 533,
-        "parola": "Centro Commerciale",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 534,
-        "parola": "Bancomat",
-        "categoria": "Servizi"
-    },
-    {
-        "id": 535,
-        "parola": "Mercatino",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 536,
-        "parola": "Assegno",
-        "categoria": "Banca"
-    },
-    {
-        "id": 537,
-        "parola": "Carta di Credito",
-        "categoria": "Banca"
-    },
-    {
-        "id": 538,
-        "parola": "Cassaforte",
-        "categoria": "Sicurezza"
-    },
-    {
-        "id": 539,
-        "parola": "Allarme",
-        "categoria": "Sicurezza"
-    },
-    {
-        "id": 540,
-        "parola": "Lucchetto",
-        "categoria": "Sicurezza"
-    },
-    {
-        "id": 541,
-        "parola": "Poltrona",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 542,
-        "parola": "Comodino",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 543,
-        "parola": "Cassettiera",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 544,
-        "parola": "Scrivania",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 545,
-        "parola": "Mensola",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 546,
-        "parola": "Vaso",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 547,
-        "parola": "Quadro",
-        "categoria": "Arte"
-    },
-    {
-        "id": 548,
-        "parola": "Cornice",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 549,
-        "parola": "Tappetino",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 550,
-        "parola": "Zerbino",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 551,
-        "parola": "Lasagna",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 552,
-        "parola": "Ravioli",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 553,
-        "parola": "Gnocchi",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 554,
-        "parola": "Polpetta",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 555,
-        "parola": "Spaghetto",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 556,
-        "parola": "Risotto",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 557,
-        "parola": "Tiramisù",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 558,
-        "parola": "Basilico",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 559,
-        "parola": "Rosmarino",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 560,
-        "parola": "Prezzemolo",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 561,
-        "parola": "Koala",
-        "categoria": "Animali"
-    },
-    {
-        "id": 562,
-        "parola": "Panda",
-        "categoria": "Animali"
-    },
-    {
-        "id": 563,
-        "parola": "Cammello",
-        "categoria": "Animali"
-    },
-    {
-        "id": 564,
-        "parola": "Aquila",
-        "categoria": "Animali"
-    },
-    {
-        "id": 565,
-        "parola": "Gufo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 566,
-        "parola": "Pipistrello",
-        "categoria": "Animali"
-    },
-    {
-        "id": 567,
-        "parola": "Topo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 568,
-        "parola": "Criceto",
-        "categoria": "Animali"
-    },
-    {
-        "id": 569,
-        "parola": "Volpe",
-        "categoria": "Animali"
-    },
-    {
-        "id": 570,
-        "parola": "Cervo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 571,
-        "parola": "Accappatoio",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 572,
-        "parola": "Costume da bagno",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 573,
-        "parola": "Canottiera",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 574,
-        "parola": "Felpa",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 575,
-        "parola": "Tuta",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 576,
-        "parola": "Gilet",
-        "categoria": "Abbigliamento"
-    },
-    {
-        "id": 577,
-        "parola": "Papillon",
-        "categoria": "Accessori"
-    },
-    {
-        "id": 578,
-        "parola": "Occhiali da sole",
-        "categoria": "Accessori"
-    },
-    {
-        "id": 579,
-        "parola": "Ombrellone",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 580,
-        "parola": "Sdraio",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 581,
-        "parola": "Corridoio",
-        "categoria": "Casa"
-    },
-    {
-        "id": 582,
-        "parola": "Veranda",
-        "categoria": "Casa"
-    },
-    {
-        "id": 583,
-        "parola": "Terrazza",
-        "categoria": "Casa"
-    },
-    {
-        "id": 584,
-        "parola": "Sgabello",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 585,
-        "parola": "Scaffale",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 586,
-        "parola": "Libreria",
-        "categoria": "Arredamento"
-    },
-    {
-        "id": 587,
-        "parola": "Caminetto",
-        "categoria": "Casa"
-    },
-    {
-        "id": 588,
-        "parola": "Rubinetto",
-        "categoria": "Casa"
-    },
-    {
-        "id": 589,
-        "parola": "Interruttore",
-        "categoria": "Casa"
-    },
-    {
-        "id": 590,
-        "parola": "Maniglia",
-        "categoria": "Casa"
-    },
-    {
-        "id": 591,
-        "parola": "Sega",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 592,
-        "parola": "Trapano",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 593,
-        "parola": "Pinza",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 594,
-        "parola": "Chiave Inglese",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 595,
-        "parola": "Metro",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 596,
-        "parola": "Livella",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 597,
-        "parola": "Brucola",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 598,
-        "parola": "Vite",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 599,
-        "parola": "Bullone",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 600,
-        "parola": "Chiodo",
-        "categoria": "Attrezzi"
-    },
-    {
-        "id": 601,
-        "parola": "Deserto",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 602,
-        "parola": "Canyon",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 603,
-        "parola": "Scogliera",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 604,
-        "parola": "Baia",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 605,
-        "parola": "Sorgente",
-        "categoria": "Geografia"
-    },
-    {
-        "id": 606,
-        "parola": "Fango",
-        "categoria": "Natura"
-    },
-    {
-        "id": 607,
-        "parola": "Sabbia",
-        "categoria": "Natura"
-    },
-    {
-        "id": 608,
-        "parola": "Ghiaia",
-        "categoria": "Natura"
-    },
-    {
-        "id": 609,
-        "parola": "Muschio",
-        "categoria": "Natura"
-    },
-    {
-        "id": 610,
-        "parola": "Fungo",
-        "categoria": "Natura"
-    },
-    {
-        "id": 611,
-        "parola": "Bowling",
-        "categoria": "Sport"
-    },
-    {
-        "id": 612,
-        "parola": "Pattinaggio",
-        "categoria": "Sport"
-    },
-    {
-        "id": 613,
-        "parola": "Surf",
-        "categoria": "Sport"
-    },
-    {
-        "id": 614,
-        "parola": "Yoga",
-        "categoria": "Sport"
-    },
-    {
-        "id": 615,
-        "parola": "Atletica",
-        "categoria": "Sport"
-    },
-    {
-        "id": 616,
-        "parola": "Scherma",
-        "categoria": "Sport"
-    },
-    {
-        "id": 617,
-        "parola": "Tiro con l'arco",
-        "categoria": "Sport"
-    },
-    {
-        "id": 618,
-        "parola": "Hockey",
-        "categoria": "Sport"
-    },
-    {
-        "id": 619,
-        "parola": "Ping Pong",
-        "categoria": "Sport"
-    },
-    {
-        "id": 620,
-        "parola": "Freccette",
-        "categoria": "Giochi"
-    },
-    {
-        "id": 621,
-        "parola": "Falegname",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 622,
-        "parola": "Sarto",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 623,
-        "parola": "Bagnino",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 624,
-        "parola": "Fioraio",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 625,
-        "parola": "Gommista",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 626,
-        "parola": "Gioielliere",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 627,
-        "parola": "Regista",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 628,
-        "parola": "Attore",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 629,
-        "parola": "Modella",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 630,
-        "parola": "Fotografo",
-        "categoria": "Professioni"
-    },
-    {
-        "id": 631,
-        "parola": "Gomma",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 632,
-        "parola": "Evidenziatore",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 633,
-        "parola": "Graffetta",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 634,
-        "parola": "Cucitrice",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 635,
-        "parola": "Busta",
-        "categoria": "Cancelleria"
-    },
-    {
-        "id": 636,
-        "parola": "Dizionario",
-        "categoria": "Libri"
-    },
-    {
-        "id": 637,
-        "parola": "Enciclopedia",
-        "categoria": "Libri"
-    },
-    {
-        "id": 638,
-        "parola": "Diario",
-        "categoria": "Libri"
-    },
-    {
-        "id": 639,
-        "parola": "Fumetto",
-        "categoria": "Libri"
-    },
-    {
-        "id": 640,
-        "parola": "Romanzo",
-        "categoria": "Libri"
-    },
-    {
-        "id": 641,
-        "parola": "Traghetto",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 642,
-        "parola": "Canoa",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 643,
-        "parola": "Yacht",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 644,
-        "parola": "Gommone",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 645,
-        "parola": "Funivia",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 646,
-        "parola": "Seggiovia",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 647,
-        "parola": "Monopattino",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 648,
-        "parola": "Skateboard",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 649,
-        "parola": "Pattini",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 650,
-        "parola": "Carriola",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 651,
-        "parola": "Anguria",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 652,
-        "parola": "Melone",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 653,
-        "parola": "Ciliegia",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 654,
-        "parola": "Albicocca",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 655,
-        "parola": "Kiwi",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 656,
-        "parola": "Cocco",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 657,
-        "parola": "Avocado",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 658,
-        "parola": "Mandarino",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 659,
-        "parola": "Fico",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 660,
-        "parola": "Mora",
-        "categoria": "Frutta"
-    },
-    {
-        "id": 661,
-        "parola": "Profumo",
-        "categoria": "Bellezza"
-    },
-    {
-        "id": 662,
-        "parola": "Rossetto",
-        "categoria": "Bellezza"
-    },
-    {
-        "id": 663,
-        "parola": "Smalto",
-        "categoria": "Bellezza"
-    },
-    {
-        "id": 664,
-        "parola": "Mascara",
-        "categoria": "Bellezza"
-    },
-    {
-        "id": 665,
-        "parola": "Cipria",
-        "categoria": "Bellezza"
-    },
-    {
-        "id": 666,
-        "parola": "Rasoio",
-        "categoria": "Bellezza"
-    },
-    {
-        "id": 667,
-        "parola": "Pinzetta",
-        "categoria": "Bellezza"
-    },
-    {
-        "id": 668,
-        "parola": "Spazzola",
-        "categoria": "Bellezza"
-    },
-    {
-        "id": 669,
-        "parola": "Crema",
-        "categoria": "Bellezza"
-    },
-    {
-        "id": 670,
-        "parola": "Deodorante",
-        "categoria": "Bellezza"
-    },
-    {
-        "id": 671,
-        "parola": "Mongolfiera",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 672,
-        "parola": "Paracadute",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 673,
-        "parola": "Deltaplano",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 674,
-        "parola": "Slitta",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 675,
-        "parola": "Carrozza",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 676,
-        "parola": "Camper",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 677,
-        "parola": "Roulotte",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 678,
-        "parola": "Motoscafo",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 679,
-        "parola": "Jet",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 680,
-        "parola": "Segway",
-        "categoria": "Trasporti"
-    },
-    {
-        "id": 681,
-        "parola": "Bambola",
-        "categoria": "Giocattoli"
-    },
-    {
-        "id": 682,
-        "parola": "Peluche",
-        "categoria": "Giocattoli"
-    },
-    {
-        "id": 683,
-        "parola": "Mattoncini",
-        "categoria": "Giocattoli"
-    },
-    {
-        "id": 684,
-        "parola": "Yo-yo",
-        "categoria": "Giocattoli"
-    },
-    {
-        "id": 685,
-        "parola": "Aquilone",
-        "categoria": "Giocattoli"
-    },
-    {
-        "id": 686,
-        "parola": "Altalena",
-        "categoria": "Parchi"
-    },
-    {
-        "id": 687,
-        "parola": "Scivolo",
-        "categoria": "Parchi"
-    },
-    {
-        "id": 688,
-        "parola": "Giostra",
-        "categoria": "Parchi"
-    },
-    {
-        "id": 689,
-        "parola": "Sabbiera",
-        "categoria": "Parchi"
-    },
-    {
-        "id": 690,
-        "parola": "Palloncino",
-        "categoria": "Feste"
-    },
-    {
-        "id": 691,
-        "parola": "Coriandoli",
-        "categoria": "Feste"
-    },
-    {
-        "id": 692,
-        "parola": "Festone",
-        "categoria": "Feste"
-    },
-    {
-        "id": 693,
-        "parola": "Candeline",
-        "categoria": "Feste"
-    },
-    {
-        "id": 694,
-        "parola": "Regalo",
-        "categoria": "Feste"
-    },
-    {
-        "id": 695,
-        "parola": "Fiocco",
-        "categoria": "Feste"
-    },
-    {
-        "id": 696,
-        "parola": "Invito",
-        "categoria": "Feste"
-    },
-    {
-        "id": 697,
-        "parola": "Fuochi d'artificio",
-        "categoria": "Feste"
-    },
-    {
-        "id": 698,
-        "parola": "Panettone",
-        "categoria": "Feste"
-    },
-    {
-        "id": 699,
-        "parola": "Pandoro",
-        "categoria": "Feste"
-    },
-    {
-        "id": 700,
-        "parola": "Uovo di Pasqua",
-        "categoria": "Feste"
-    },
-    {
-        "id": 701,
-        "parola": "Astuccio",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 702,
-        "parola": "Temperino",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 703,
-        "parola": "Compasso",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 704,
-        "parola": "Squadra",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 705,
-        "parola": "Goniometro",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 706,
-        "parola": "Cancellino",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 707,
-        "parola": "Banco",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 708,
-        "parola": "Cattedra",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 709,
-        "parola": "Mappamondo",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 710,
-        "parola": "Cartella",
-        "categoria": "Scuola"
-    },
-    {
-        "id": 711,
-        "parola": "Moka",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 712,
-        "parola": "Tazzina",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 713,
-        "parola": "Bicchiere",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 714,
-        "parola": "Caraffa",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 715,
-        "parola": "Tovaglia",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 716,
-        "parola": "Tovagliolo",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 717,
-        "parola": "Scolapasta",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 718,
-        "parola": "Frusta",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 719,
-        "parola": "Spatola",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 720,
-        "parola": "Mattarello",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 721,
-        "parola": "Ginocchio",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 722,
-        "parola": "Gomito",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 723,
-        "parola": "Spalla",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 724,
-        "parola": "Schiena",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 725,
-        "parola": "Pancia",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 726,
-        "parola": "Ombelico",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 727,
-        "parola": "Collo",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 728,
-        "parola": "Fronte",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 729,
-        "parola": "Guancia",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 730,
-        "parola": "Mento",
-        "categoria": "Corpo"
-    },
-    {
-        "id": 731,
-        "parola": "Stalla",
-        "categoria": "Fattoria"
-    },
-    {
-        "id": 732,
-        "parola": "Pollaio",
-        "categoria": "Fattoria"
-    },
-    {
-        "id": 733,
-        "parola": "Recinto",
-        "categoria": "Fattoria"
-    },
-    {
-        "id": 734,
-        "parola": "Orto",
-        "categoria": "Fattoria"
-    },
-    {
-        "id": 735,
-        "parola": "Aratro",
-        "categoria": "Fattoria"
-    },
-    {
-        "id": 736,
-        "parola": "Mietitrebbia",
-        "categoria": "Fattoria"
-    },
-    {
-        "id": 737,
-        "parola": "Fienile",
-        "categoria": "Fattoria"
-    },
-    {
-        "id": 738,
-        "parola": "Pozzo",
-        "categoria": "Fattoria"
-    },
-    {
-        "id": 739,
-        "parola": "Secchio",
-        "categoria": "Fattoria"
-    },
-    {
-        "id": 740,
-        "parola": "Vanga",
-        "categoria": "Fattoria"
-    },
-    {
-        "id": 741,
-        "parola": "Giradischi",
-        "categoria": "Musica"
-    },
-    {
-        "id": 742,
-        "parola": "Stereo",
-        "categoria": "Musica"
-    },
-    {
-        "id": 743,
-        "parola": "Altoparlante",
-        "categoria": "Musica"
-    },
-    {
-        "id": 744,
-        "parola": "Cassetta",
-        "categoria": "Musica"
-    },
-    {
-        "id": 745,
-        "parola": "Vinile",
-        "categoria": "Musica"
-    },
-    {
-        "id": 746,
-        "parola": "Spartito",
-        "categoria": "Musica"
-    },
-    {
-        "id": 747,
-        "parola": "Direttore d'orchestra",
-        "categoria": "Musica"
-    },
-    {
-        "id": 748,
-        "parola": "Coro",
-        "categoria": "Musica"
-    },
-    {
-        "id": 749,
-        "parola": "Palco",
-        "categoria": "Musica"
-    },
-    {
-        "id": 750,
-        "parola": "Microfono",
-        "categoria": "Musica"
-    },
-    {
-        "id": 751,
-        "parola": "Rosa",
-        "categoria": "Fiori"
-    },
-    {
-        "id": 752,
-        "parola": "Tulipano",
-        "categoria": "Fiori"
-    },
-    {
-        "id": 753,
-        "parola": "Girasole",
-        "categoria": "Fiori"
-    },
-    {
-        "id": 754,
-        "parola": "Margherita",
-        "categoria": "Fiori"
-    },
-    {
-        "id": 755,
-        "parola": "Orchidea",
-        "categoria": "Fiori"
-    },
-    {
-        "id": 756,
-        "parola": "Viola",
-        "categoria": "Fiori"
-    },
-    {
-        "id": 757,
-        "parola": "Giglio",
-        "categoria": "Fiori"
-    },
-    {
-        "id": 758,
-        "parola": "Papavero",
-        "categoria": "Fiori"
-    },
-    {
-        "id": 759,
-        "parola": "Cactus",
-        "categoria": "Piante"
-    },
-    {
-        "id": 760,
-        "parola": "Palma",
-        "categoria": "Piante"
-    },
-    {
-        "id": 761,
-        "parola": "Diamante",
-        "categoria": "Preziosi"
-    },
-    {
-        "id": 762,
-        "parola": "Perla",
-        "categoria": "Preziosi"
-    },
-    {
-        "id": 763,
-        "parola": "Rubino",
-        "categoria": "Preziosi"
-    },
-    {
-        "id": 764,
-        "parola": "Zaffiro",
-        "categoria": "Preziosi"
-    },
-    {
-        "id": 765,
-        "parola": "Smeraldo",
-        "categoria": "Preziosi"
-    },
-    {
-        "id": 766,
-        "parola": "Cristallo",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 767,
-        "parola": "Bronzo",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 768,
-        "parola": "Rame",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 769,
-        "parola": "Carbone",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 770,
-        "parola": "Marmo",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 771,
-        "parola": "Mummia",
-        "categoria": "Storia"
-    },
-    {
-        "id": 772,
-        "parola": "Piramide",
-        "categoria": "Storia"
-    },
-    {
-        "id": 773,
-        "parola": "Faraone",
-        "categoria": "Storia"
-    },
-    {
-        "id": 774,
-        "parola": "Gladiatore",
-        "categoria": "Storia"
-    },
-    {
-        "id": 775,
-        "parola": "Imperatore",
-        "categoria": "Storia"
-    },
-    {
-        "id": 776,
-        "parola": "Vichingo",
-        "categoria": "Storia"
-    },
-    {
-        "id": 777,
-        "parola": "Samurai",
-        "categoria": "Storia"
-    },
-    {
-        "id": 778,
-        "parola": "Ninja",
-        "categoria": "Storia"
-    },
-    {
-        "id": 779,
-        "parola": "Cowboy",
-        "categoria": "Storia"
-    },
-    {
-        "id": 780,
-        "parola": "Indiano",
-        "categoria": "Storia"
-    },
-    {
-        "id": 781,
-        "parola": "Kebab",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 782,
-        "parola": "Sashimi",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 783,
-        "parola": "Tacos",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 784,
-        "parola": "Curry",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 785,
-        "parola": "Couscous",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 786,
-        "parola": "Paella",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 787,
-        "parola": "Crepes",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 788,
-        "parola": "Waffle",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 789,
-        "parola": "Pancake",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 790,
-        "parola": "Muffin",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 791,
-        "parola": "Calendario",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 792,
-        "parola": "Clessidra",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 793,
-        "parola": "Cronometro",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 794,
-        "parola": "Agenda",
-        "categoria": "Ufficio"
-    },
-    {
-        "id": 795,
-        "parola": "Sveglia",
-        "categoria": "Casa"
-    },
-    {
-        "id": 796,
-        "parola": "Minuto",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 797,
-        "parola": "Secondo",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 798,
-        "parola": "Anno",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 799,
-        "parola": "Secolo",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 800,
-        "parola": "Millennio",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 801,
-        "parola": "Marte",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 802,
-        "parola": "Giove",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 803,
-        "parola": "Saturno",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 804,
-        "parola": "Venere",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 805,
-        "parola": "Mercurio",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 806,
-        "parola": "Eclissi",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 807,
-        "parola": "Buco Nero",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 808,
-        "parola": "Asteroide",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 809,
-        "parola": "Tuta Spaziale",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 810,
-        "parola": "Satellite",
-        "categoria": "Astronomia"
-    },
-    {
-        "id": 811,
-        "parola": "Conchiglia",
-        "categoria": "Mare"
-    },
-    {
-        "id": 812,
-        "parola": "Granchio",
-        "categoria": "Mare"
-    },
-    {
-        "id": 813,
-        "parola": "Stella Marina",
-        "categoria": "Mare"
-    },
-    {
-        "id": 814,
-        "parola": "Medusa",
-        "categoria": "Mare"
-    },
-    {
-        "id": 815,
-        "parola": "Polpo",
-        "categoria": "Mare"
-    },
-    {
-        "id": 816,
-        "parola": "Calamaro",
-        "categoria": "Mare"
-    },
-    {
-        "id": 817,
-        "parola": "Gabbiano",
-        "categoria": "Mare"
-    },
-    {
-        "id": 818,
-        "parola": "Ancora",
-        "categoria": "Mare"
-    },
-    {
-        "id": 819,
-        "parola": "Salvagente",
-        "categoria": "Mare"
-    },
-    {
-        "id": 820,
-        "parola": "Pinne",
-        "categoria": "Mare"
-    },
-    {
-        "id": 821,
-        "parola": "Cotton fioc",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 822,
-        "parola": "Filo interdentale",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 823,
-        "parola": "Collutorio",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 824,
-        "parola": "Crema solare",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 825,
-        "parola": "Bagnoschiuma",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 826,
-        "parola": "Spugna",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 827,
-        "parola": "Borotalco",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 828,
-        "parola": "Fazzoletto",
-        "categoria": "Igiene"
-    },
-    {
-        "id": 829,
-        "parola": "Carta assorbente",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 830,
-        "parola": "Stuzzicadenti",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 831,
-        "parola": "Escavatore",
-        "categoria": "Mezzi"
-    },
-    {
-        "id": 832,
-        "parola": "Gru",
-        "categoria": "Mezzi"
-    },
-    {
-        "id": 833,
-        "parola": "Betoniera",
-        "categoria": "Mezzi"
-    },
-    {
-        "id": 834,
-        "parola": "Autopompa",
-        "categoria": "Mezzi"
-    },
-    {
-        "id": 835,
-        "parola": "Volante",
-        "categoria": "Auto"
-    },
-    {
-        "id": 836,
-        "parola": "Freno",
-        "categoria": "Auto"
-    },
-    {
-        "id": 837,
-        "parola": "Frizione",
-        "categoria": "Auto"
-    },
-    {
-        "id": 838,
-        "parola": "Cambio",
-        "categoria": "Auto"
-    },
-    {
-        "id": 839,
-        "parola": "Motore",
-        "categoria": "Auto"
-    },
-    {
-        "id": 840,
-        "parola": "Ruota di scorta",
-        "categoria": "Auto"
-    },
-    {
-        "id": 841,
-        "parola": "Chitarra Elettrica",
-        "categoria": "Musica"
-    },
-    {
-        "id": 842,
-        "parola": "Basso",
-        "categoria": "Musica"
-    },
-    {
-        "id": 843,
-        "parola": "Ukulele",
-        "categoria": "Musica"
-    },
-    {
-        "id": 844,
-        "parola": "Maracas",
-        "categoria": "Musica"
-    },
-    {
-        "id": 845,
-        "parola": "Triangolo",
-        "categoria": "Musica"
-    },
-    {
-        "id": 846,
-        "parola": "Xilofono",
-        "categoria": "Musica"
-    },
-    {
-        "id": 847,
-        "parola": "Organo",
-        "categoria": "Musica"
-    },
-    {
-        "id": 848,
-        "parola": "Violoncello",
-        "categoria": "Musica"
-    },
-    {
-        "id": 849,
-        "parola": "Armonica",
-        "categoria": "Musica"
-    },
-    {
-        "id": 850,
-        "parola": "Piffero",
-        "categoria": "Musica"
-    },
-    {
-        "id": 851,
-        "parola": "Amore",
-        "categoria": "Emozioni"
-    },
-    {
-        "id": 852,
-        "parola": "Odio",
-        "categoria": "Emozioni"
-    },
-    {
-        "id": 853,
-        "parola": "Paura",
-        "categoria": "Emozioni"
-    },
-    {
-        "id": 854,
-        "parola": "Rabbia",
-        "categoria": "Emozioni"
-    },
-    {
-        "id": 855,
-        "parola": "Gioia",
-        "categoria": "Emozioni"
-    },
-    {
-        "id": 856,
-        "parola": "Noia",
-        "categoria": "Emozioni"
-    },
-    {
-        "id": 857,
-        "parola": "Sogno",
-        "categoria": "Astratto"
-    },
-    {
-        "id": 858,
-        "parola": "Incubo",
-        "categoria": "Astratto"
-    },
-    {
-        "id": 859,
-        "parola": "Bugia",
-        "categoria": "Astratto"
-    },
-    {
-        "id": 860,
-        "parola": "Segreto",
-        "categoria": "Astratto"
-    },
-    {
-        "id": 861,
-        "parola": "Bacio",
-        "categoria": "Azioni"
-    },
-    {
-        "id": 862,
-        "parola": "Abbraccio",
-        "categoria": "Azioni"
-    },
-    {
-        "id": 863,
-        "parola": "Schiaffo",
-        "categoria": "Azioni"
-    },
-    {
-        "id": 864,
-        "parola": "Sorriso",
-        "categoria": "Azioni"
-    },
-    {
-        "id": 865,
-        "parola": "Pianto",
-        "categoria": "Azioni"
-    },
-    {
-        "id": 866,
-        "parola": "Saluto",
-        "categoria": "Azioni"
-    },
-    {
-        "id": 867,
-        "parola": "Applauso",
-        "categoria": "Azioni"
-    },
-    {
-        "id": 868,
-        "parola": "Urlo",
-        "categoria": "Azioni"
-    },
-    {
-        "id": 869,
-        "parola": "Starnuto",
-        "categoria": "Azioni"
-    },
-    {
-        "id": 870,
-        "parola": "Sbadiglio",
-        "categoria": "Azioni"
-    },
-    {
-        "id": 871,
-        "parola": "Alba",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 872,
-        "parola": "Tramonto",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 873,
-        "parola": "Mezzogiorno",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 874,
-        "parola": "Mezzanotte",
-        "categoria": "Tempo"
-    },
-    {
-        "id": 875,
-        "parola": "Orizzonte",
-        "categoria": "Natura"
-    },
-    {
-        "id": 876,
-        "parola": "Eco",
-        "categoria": "Natura"
-    },
-    {
-        "id": 877,
-        "parola": "Ombra",
-        "categoria": "Natura"
-    },
-    {
-        "id": 878,
-        "parola": "Rugiada",
-        "categoria": "Natura"
-    },
-    {
-        "id": 879,
-        "parola": "Fulmine",
-        "categoria": "Meteo"
-    },
-    {
-        "id": 880,
-        "parola": "Arcobaleno",
-        "categoria": "Meteo"
-    },
-    {
-        "id": 881,
-        "parola": "Unicorno",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 882,
-        "parola": "Centauro",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 883,
-        "parola": "Fenice",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 884,
-        "parola": "Minotauro",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 885,
-        "parola": "Ciclope",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 886,
-        "parola": "Pozione",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 887,
-        "parola": "Calderone",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 888,
-        "parola": "Mantello",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 889,
-        "parola": "Scettro",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 890,
-        "parola": "Bacchetta Magica",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 891,
-        "parola": "Bottone",
-        "categoria": "Sartoria"
-    },
-    {
-        "id": 892,
-        "parola": "Cerniera",
-        "categoria": "Sartoria"
-    },
-    {
-        "id": 893,
-        "parola": "Tasca",
-        "categoria": "Sartoria"
-    },
-    {
-        "id": 894,
-        "parola": "Manica",
-        "categoria": "Sartoria"
-    },
-    {
-        "id": 895,
-        "parola": "Colletto",
-        "categoria": "Sartoria"
-    },
-    {
-        "id": 896,
-        "parola": "Tacco",
-        "categoria": "Calzature"
-    },
-    {
-        "id": 897,
-        "parola": "Suola",
-        "categoria": "Calzature"
-    },
-    {
-        "id": 898,
-        "parola": "Laccio",
-        "categoria": "Calzature"
-    },
-    {
-        "id": 899,
-        "parola": "Fibbia",
-        "categoria": "Accessori"
-    },
-    {
-        "id": 900,
-        "parola": "Spilla da balia",
-        "categoria": "Accessori"
-    },
-    {
-        "id": 901,
-        "parola": "Velluto",
-        "categoria": "Tessuti"
-    },
-    {
-        "id": 902,
-        "parola": "Jeans",
-        "categoria": "Tessuti"
-    },
-    {
-        "id": 903,
-        "parola": "Cuoio",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 904,
-        "parola": "Cartone",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 905,
-        "parola": "Vetro",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 906,
-        "parola": "Ceramica",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 907,
-        "parola": "Acciaio",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 908,
-        "parola": "Cemento",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 909,
-        "parola": "Mattone",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 910,
-        "parola": "Gesso",
-        "categoria": "Materiali"
-    },
-    {
-        "id": 911,
-        "parola": "Selfie",
-        "categoria": "Internet"
-    },
-    {
-        "id": 912,
-        "parola": "Chat",
-        "categoria": "Internet"
-    },
-    {
-        "id": 913,
-        "parola": "Virus",
-        "categoria": "Informatica"
-    },
-    {
-        "id": 914,
-        "parola": "Link",
-        "categoria": "Internet"
-    },
-    {
-        "id": 915,
-        "parola": "Antivirus",
-        "categoria": "Informatica"
-    },
-    {
-        "id": 916,
-        "parola": "Social",
-        "categoria": "Internet"
-    },
-    {
-        "id": 917,
-        "parola": "Like",
-        "categoria": "Internet"
-    },
-    {
-        "id": 918,
-        "parola": "Influencer",
-        "categoria": "Internet"
-    },
-    {
-        "id": 919,
-        "parola": "Hacker",
-        "categoria": "Informatica"
-    },
-    {
-        "id": 920,
-        "parola": "Emoji",
-        "categoria": "Internet"
-    },
-    {
-        "id": 921,
-        "parola": "Pelapatate",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 922,
-        "parola": "Schiaccianoci",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 923,
-        "parola": "Imbuto",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 924,
-        "parola": "Vassoio",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 925,
-        "parola": "Thermos",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 926,
-        "parola": "Fiaschetta",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 927,
-        "parola": "Tappo",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 928,
-        "parola": "Etichetta",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 929,
-        "parola": "Lattina",
-        "categoria": "Cucina"
-    },
-    {
-        "id": 930,
-        "parola": "Scatola",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 931,
-        "parola": "Pilates",
-        "categoria": "Sport"
-    },
-    {
-        "id": 932,
-        "parola": "Sauna",
-        "categoria": "Wellness"
-    },
-    {
-        "id": 933,
-        "parola": "Massaggio",
-        "categoria": "Wellness"
-    },
-    {
-        "id": 934,
-        "parola": "Tapis Roulant",
-        "categoria": "Palestra"
-    },
-    {
-        "id": 935,
-        "parola": "Pesi",
-        "categoria": "Palestra"
-    },
-    {
-        "id": 936,
-        "parola": "Arbitro",
-        "categoria": "Sport"
-    },
-    {
-        "id": 937,
-        "parola": "Fischietto",
-        "categoria": "Sport"
-    },
-    {
-        "id": 938,
-        "parola": "Cartellino",
-        "categoria": "Sport"
-    },
-    {
-        "id": 939,
-        "parola": "Coppa",
-        "categoria": "Sport"
-    },
-    {
-        "id": 940,
-        "parola": "Medaglia",
-        "categoria": "Sport"
-    },
-    {
-        "id": 941,
-        "parola": "Lontra",
-        "categoria": "Animali"
-    },
-    {
-        "id": 942,
-        "parola": "Castoro",
-        "categoria": "Animali"
-    },
-    {
-        "id": 943,
-        "parola": "Procione",
-        "categoria": "Animali"
-    },
-    {
-        "id": 944,
-        "parola": "Puzzola",
-        "categoria": "Animali"
-    },
-    {
-        "id": 945,
-        "parola": "Istrice",
-        "categoria": "Animali"
-    },
-    {
-        "id": 946,
-        "parola": "Armadillo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 947,
-        "parola": "Bradipo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 948,
-        "parola": "Lemure",
-        "categoria": "Animali"
-    },
-    {
-        "id": 949,
-        "parola": "Suricato",
-        "categoria": "Animali"
-    },
-    {
-        "id": 950,
-        "parola": "Formichiere",
-        "categoria": "Animali"
-    },
-    {
-        "id": 951,
-        "parola": "Allenatore",
-        "categoria": "Sport"
-    },
-    {
-        "id": 952,
-        "parola": "Spogliatoio",
-        "categoria": "Sport"
-    },
-    {
-        "id": 953,
-        "parola": "Cyclette",
-        "categoria": "Palestra"
-    },
-    {
-        "id": 954,
-        "parola": "Borraccia",
-        "categoria": "Sport"
-    },
-    {
-        "id": 955,
-        "parola": "Armadietto",
-        "categoria": "Palestra"
-    },
-    {
-        "id": 956,
-        "parola": "Tela",
-        "categoria": "Arte"
-    },
-    {
-        "id": 957,
-        "parola": "Pennello",
-        "categoria": "Arte"
-    },
-    {
-        "id": 958,
-        "parola": "Scultura",
-        "categoria": "Arte"
-    },
-    {
-        "id": 959,
-        "parola": "Mostra",
-        "categoria": "Arte"
-    },
-    {
-        "id": 960,
-        "parola": "Biglietteria",
-        "categoria": "Luoghi"
-    },
-    {
-        "id": 961,
-        "parola": "Tombino",
-        "categoria": "Città"
-    },
-    {
-        "id": 962,
-        "parola": "Lampione",
-        "categoria": "Città"
-    },
-    {
-        "id": 963,
-        "parola": "Strisce Pedonali",
-        "categoria": "Città"
-    },
-    {
-        "id": 964,
-        "parola": "Rotonda",
-        "categoria": "Città"
-    },
-    {
-        "id": 965,
-        "parola": "Vicolo",
-        "categoria": "Città"
-    },
-    {
-        "id": 966,
-        "parola": "Salvadanaio",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 967,
-        "parola": "Portachiavi",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 968,
-        "parola": "Posacenere",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 969,
-        "parola": "Candelabro",
-        "categoria": "Oggetti"
-    },
-    {
-        "id": 970,
-        "parola": "Annaffiatoio",
-        "categoria": "Giardinaggio"
-    },
-    {
-        "id": 971,
-        "parola": "Cigno",
-        "categoria": "Animali"
-    },
-    {
-        "id": 972,
-        "parola": "Pavone",
-        "categoria": "Animali"
-    },
-    {
-        "id": 973,
-        "parola": "Pappagallo",
-        "categoria": "Animali"
-    },
-    {
-        "id": 974,
-        "parola": "Pellicano",
-        "categoria": "Animali"
-    },
-    {
-        "id": 975,
-        "parola": "Fenicottero",
-        "categoria": "Animali"
-    },
-    {
-        "id": 976,
-        "parola": "Popcorn",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 977,
-        "parola": "Nachos",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 978,
-        "parola": "Hot Dog",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 979,
-        "parola": "Piadina",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 980,
-        "parola": "Tramezzino",
-        "categoria": "Cibo"
-    },
-    {
-        "id": 981,
-        "parola": "Clown",
-        "categoria": "Circo"
-    },
-    {
-        "id": 982,
-        "parola": "Acrobata",
-        "categoria": "Circo"
-    },
-    {
-        "id": 983,
-        "parola": "Domatore",
-        "categoria": "Circo"
-    },
-    {
-        "id": 984,
-        "parola": "Giocoliere",
-        "categoria": "Circo"
-    },
-    {
-        "id": 985,
-        "parola": "Mimo",
-        "categoria": "Circo"
-    },
-    {
-        "id": 986,
-        "parola": "Lupo Mannaro",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 987,
-        "parola": "Teschio",
-        "categoria": "Horror"
-    },
-    {
-        "id": 988,
-        "parola": "Spirito",
-        "categoria": "Horror"
-    },
-    {
-        "id": 989,
-        "parola": "Incantesimo",
-        "categoria": "Fantasia"
-    },
-    {
-        "id": 990,
-        "parola": "Torre",
-        "categoria": "Fiabe"
-    },
-    {
-        "id": 991,
-        "parola": "Galleria",
-        "categoria": "Strada"
-    },
-    {
-        "id": 992,
-        "parola": "Autostrada",
-        "categoria": "Strada"
-    },
-    {
-        "id": 993,
-        "parola": "Casello",
-        "categoria": "Strada"
-    },
-    {
-        "id": 994,
-        "parola": "Autogrill",
-        "categoria": "Viaggio"
-    },
-    {
-        "id": 995,
-        "parola": "Traguardo",
-        "categoria": "Sport"
-    },
-    {
-        "id": 996,
-        "parola": "Inizio",
-        "categoria": "Concetti"
-    },
-    {
-        "id": 997,
-        "parola": "Fine",
-        "categoria": "Concetti"
-    },
-    {
-        "id": 998,
-        "parola": "Vittoria",
-        "categoria": "Concetti"
-    },
-    {
-        "id": 999,
-        "parola": "Sconfitta",
-        "categoria": "Concetti"
-    },
-    {
-        "id": 1000,
-        "parola": "Impostore",
-        "categoria": "Gioco"
-    }
-]
+[{
+  "id": 1,
+  "parola": "Aereo",
+  "categoria": "Trasporti",
+  "indizio": "Volare"
+}, {
+  "id": 2,
+  "parola": "Banca",
+  "categoria": "Luoghi",
+  "indizio": "Soldi"
+}, {
+  "id": 3,
+  "parola": "Pizza",
+  "categoria": "Cibo",
+  "indizio": "Tonda"
+}, {
+  "id": 4,
+  "parola": "Chitarra",
+  "categoria": "Strumenti",
+  "indizio": "Corde"
+}, {
+  "id": 5,
+  "parola": "Dottore",
+  "categoria": "Professioni",
+  "indizio": "Curare"
+}, {
+  "id": 6,
+  "parola": "Leone",
+  "categoria": "Animali",
+  "indizio": "Savana"
+}, {
+  "id": 7,
+  "parola": "Spiaggia",
+  "categoria": "Luoghi",
+  "indizio": "Sabbia"
+}, {
+  "id": 8,
+  "parola": "Calcio",
+  "categoria": "Sport",
+  "indizio": "Gol"
+}, {
+  "id": 9,
+  "parola": "Computer",
+  "categoria": "Tecnologia",
+  "indizio": "Schermo"
+}, {
+  "id": 10,
+  "parola": "Cioccolato",
+  "categoria": "Cibo",
+  "indizio": "Dolce"
+}, {
+  "id": 11,
+  "parola": "Pompierre",
+  "categoria": "Professioni",
+  "indizio": "Fuoco"
+}, {
+  "id": 12,
+  "parola": "Biblioteca",
+  "categoria": "Luoghi",
+  "indizio": "Silenzio"
+}, {
+  "id": 13,
+  "parola": "Cane",
+  "categoria": "Animali",
+  "indizio": "Fedele"
+}, {
+  "id": 14,
+  "parola": "Treno",
+  "categoria": "Trasporti",
+  "indizio": "Binari"
+}, {
+  "id": 15,
+  "parola": "Occhiali",
+  "categoria": "Oggetti",
+  "indizio": "Vista"
+}, {
+  "id": 16,
+  "parola": "Matrimonio",
+  "categoria": "Eventi",
+  "indizio": "Anelli"
+}, {
+  "id": 17,
+  "parola": "Sushi",
+  "categoria": "Cibo",
+  "indizio": "Giappone"
+}, {
+  "id": 18,
+  "parola": "Montagna",
+  "categoria": "Luoghi",
+  "indizio": "Neve"
+}, {
+  "id": 19,
+  "parola": "Poliziotto",
+  "categoria": "Professioni",
+  "indizio": "Divisa"
+}, {
+  "id": 20,
+  "parola": "Orologio",
+  "categoria": "Oggetti",
+  "indizio": "Tempo"
+}, {
+  "id": 21,
+  "parola": "Vino",
+  "categoria": "Bevande",
+  "indizio": "Uva"
+}, {
+  "id": 22,
+  "parola": "Cinema",
+  "categoria": "Luoghi",
+  "indizio": "Film"
+}, {
+  "id": 23,
+  "parola": "Gatto",
+  "categoria": "Animali",
+  "indizio": "Graffiare"
+}, {
+  "id": 24,
+  "parola": "Bicicletta",
+  "categoria": "Trasporti",
+  "indizio": "Pedalare"
+}, {
+  "id": 25,
+  "parola": "Insegnante",
+  "categoria": "Professioni",
+  "indizio": "Scuola"
+}, {
+  "id": 26,
+  "parola": "Gelato",
+  "categoria": "Cibo",
+  "indizio": "Freddo"
+}, {
+  "id": 27,
+  "parola": "Ospedale",
+  "categoria": "Luoghi",
+  "indizio": "Malattia"
+}, {
+  "id": 28,
+  "parola": "Scarpe",
+  "categoria": "Abbigliamento",
+  "indizio": "Camminare"
+}, {
+  "id": 29,
+  "parola": "Pianoforte",
+  "categoria": "Strumenti",
+  "indizio": "Tasti"
+}, {
+  "id": 30,
+  "parola": "Natale",
+  "categoria": "Feste",
+  "indizio": "Regali"
+}, {
+  "id": 31,
+  "parola": "Sole",
+  "categoria": "Natura",
+  "indizio": "Caldo"
+}, {
+  "id": 32,
+  "parola": "Libro",
+  "categoria": "Oggetti",
+  "indizio": "Leggere"
+}, {
+  "id": 33,
+  "parola": "Avvocato",
+  "categoria": "Professioni",
+  "indizio": "Legge"
+}, {
+  "id": 34,
+  "parola": "Pasta",
+  "categoria": "Cibo",
+  "indizio": "Italia"
+}, {
+  "id": 35,
+  "parola": "Palestra",
+  "categoria": "Luoghi",
+  "indizio": "Muscoli"
+}, {
+  "id": 36,
+  "parola": "Telefono",
+  "categoria": "Tecnologia",
+  "indizio": "Chiamare"
+}, {
+  "id": 37,
+  "parola": "Letto",
+  "categoria": "Arredamento",
+  "indizio": "Dormire"
+}, {
+  "id": 38,
+  "parola": "Aeroporto",
+  "categoria": "Luoghi",
+  "indizio": "Viaggio"
+}, {
+  "id": 39,
+  "parola": "Ballerina",
+  "categoria": "Professioni",
+  "indizio": "Danza"
+}, {
+  "id": 40,
+  "parola": "Acqua",
+  "categoria": "Elementi",
+  "indizio": "Sete"
+}, {
+  "id": 41,
+  "parola": "Mela",
+  "categoria": "Frutta",
+  "indizio": "Rossa"
+}, {
+  "id": 42,
+  "parola": "Squalo",
+  "categoria": "Animali",
+  "indizio": "Mare"
+}, {
+  "id": 43,
+  "parola": "Discoteca",
+  "categoria": "Luoghi",
+  "indizio": "Musica"
+}, {
+  "id": 44,
+  "parola": "Cuoco",
+  "categoria": "Professioni",
+  "indizio": "Cucina"
+}, {
+  "id": 45,
+  "parola": "Caffè",
+  "categoria": "Bevande",
+  "indizio": "Sveglia"
+}, {
+  "id": 46,
+  "parola": "Ombrello",
+  "categoria": "Oggetti",
+  "indizio": "Pioggia"
+}, {
+  "id": 47,
+  "parola": "Teatro",
+  "categoria": "Luoghi",
+  "indizio": "Palco"
+}, {
+  "id": 48,
+  "parola": "Fotocamera",
+  "categoria": "Tecnologia",
+  "indizio": "Scatto"
+}, {
+  "id": 49,
+  "parola": "Astronauta",
+  "categoria": "Professioni",
+  "indizio": "Spazio"
+}, {
+  "id": 50,
+  "parola": "Deserto",
+  "categoria": "Luoghi",
+  "indizio": "Sabbia"
+}, {
+  "id": 51,
+  "parola": "Tavolo",
+  "categoria": "Arredamento",
+  "indizio": "Legno"
+}, {
+  "id": 52,
+  "parola": "Finestra",
+  "categoria": "Arredamento",
+  "indizio": "Vetro"
+}, {
+  "id": 53,
+  "parola": "Chiave",
+  "categoria": "Oggetti",
+  "indizio": "Aprire"
+}, {
+  "id": 54,
+  "parola": "Automobile",
+  "categoria": "Trasporti",
+  "indizio": "Motore"
+}, {
+  "id": 55,
+  "parola": "Giardino",
+  "categoria": "Luoghi",
+  "indizio": "Fiori"
+}, {
+  "id": 56,
+  "parola": "Ristorante",
+  "categoria": "Luoghi",
+  "indizio": "Menu"
+}, {
+  "id": 57,
+  "parola": "Farmacia",
+  "categoria": "Luoghi",
+  "indizio": "Medicine"
+}, {
+  "id": 58,
+  "parola": "Stadio",
+  "categoria": "Luoghi",
+  "indizio": "Tifosi"
+}, {
+  "id": 59,
+  "parola": "Museo",
+  "categoria": "Luoghi",
+  "indizio": "Arte"
+}, {
+  "id": 60,
+  "parola": "Zoo",
+  "categoria": "Luoghi",
+  "indizio": "Gabbie"
+}, {
+  "id": 61,
+  "parola": "Elefante",
+  "categoria": "Animali",
+  "indizio": "Proboscide"
+}, {
+  "id": 62,
+  "parola": "Giraffa",
+  "categoria": "Animali",
+  "indizio": "Collo"
+}, {
+  "id": 63,
+  "parola": "Uccello",
+  "categoria": "Animali",
+  "indizio": "Ali"
+}, {
+  "id": 64,
+  "parola": "Serpente",
+  "categoria": "Animali",
+  "indizio": "Strisciare"
+}, {
+  "id": 65,
+  "parola": "Pesce",
+  "categoria": "Animali",
+  "indizio": "Nuotare"
+}, {
+  "id": 66,
+  "parola": "Pane",
+  "categoria": "Cibo",
+  "indizio": "Farina"
+}, {
+  "id": 67,
+  "parola": "Latte",
+  "categoria": "Bevande",
+  "indizio": "Bianco"
+}, {
+  "id": 68,
+  "parola": "Uovo",
+  "categoria": "Cibo",
+  "indizio": "Guscio"
+}, {
+  "id": 69,
+  "parola": "Arancia",
+  "categoria": "Frutta",
+  "indizio": "Spremuta"
+}, {
+  "id": 70,
+  "parola": "Torta",
+  "categoria": "Cibo",
+  "indizio": "Compleanno"
+}, {
+  "id": 71,
+  "parola": "Pilota",
+  "categoria": "Professioni",
+  "indizio": "Volare"
+}, {
+  "id": 72,
+  "parola": "Giudice",
+  "categoria": "Professioni",
+  "indizio": "Martello"
+}, {
+  "id": 73,
+  "parola": "Pittore",
+  "categoria": "Professioni",
+  "indizio": "Colori"
+}, {
+  "id": 74,
+  "parola": "Barbiere",
+  "categoria": "Professioni",
+  "indizio": "Tagliare"
+}, {
+  "id": 75,
+  "parola": "Contadino",
+  "categoria": "Professioni",
+  "indizio": "Terra"
+}, {
+  "id": 76,
+  "parola": "Luna",
+  "categoria": "Astronomia",
+  "indizio": "Notte"
+}, {
+  "id": 77,
+  "parola": "Nuvola",
+  "categoria": "Meteo",
+  "indizio": "Cielo"
+}, {
+  "id": 78,
+  "parola": "Bosco",
+  "categoria": "Natura",
+  "indizio": "Alberi"
+}, {
+  "id": 79,
+  "parola": "Fiume",
+  "categoria": "Natura",
+  "indizio": "Acqua"
+}, {
+  "id": 80,
+  "parola": "Vulcano",
+  "categoria": "Natura",
+  "indizio": "Lava"
+}, {
+  "id": 81,
+  "parola": "Specchio",
+  "categoria": "Oggetti",
+  "indizio": "Riflesso"
+}, {
+  "id": 82,
+  "parola": "Divano",
+  "categoria": "Arredamento",
+  "indizio": "Sedersi"
+}, {
+  "id": 83,
+  "parola": "Frigorifero",
+  "categoria": "Elettrodomestici",
+  "indizio": "Freddo"
+}, {
+  "id": 84,
+  "parola": "Lavatrice",
+  "categoria": "Elettrodomestici",
+  "indizio": "Vestiti"
+}, {
+  "id": 85,
+  "parola": "Sapone",
+  "categoria": "Igiene",
+  "indizio": "Lavare"
+}, {
+  "id": 86,
+  "parola": "Asciugamano",
+  "categoria": "Igiene",
+  "indizio": "Asciugare"
+}, {
+  "id": 87,
+  "parola": "Cuscino",
+  "categoria": "Arredamento",
+  "indizio": "Dormire"
+}, {
+  "id": 88,
+  "parola": "Coltello",
+  "categoria": "Posate",
+  "indizio": "Tagliare"
+}, {
+  "id": 89,
+  "parola": "Forchetta",
+  "categoria": "Posate",
+  "indizio": "Infilzare"
+}, {
+  "id": 90,
+  "parola": "Bottiglia",
+  "categoria": "Oggetti",
+  "indizio": "Tappo"
+}, {
+  "id": 91,
+  "parola": "Maglietta",
+  "categoria": "Abbigliamento",
+  "indizio": "Maniche"
+}, {
+  "id": 92,
+  "parola": "Pantaloni",
+  "categoria": "Abbigliamento",
+  "indizio": "Gambe"
+}, {
+  "id": 93,
+  "parola": "Cappello",
+  "categoria": "Abbigliamento",
+  "indizio": "Testa"
+}, {
+  "id": 94,
+  "parola": "Guanti",
+  "categoria": "Abbigliamento",
+  "indizio": "Mani"
+}, {
+  "id": 95,
+  "parola": "Sciarpa",
+  "categoria": "Abbigliamento",
+  "indizio": "Inverno"
+}, {
+  "id": 96,
+  "parola": "Martello",
+  "categoria": "Attrezzi",
+  "indizio": "Chiodo"
+}, {
+  "id": 97,
+  "parola": "Cacciavite",
+  "categoria": "Attrezzi",
+  "indizio": "Vite"
+}, {
+  "id": 98,
+  "parola": "Tablet",
+  "categoria": "Tecnologia",
+  "indizio": "Touch"
+}, {
+  "id": 99,
+  "parola": "Mouse",
+  "categoria": "Tecnologia",
+  "indizio": "Clic"
+}, {
+  "id": 100,
+  "parola": "Radio",
+  "categoria": "Tecnologia",
+  "indizio": "Ascoltare"
+}, {
+  "id": 101,
+  "parola": "Basket",
+  "categoria": "Sport",
+  "indizio": "Canestro"
+}, {
+  "id": 102,
+  "parola": "Tennis",
+  "categoria": "Sport",
+  "indizio": "Racchetta"
+}, {
+  "id": 103,
+  "parola": "Nuoto",
+  "categoria": "Sport",
+  "indizio": "Piscina"
+}, {
+  "id": 104,
+  "parola": "Sci",
+  "categoria": "Sport",
+  "indizio": "Neve"
+}, {
+  "id": 105,
+  "parola": "Golf",
+  "categoria": "Sport",
+  "indizio": "Buca"
+}, {
+  "id": 106,
+  "parola": "Barca",
+  "categoria": "Trasporti",
+  "indizio": "Mare"
+}, {
+  "id": 107,
+  "parola": "Moto",
+  "categoria": "Trasporti",
+  "indizio": "Casco"
+}, {
+  "id": 108,
+  "parola": "Camion",
+  "categoria": "Trasporti",
+  "indizio": "Merce"
+}, {
+  "id": 109,
+  "parola": "Taxi",
+  "categoria": "Trasporti",
+  "indizio": "Tariffa"
+}, {
+  "id": 110,
+  "parola": "Autobus",
+  "categoria": "Trasporti",
+  "indizio": "Fermata"
+}, {
+  "id": 111,
+  "parola": "Ape",
+  "categoria": "Insetti",
+  "indizio": "Miele"
+}, {
+  "id": 112,
+  "parola": "Formica",
+  "categoria": "Insetti",
+  "indizio": "Lavoro"
+}, {
+  "id": 113,
+  "parola": "Zanzara",
+  "categoria": "Insetti",
+  "indizio": "Pungere"
+}, {
+  "id": 114,
+  "parola": "Ragno",
+  "categoria": "Insetti",
+  "indizio": "Rete"
+}, {
+  "id": 115,
+  "parola": "Farfalla",
+  "categoria": "Insetti",
+  "indizio": "Volo"
+}, {
+  "id": 116,
+  "parola": "Drago",
+  "categoria": "Fantasia",
+  "indizio": "Fuoco"
+}, {
+  "id": 117,
+  "parola": "Castello",
+  "categoria": "Luoghi",
+  "indizio": "Re"
+}, {
+  "id": 118,
+  "parola": "Pirata",
+  "categoria": "Personaggi",
+  "indizio": "Tesoro"
+}, {
+  "id": 119,
+  "parola": "Fantasma",
+  "categoria": "Fantasia",
+  "indizio": "Paura"
+}, {
+  "id": 120,
+  "parola": "Robot",
+  "categoria": "Tecnologia",
+  "indizio": "Metallo"
+}, {
+  "id": 121,
+  "parola": "Sigaretta",
+  "categoria": "Oggetti",
+  "indizio": "Fumo"
+}, {
+  "id": 122,
+  "parola": "Candela",
+  "categoria": "Oggetti",
+  "indizio": "Cera"
+}, {
+  "id": 123,
+  "parola": "Anello",
+  "categoria": "Gioielli",
+  "indizio": "Dito"
+}, {
+  "id": 124,
+  "parola": "Valigia",
+  "categoria": "Oggetti",
+  "indizio": "Viaggio"
+}, {
+  "id": 125,
+  "parola": "Lucchetto",
+  "categoria": "Oggetti",
+  "indizio": "Chiudere"
+}, {
+  "id": 126,
+  "parola": "Cuore",
+  "categoria": "Corpo Umano",
+  "indizio": "Battito"
+}, {
+  "id": 127,
+  "parola": "Cervello",
+  "categoria": "Corpo Umano",
+  "indizio": "Pensare"
+}, {
+  "id": 128,
+  "parola": "Denti",
+  "categoria": "Corpo Umano",
+  "indizio": "Masticare"
+}, {
+  "id": 129,
+  "parola": "Mano",
+  "categoria": "Corpo Umano",
+  "indizio": "Dita"
+}, {
+  "id": 130,
+  "parola": "Piede",
+  "categoria": "Corpo Umano",
+  "indizio": "Camminare"
+}, {
+  "id": 131,
+  "parola": "Penna",
+  "categoria": "Cancelleria",
+  "indizio": "Inchiostro"
+}, {
+  "id": 132,
+  "parola": "Matita",
+  "categoria": "Cancelleria",
+  "indizio": "Gomma"
+}, {
+  "id": 133,
+  "parola": "Quaderno",
+  "categoria": "Cancelleria",
+  "indizio": "Carta"
+}, {
+  "id": 134,
+  "parola": "Lavagna",
+  "categoria": "Scuola",
+  "indizio": "Gesso"
+}, {
+  "id": 135,
+  "parola": "Zaino",
+  "categoria": "Oggetti",
+  "indizio": "Spalle"
+}, {
+  "id": 136,
+  "parola": "Tuono",
+  "categoria": "Meteo",
+  "indizio": "Rumore"
+}, {
+  "id": 137,
+  "parola": "Ghiaccio",
+  "categoria": "Elementi",
+  "indizio": "Freddo"
+}, {
+  "id": 138,
+  "parola": "Vento",
+  "categoria": "Meteo",
+  "indizio": "Soffiare"
+}, {
+  "id": 139,
+  "parola": "Arcobaleno",
+  "categoria": "Meteo",
+  "indizio": "Colori"
+}, {
+  "id": 140,
+  "parola": "Stella",
+  "categoria": "Astronomia",
+  "indizio": "Luce"
+}, {
+  "id": 141,
+  "parola": "Formaggio",
+  "categoria": "Cibo",
+  "indizio": "Latte"
+}, {
+  "id": 142,
+  "parola": "Carne",
+  "categoria": "Cibo",
+  "indizio": "Rosso"
+}, {
+  "id": 143,
+  "parola": "Insalata",
+  "categoria": "Cibo",
+  "indizio": "Verde"
+}, {
+  "id": 144,
+  "parola": "Patatine",
+  "categoria": "Cibo",
+  "indizio": "Fritte"
+}, {
+  "id": 145,
+  "parola": "Zuppa",
+  "categoria": "Cibo",
+  "indizio": "Cucchiaio"
+}, {
+  "id": 146,
+  "parola": "Scrittore",
+  "categoria": "Professioni",
+  "indizio": "Libri"
+}, {
+  "id": 147,
+  "parola": "Cantante",
+  "categoria": "Professioni",
+  "indizio": "Microfono"
+}, {
+  "id": 148,
+  "parola": "Soldato",
+  "categoria": "Professioni",
+  "indizio": "Divisa"
+}, {
+  "id": 149,
+  "parola": "Cameriere",
+  "categoria": "Professioni",
+  "indizio": "Vassoio"
+}, {
+  "id": 150,
+  "parola": "Dentista",
+  "categoria": "Professioni",
+  "indizio": "Trapano"
+}, {
+  "id": 151,
+  "parola": "Tigre",
+  "categoria": "Animali",
+  "indizio": "Strisce"
+}, {
+  "id": 152,
+  "parola": "Orso",
+  "categoria": "Animali",
+  "indizio": "Miele"
+}, {
+  "id": 153,
+  "parola": "Lupo",
+  "categoria": "Animali",
+  "indizio": "Branco"
+}, {
+  "id": 154,
+  "parola": "Cavallo",
+  "categoria": "Animali",
+  "indizio": "Galoppo"
+}, {
+  "id": 155,
+  "parola": "Mucca",
+  "categoria": "Animali",
+  "indizio": "Latte"
+}, {
+  "id": 156,
+  "parola": "Pecora",
+  "categoria": "Animali",
+  "indizio": "Lana"
+}, {
+  "id": 157,
+  "parola": "Maiale",
+  "categoria": "Animali",
+  "indizio": "Fango"
+}, {
+  "id": 158,
+  "parola": "Pollo",
+  "categoria": "Animali",
+  "indizio": "Uova"
+}, {
+  "id": 159,
+  "parola": "Coniglio",
+  "categoria": "Animali",
+  "indizio": "Carote"
+}, {
+  "id": 160,
+  "parola": "Lampada",
+  "categoria": "Arredamento",
+  "indizio": "Luce"
+}, {
+  "id": 161,
+  "parola": "Tappeto",
+  "categoria": "Arredamento",
+  "indizio": "Pavimento"
+}, {
+  "id": 162,
+  "parola": "Sedia",
+  "categoria": "Arredamento",
+  "indizio": "Seduta"
+}, {
+  "id": 163,
+  "parola": "Armadio",
+  "categoria": "Arredamento",
+  "indizio": "Vestiti"
+}, {
+  "id": 164,
+  "parola": "Scopa",
+  "categoria": "Pulizia",
+  "indizio": "Spazzare"
+}, {
+  "id": 165,
+  "parola": "Secchio",
+  "categoria": "Pulizia",
+  "indizio": "Acqua"
+}, {
+  "id": 166,
+  "parola": "Riso",
+  "categoria": "Cibo",
+  "indizio": "Chicchi"
+}, {
+  "id": 167,
+  "parola": "Pesca",
+  "categoria": "Frutta",
+  "indizio": "Nocciolo"
+}, {
+  "id": 168,
+  "parola": "Pera",
+  "categoria": "Frutta",
+  "indizio": "Verde"
+}, {
+  "id": 169,
+  "parola": "Banana",
+  "categoria": "Frutta",
+  "indizio": "Gialla"
+}, {
+  "id": 170,
+  "parola": "Fragola",
+  "categoria": "Frutta",
+  "indizio": "Rossa"
+}, {
+  "id": 171,
+  "parola": "Limone",
+  "categoria": "Frutta",
+  "indizio": "Aspro"
+}, {
+  "id": 172,
+  "parola": "Zucchero",
+  "categoria": "Cibo",
+  "indizio": "Dolce"
+}, {
+  "id": 173,
+  "parola": "Sale",
+  "categoria": "Cibo",
+  "indizio": "Mare"
+}, {
+  "id": 174,
+  "parola": "Pepe",
+  "categoria": "Cibo",
+  "indizio": "Nero"
+}, {
+  "id": 175,
+  "parola": "Olio",
+  "categoria": "Cibo",
+  "indizio": "Ungere"
+}, {
+  "id": 176,
+  "parola": "Forbici",
+  "categoria": "Cancelleria",
+  "indizio": "Tagliare"
+}, {
+  "id": 177,
+  "parola": "Colla",
+  "categoria": "Cancelleria",
+  "indizio": "Attaccare"
+}, {
+  "id": 178,
+  "parola": "Nastro",
+  "categoria": "Cancelleria",
+  "indizio": "Adesivo"
+}, {
+  "id": 179,
+  "parola": "Righello",
+  "categoria": "Cancelleria",
+  "indizio": "Misurare"
+}, {
+  "id": 180,
+  "parola": "Calcolatrice",
+  "categoria": "Cancelleria",
+  "indizio": "Conti"
+}, {
+  "id": 181,
+  "parola": "Fiore",
+  "categoria": "Natura",
+  "indizio": "Profumo"
+}, {
+  "id": 182,
+  "parola": "Erba",
+  "categoria": "Natura",
+  "indizio": "Prato"
+}, {
+  "id": 183,
+  "parola": "Foglia",
+  "categoria": "Natura",
+  "indizio": "Albero"
+}, {
+  "id": 184,
+  "parola": "Radice",
+  "categoria": "Natura",
+  "indizio": "Terra"
+}, {
+  "id": 185,
+  "parola": "Sasso",
+  "categoria": "Natura",
+  "indizio": "Duro"
+}, {
+  "id": 186,
+  "parola": "Hotel",
+  "categoria": "Luoghi",
+  "indizio": "Camere"
+}, {
+  "id": 187,
+  "parola": "Ufficio",
+  "categoria": "Luoghi",
+  "indizio": "Lavoro"
+}, {
+  "id": 188,
+  "parola": "Mercato",
+  "categoria": "Luoghi",
+  "indizio": "Bancarelle"
+}, {
+  "id": 189,
+  "parola": "Ponte",
+  "categoria": "Luoghi",
+  "indizio": "Attraversare"
+}, {
+  "id": 190,
+  "parola": "Parco",
+  "categoria": "Luoghi",
+  "indizio": "Panchina"
+}, {
+  "id": 191,
+  "parola": "Elicottero",
+  "categoria": "Trasporti",
+  "indizio": "Elica"
+}, {
+  "id": 192,
+  "parola": "Nave",
+  "categoria": "Trasporti",
+  "indizio": "Mare"
+}, {
+  "id": 193,
+  "parola": "Metropolitana",
+  "categoria": "Trasporti",
+  "indizio": "Sotterranea"
+}, {
+  "id": 194,
+  "parola": "Razzo",
+  "categoria": "Trasporti",
+  "indizio": "Spazio"
+}, {
+  "id": 195,
+  "parola": "Sottomarino",
+  "categoria": "Trasporti",
+  "indizio": "Profondità"
+}, {
+  "id": 196,
+  "parola": "Calzini",
+  "categoria": "Abbigliamento",
+  "indizio": "Piedi"
+}, {
+  "id": 197,
+  "parola": "Gonna",
+  "categoria": "Abbigliamento",
+  "indizio": "Donna"
+}, {
+  "id": 198,
+  "parola": "Cappotto",
+  "categoria": "Abbigliamento",
+  "indizio": "Inverno"
+}, {
+  "id": 199,
+  "parola": "Giacca",
+  "categoria": "Abbigliamento",
+  "indizio": "Cerniera"
+}, {
+  "id": 200,
+  "parola": "Cintura",
+  "categoria": "Abbigliamento",
+  "indizio": "Vita"
+}, {
+  "id": 201,
+  "parola": "Cravatta",
+  "categoria": "Abbigliamento",
+  "indizio": "Collo"
+}, {
+  "id": 202,
+  "parola": "Violino",
+  "categoria": "Strumenti",
+  "indizio": "Archetto"
+}, {
+  "id": 203,
+  "parola": "Batteria",
+  "categoria": "Strumenti",
+  "indizio": "Bacchette"
+}, {
+  "id": 204,
+  "parola": "Tromba",
+  "categoria": "Strumenti",
+  "indizio": "Fiato"
+}, {
+  "id": 205,
+  "parola": "Flauto",
+  "categoria": "Strumenti",
+  "indizio": "Soffiare"
+}, {
+  "id": 206,
+  "parola": "Volley",
+  "categoria": "Sport",
+  "indizio": "Rete"
+}, {
+  "id": 207,
+  "parola": "Rugby",
+  "categoria": "Sport",
+  "indizio": "Mischia"
+}, {
+  "id": 208,
+  "parola": "Baseball",
+  "categoria": "Sport",
+  "indizio": "Mazza"
+}, {
+  "id": 209,
+  "parola": "Karate",
+  "categoria": "Sport",
+  "indizio": "Cintura"
+}, {
+  "id": 210,
+  "parola": "Boxe",
+  "categoria": "Sport",
+  "indizio": "Ring"
+}, {
+  "id": 211,
+  "parola": "Meccanico",
+  "categoria": "Professioni",
+  "indizio": "Officina"
+}, {
+  "id": 212,
+  "parola": "Elettricista",
+  "categoria": "Professioni",
+  "indizio": "Fili"
+}, {
+  "id": 213,
+  "parola": "Idraulico",
+  "categoria": "Professioni",
+  "indizio": "Tubi"
+}, {
+  "id": 214,
+  "parola": "Muratore",
+  "categoria": "Professioni",
+  "indizio": "Mattoni"
+}, {
+  "id": 215,
+  "parola": "Architetto",
+  "categoria": "Professioni",
+  "indizio": "Progetti"
+}, {
+  "id": 216,
+  "parola": "Pomodoro",
+  "categoria": "Cibo",
+  "indizio": "Rosso"
+}, {
+  "id": 217,
+  "parola": "Patata",
+  "categoria": "Cibo",
+  "indizio": "Tubero"
+}, {
+  "id": 218,
+  "parola": "Cipolla",
+  "categoria": "Cibo",
+  "indizio": "Lacrime"
+}, {
+  "id": 219,
+  "parola": "Aglio",
+  "categoria": "Cibo",
+  "indizio": "Spicchio"
+}, {
+  "id": 220,
+  "parola": "Carota",
+  "categoria": "Cibo",
+  "indizio": "Arancione"
+}, {
+  "id": 221,
+  "parola": "Pipistrello",
+  "categoria": "Animali",
+  "indizio": "Grotta"
+}, {
+  "id": 222,
+  "parola": "Delfino",
+  "categoria": "Animali",
+  "indizio": "Salti"
+}, {
+  "id": 223,
+  "parola": "Balena",
+  "categoria": "Animali",
+  "indizio": "Grande"
+}, {
+  "id": 224,
+  "parola": "Pinguino",
+  "categoria": "Animali",
+  "indizio": "Freddo"
+}, {
+  "id": 225,
+  "parola": "Canguro",
+  "categoria": "Animali",
+  "indizio": "Marsupio"
+}, {
+  "id": 226,
+  "parola": "Microscopio",
+  "categoria": "Scienza",
+  "indizio": "Piccolo"
+}, {
+  "id": 227,
+  "parola": "Telescopio",
+  "categoria": "Scienza",
+  "indizio": "Stelle"
+}, {
+  "id": 228,
+  "parola": "Bussola",
+  "categoria": "Strumenti",
+  "indizio": "Nord"
+}, {
+  "id": 229,
+  "parola": "Mappa",
+  "categoria": "Oggetti",
+  "indizio": "Orientarsi"
+}, {
+  "id": 230,
+  "parola": "Globo",
+  "categoria": "Oggetti",
+  "indizio": "Mondo"
+}, {
+  "id": 231,
+  "parola": "Moneta",
+  "categoria": "Soldi",
+  "indizio": "Metallo"
+}, {
+  "id": 232,
+  "parola": "Banconota",
+  "categoria": "Soldi",
+  "indizio": "Carta"
+}, {
+  "id": 233,
+  "parola": "Portafoglio",
+  "categoria": "Oggetti",
+  "indizio": "Soldi"
+}, {
+  "id": 234,
+  "parola": "Borsa",
+  "categoria": "Accessori",
+  "indizio": "Donne"
+}, {
+  "id": 235,
+  "parola": "Occhio",
+  "categoria": "Corpo Umano",
+  "indizio": "Vedere"
+}, {
+  "id": 236,
+  "parola": "Naso",
+  "categoria": "Corpo Umano",
+  "indizio": "Odore"
+}, {
+  "id": 237,
+  "parola": "Bocca",
+  "categoria": "Corpo Umano",
+  "indizio": "Parlare"
+}, {
+  "id": 238,
+  "parola": "Orecchio",
+  "categoria": "Corpo Umano",
+  "indizio": "Suoni"
+}, {
+  "id": 239,
+  "parola": "Capelli",
+  "categoria": "Corpo Umano",
+  "indizio": "Testa"
+}, {
+  "id": 240,
+  "parola": "Scheletro",
+  "categoria": "Corpo Umano",
+  "indizio": "Ossa"
+}, {
+  "id": 241,
+  "parola": "Fantasma",
+  "categoria": "Halloween",
+  "indizio": "Lenzuolo"
+}, {
+  "id": 242,
+  "parola": "Zucca",
+  "categoria": "Halloween",
+  "indizio": "Arancione"
+}, {
+  "id": 243,
+  "parola": "Strega",
+  "categoria": "Halloween",
+  "indizio": "Scopa"
+}, {
+  "id": 244,
+  "parola": "Vampiro",
+  "categoria": "Halloween",
+  "indizio": "Sangue"
+}, {
+  "id": 245,
+  "parola": "Zombie",
+  "categoria": "Halloween",
+  "indizio": "Morto"
+}, {
+  "id": 246,
+  "parola": "Corona",
+  "categoria": "Oggetti",
+  "indizio": "Re"
+}, {
+  "id": 247,
+  "parola": "Trono",
+  "categoria": "Oggetti",
+  "indizio": "Seduta"
+}, {
+  "id": 248,
+  "parola": "Spada",
+  "categoria": "Armi",
+  "indizio": "Lama"
+}, {
+  "id": 249,
+  "parola": "Scudo",
+  "categoria": "Armi",
+  "indizio": "Difesa"
+}, {
+  "id": 250,
+  "parola": "Bandiera",
+  "categoria": "Simboli",
+  "indizio": "Nazione"
+}, {
+  "id": 251,
+  "parola": "Doccia",
+  "categoria": "Bagno",
+  "indizio": "Acqua"
+}, {
+  "id": 252,
+  "parola": "Vasca",
+  "categoria": "Bagno",
+  "indizio": "Schiuma"
+}, {
+  "id": 253,
+  "parola": "Gabinetto",
+  "categoria": "Bagno",
+  "indizio": "Seduta"
+}, {
+  "id": 254,
+  "parola": "Lavandino",
+  "categoria": "Bagno",
+  "indizio": "Mani"
+}, {
+  "id": 255,
+  "parola": "Dentifricio",
+  "categoria": "Igiene",
+  "indizio": "Tubetto"
+}, {
+  "id": 256,
+  "parola": "Spazzolino",
+  "categoria": "Igiene",
+  "indizio": "Setole"
+}, {
+  "id": 257,
+  "parola": "Shampoo",
+  "categoria": "Igiene",
+  "indizio": "Schiuma"
+}, {
+  "id": 258,
+  "parola": "Pettine",
+  "categoria": "Igiene",
+  "indizio": "Denti"
+}, {
+  "id": 259,
+  "parola": "Phon",
+  "categoria": "Igiene",
+  "indizio": "Aria"
+}, {
+  "id": 260,
+  "parola": "Carta Igienica",
+  "categoria": "Igiene",
+  "indizio": "Rotolo"
+}, {
+  "id": 261,
+  "parola": "Balcone",
+  "categoria": "Casa",
+  "indizio": "Affacciarsi"
+}, {
+  "id": 262,
+  "parola": "Tetto",
+  "categoria": "Casa",
+  "indizio": "Tegole"
+}, {
+  "id": 263,
+  "parola": "Cantina",
+  "categoria": "Casa",
+  "indizio": "Sotto"
+}, {
+  "id": 264,
+  "parola": "Soffitta",
+  "categoria": "Casa",
+  "indizio": "Polvere"
+}, {
+  "id": 265,
+  "parola": "Scale",
+  "categoria": "Casa",
+  "indizio": "Salire"
+}, {
+  "id": 266,
+  "parola": "Ascensore",
+  "categoria": "Casa",
+  "indizio": "Bottoni"
+}, {
+  "id": 267,
+  "parola": "Garage",
+  "categoria": "Casa",
+  "indizio": "Auto"
+}, {
+  "id": 268,
+  "parola": "Cancello",
+  "categoria": "Casa",
+  "indizio": "Entrata"
+}, {
+  "id": 269,
+  "parola": "Citofono",
+  "categoria": "Casa",
+  "indizio": "Suonare"
+}, {
+  "id": 270,
+  "parola": "Posta",
+  "categoria": "Servizi",
+  "indizio": "Cassetta"
+}, {
+  "id": 271,
+  "parola": "Francobollo",
+  "categoria": "Oggetti",
+  "indizio": "Angolo"
+}, {
+  "id": 272,
+  "parola": "Pacco",
+  "categoria": "Oggetti",
+  "indizio": "Corriere"
+}, {
+  "id": 273,
+  "parola": "Busta",
+  "categoria": "Oggetti",
+  "indizio": "Lettera"
+}, {
+  "id": 274,
+  "parola": "Giornale",
+  "categoria": "Media",
+  "indizio": "Notizie"
+}, {
+  "id": 275,
+  "parola": "Rivista",
+  "categoria": "Media",
+  "indizio": "Foto"
+}, {
+  "id": 276,
+  "parola": "Microfono",
+  "categoria": "Tecnologia",
+  "indizio": "Voce"
+}, {
+  "id": 277,
+  "parola": "Televisione",
+  "categoria": "Tecnologia",
+  "indizio": "Canali"
+}, {
+  "id": 278,
+  "parola": "Internet",
+  "categoria": "Tecnologia",
+  "indizio": "Mondo"
+}, {
+  "id": 279,
+  "parola": "Wi-Fi",
+  "categoria": "Tecnologia",
+  "indizio": "Connessione"
+}, {
+  "id": 280,
+  "parola": "Password",
+  "categoria": "Sicurezza",
+  "indizio": "Segreta"
+}, {
+  "id": 281,
+  "parola": "Chiavetta USB",
+  "categoria": "Tecnologia",
+  "indizio": "Dati"
+}, {
+  "id": 282,
+  "parola": "Stampante",
+  "categoria": "Ufficio",
+  "indizio": "Foglio"
+}, {
+  "id": 283,
+  "parola": "Scanner",
+  "categoria": "Ufficio",
+  "indizio": "Digitale"
+}, {
+  "id": 284,
+  "parola": "Proiettore",
+  "categoria": "Ufficio",
+  "indizio": "Parete"
+}, {
+  "id": 285,
+  "parola": "Schermo",
+  "categoria": "Tecnologia",
+  "indizio": "Pixel"
+}, {
+  "id": 286,
+  "parola": "Tastiera",
+  "categoria": "Tecnologia",
+  "indizio": "Scrivere"
+}, {
+  "id": 287,
+  "parola": "Webcam",
+  "categoria": "Tecnologia",
+  "indizio": "Video"
+}, {
+  "id": 288,
+  "parola": "Cavo",
+  "categoria": "Elettronica",
+  "indizio": "Rame"
+}, {
+  "id": 289,
+  "parola": "Presa",
+  "categoria": "Elettrica",
+  "indizio": "Corrente"
+}, {
+  "id": 290,
+  "parola": "Lampadina",
+  "categoria": "Elettrica",
+  "indizio": "Vetro"
+}, {
+  "id": 291,
+  "parola": "Torcia",
+  "categoria": "Oggetti",
+  "indizio": "Pile"
+}, {
+  "id": 292,
+  "parola": "Accendino",
+  "categoria": "Oggetti",
+  "indizio": "Gas"
+}, {
+  "id": 293,
+  "parola": "Fiammifero",
+  "categoria": "Oggetti",
+  "indizio": "Sfregare"
+}, {
+  "id": 294,
+  "parola": "Camino",
+  "categoria": "Casa",
+  "indizio": "Legna"
+}, {
+  "id": 295,
+  "parola": "Stufa",
+  "categoria": "Casa",
+  "indizio": "Calore"
+}, {
+  "id": 296,
+  "parola": "Ventilatore",
+  "categoria": "Casa",
+  "indizio": "Pale"
+}, {
+  "id": 297,
+  "parola": "Condizionatore",
+  "categoria": "Casa",
+  "indizio": "Freddo"
+}, {
+  "id": 298,
+  "parola": "Termosifone",
+  "categoria": "Casa",
+  "indizio": "Inverno"
+}, {
+  "id": 299,
+  "parola": "Tenda",
+  "categoria": "Arredamento",
+  "indizio": "Tessuto"
+}, {
+  "id": 300,
+  "parola": "Tapparella",
+  "categoria": "Arredamento",
+  "indizio": "Oscurare"
+}, {
+  "id": 301,
+  "parola": "Panino",
+  "categoria": "Cibo",
+  "indizio": "Imbottito"
+}, {
+  "id": 302,
+  "parola": "Hamburger",
+  "categoria": "Cibo",
+  "indizio": "Americano"
+}, {
+  "id": 303,
+  "parola": "Wurstel",
+  "categoria": "Cibo",
+  "indizio": "Tedesco"
+}, {
+  "id": 304,
+  "parola": "Ketchup",
+  "categoria": "Cibo",
+  "indizio": "Rossa"
+}, {
+  "id": 305,
+  "parola": "Maionese",
+  "categoria": "Cibo",
+  "indizio": "Uova"
+}, {
+  "id": 306,
+  "parola": "Senape",
+  "categoria": "Cibo",
+  "indizio": "Piccante"
+}, {
+  "id": 307,
+  "parola": "Aceto",
+  "categoria": "Cibo",
+  "indizio": "Condire"
+}, {
+  "id": 308,
+  "parola": "Zucchina",
+  "categoria": "Cibo",
+  "indizio": "Verde"
+}, {
+  "id": 309,
+  "parola": "Melanzana",
+  "categoria": "Cibo",
+  "indizio": "Viola"
+}, {
+  "id": 310,
+  "parola": "Peperone",
+  "categoria": "Cibo",
+  "indizio": "Colori"
+}, {
+  "id": 311,
+  "parola": "Fungo",
+  "categoria": "Cibo",
+  "indizio": "Bosco"
+}, {
+  "id": 312,
+  "parola": "Tartufo",
+  "categoria": "Cibo",
+  "indizio": "Costoso"
+}, {
+  "id": 313,
+  "parola": "Castagna",
+  "categoria": "Cibo",
+  "indizio": "Autunno"
+}, {
+  "id": 314,
+  "parola": "Noce",
+  "categoria": "Cibo",
+  "indizio": "Guscio"
+}, {
+  "id": 315,
+  "parola": "Mandorla",
+  "categoria": "Cibo",
+  "indizio": "Sicilia"
+}, {
+  "id": 316,
+  "parola": "Marmellata",
+  "categoria": "Cibo",
+  "indizio": "Vasetto"
+}, {
+  "id": 317,
+  "parola": "Nutella",
+  "categoria": "Cibo",
+  "indizio": "Nocciole"
+}, {
+  "id": 318,
+  "parola": "Biscotto",
+  "categoria": "Cibo",
+  "indizio": "Inzuppare"
+}, {
+  "id": 319,
+  "parola": "Cornetto",
+  "categoria": "Cibo",
+  "indizio": "Bar"
+}, {
+  "id": 320,
+  "parola": "Cereali",
+  "categoria": "Cibo",
+  "indizio": "Latte"
+}, {
+  "id": 321,
+  "parola": "Yogurt",
+  "categoria": "Cibo",
+  "indizio": "Cremoso"
+}, {
+  "id": 322,
+  "parola": "Burro",
+  "categoria": "Cibo",
+  "indizio": "Grasso"
+}, {
+  "id": 323,
+  "parola": "Panna",
+  "categoria": "Cibo",
+  "indizio": "Montata"
+}, {
+  "id": 324,
+  "parola": "Cavatappi",
+  "categoria": "Utensili",
+  "indizio": "Vino"
+}, {
+  "id": 325,
+  "parola": "Apriscatole",
+  "categoria": "Utensili",
+  "indizio": "Latta"
+}, {
+  "id": 326,
+  "parola": "Grattugia",
+  "categoria": "Utensili",
+  "indizio": "Formaggio"
+}, {
+  "id": 327,
+  "parola": "Mestolo",
+  "categoria": "Utensili",
+  "indizio": "Zuppa"
+}, {
+  "id": 328,
+  "parola": "Padella",
+  "categoria": "Utensili",
+  "indizio": "Friggere"
+}, {
+  "id": 329,
+  "parola": "Pentola",
+  "categoria": "Utensili",
+  "indizio": "Bollire"
+}, {
+  "id": 330,
+  "parola": "Coperchio",
+  "categoria": "Utensili",
+  "indizio": "Coprire"
+}, {
+  "id": 331,
+  "parola": "Teglia",
+  "categoria": "Utensili",
+  "indizio": "Pizza"
+}, {
+  "id": 332,
+  "parola": "Forno",
+  "categoria": "Elettrodomestici",
+  "indizio": "Cuocere"
+}, {
+  "id": 333,
+  "parola": "Microonde",
+  "categoria": "Elettrodomestici",
+  "indizio": "Rapido"
+}, {
+  "id": 334,
+  "parola": "Frullatore",
+  "categoria": "Elettrodomestici",
+  "indizio": "Lame"
+}, {
+  "id": 335,
+  "parola": "Tostapane",
+  "categoria": "Elettrodomestici",
+  "indizio": "Fette"
+}, {
+  "id": 336,
+  "parola": "Bollitore",
+  "categoria": "Elettrodomestici",
+  "indizio": "Tè"
+}, {
+  "id": 337,
+  "parola": "Bilancia",
+  "categoria": "Oggetti",
+  "indizio": "Peso"
+}, {
+  "id": 338,
+  "parola": "Metro",
+  "categoria": "Oggetti",
+  "indizio": "Lunghezza"
+}, {
+  "id": 339,
+  "parola": "Termometro",
+  "categoria": "Oggetti",
+  "indizio": "Febbre"
+}, {
+  "id": 340,
+  "parola": "Stetoscopio",
+  "categoria": "Medico",
+  "indizio": "Cuore"
+}, {
+  "id": 341,
+  "parola": "Siringa",
+  "categoria": "Medico",
+  "indizio": "Ago"
+}, {
+  "id": 342,
+  "parola": "Cerotto",
+  "categoria": "Medico",
+  "indizio": "Ferita"
+}, {
+  "id": 343,
+  "parola": "Benda",
+  "categoria": "Medico",
+  "indizio": "Fasciare"
+}, {
+  "id": 344,
+  "parola": "Stampella",
+  "categoria": "Medico",
+  "indizio": "Camminare"
+}, {
+  "id": 345,
+  "parola": "Carrozzina",
+  "categoria": "Oggetti",
+  "indizio": "Ruote"
+}, {
+  "id": 346,
+  "parola": "Culla",
+  "categoria": "Mobili",
+  "indizio": "Neonato"
+}, {
+  "id": 347,
+  "parola": "Biberon",
+  "categoria": "Oggetti",
+  "indizio": "Latte"
+}, {
+  "id": 348,
+  "parola": "Ciuccio",
+  "categoria": "Oggetti",
+  "indizio": "Gomma"
+}, {
+  "id": 349,
+  "parola": "Pannolino",
+  "categoria": "Oggetti",
+  "indizio": "Cambio"
+}, {
+  "id": 350,
+  "parola": "Giocattolo",
+  "categoria": "Oggetti",
+  "indizio": "Bambini"
+}, {
+  "id": 351,
+  "parola": "Gorilla",
+  "categoria": "Animali",
+  "indizio": "Forte"
+}, {
+  "id": 352,
+  "parola": "Scimmia",
+  "categoria": "Animali",
+  "indizio": "Banana"
+}, {
+  "id": 353,
+  "parola": "Zebra",
+  "categoria": "Animali",
+  "indizio": "Strisce"
+}, {
+  "id": 354,
+  "parola": "Rinoceronte",
+  "categoria": "Animali",
+  "indizio": "Corno"
+}, {
+  "id": 355,
+  "parola": "Ippopotamo",
+  "categoria": "Animali",
+  "indizio": "Fiume"
+}, {
+  "id": 356,
+  "parola": "Coccodrillo",
+  "categoria": "Animali",
+  "indizio": "Denti"
+}, {
+  "id": 357,
+  "parola": "Tartaruga",
+  "categoria": "Animali",
+  "indizio": "Lenta"
+}, {
+  "id": 358,
+  "parola": "Rana",
+  "categoria": "Animali",
+  "indizio": "Saltare"
+}, {
+  "id": 359,
+  "parola": "Lumaca",
+  "categoria": "Animali",
+  "indizio": "Guscio"
+}, {
+  "id": 360,
+  "parola": "Farfalla",
+  "categoria": "Insetti",
+  "indizio": "Colori"
+}, {
+  "id": 361,
+  "parola": "Isola",
+  "categoria": "Geografia",
+  "indizio": "Mare"
+}, {
+  "id": 362,
+  "parola": "Grotta",
+  "categoria": "Geografia",
+  "indizio": "Buio"
+}, {
+  "id": 363,
+  "parola": "Cascata",
+  "categoria": "Geografia",
+  "indizio": "Acqua"
+}, {
+  "id": 364,
+  "parola": "Lago",
+  "categoria": "Geografia",
+  "indizio": "Dolce"
+}, {
+  "id": 365,
+  "parola": "Collina",
+  "categoria": "Geografia",
+  "indizio": "Verde"
+}, {
+  "id": 366,
+  "parola": "Pianura",
+  "categoria": "Geografia",
+  "indizio": "Piatta"
+}, {
+  "id": 367,
+  "parola": "Foresta",
+  "categoria": "Geografia",
+  "indizio": "Alberi"
+}, {
+  "id": 368,
+  "parola": "Giungla",
+  "categoria": "Geografia",
+  "indizio": "Caldo"
+}, {
+  "id": 369,
+  "parola": "Ghiacciaio",
+  "categoria": "Geografia",
+  "indizio": "Freddo"
+}, {
+  "id": 370,
+  "parola": "Palude",
+  "categoria": "Geografia",
+  "indizio": "Fango"
+}, {
+  "id": 371,
+  "parola": "Piazza",
+  "categoria": "Città",
+  "indizio": "Centro"
+}, {
+  "id": 372,
+  "parola": "Grattacielo",
+  "categoria": "Città",
+  "indizio": "Alto"
+}, {
+  "id": 373,
+  "parola": "Fontana",
+  "categoria": "Città",
+  "indizio": "Acqua"
+}, {
+  "id": 374,
+  "parola": "Statua",
+  "categoria": "Città",
+  "indizio": "Marmo"
+}, {
+  "id": 375,
+  "parola": "Semaforo",
+  "categoria": "Città",
+  "indizio": "Rosso"
+}, {
+  "id": 376,
+  "parola": "Marciapiede",
+  "categoria": "Città",
+  "indizio": "Pedoni"
+}, {
+  "id": 377,
+  "parola": "Incrocio",
+  "categoria": "Città",
+  "indizio": "Strade"
+}, {
+  "id": 378,
+  "parola": "Parcheggio",
+  "categoria": "Città",
+  "indizio": "Auto"
+}, {
+  "id": 379,
+  "parola": "Benzinaio",
+  "categoria": "Città",
+  "indizio": "Pieno"
+}, {
+  "id": 380,
+  "parola": "Edicola",
+  "categoria": "Città",
+  "indizio": "Giornali"
+}, {
+  "id": 381,
+  "parola": "Scacchi",
+  "categoria": "Giochi",
+  "indizio": "Re"
+}, {
+  "id": 382,
+  "parola": "Dama",
+  "categoria": "Giochi",
+  "indizio": "Pedine"
+}, {
+  "id": 383,
+  "parola": "Carte",
+  "categoria": "Giochi",
+  "indizio": "Semi"
+}, {
+  "id": 384,
+  "parola": "Puzzle",
+  "categoria": "Giochi",
+  "indizio": "Pezzi"
+}, {
+  "id": 385,
+  "parola": "Domino",
+  "categoria": "Giochi",
+  "indizio": "Tessere"
+}, {
+  "id": 386,
+  "parola": "Videogioco",
+  "categoria": "Giochi",
+  "indizio": "Schermo"
+}, {
+  "id": 387,
+  "parola": "Pesca",
+  "categoria": "Hobby",
+  "indizio": "Amo"
+}, {
+  "id": 388,
+  "parola": "Caccia",
+  "categoria": "Hobby",
+  "indizio": "Fucile"
+}, {
+  "id": 389,
+  "parola": "Giardinaggio",
+  "categoria": "Hobby",
+  "indizio": "Piante"
+}, {
+  "id": 390,
+  "parola": "Campeggio",
+  "categoria": "Hobby",
+  "indizio": "Tenda"
+}, {
+  "id": 391,
+  "parola": "Concerto",
+  "categoria": "Eventi",
+  "indizio": "Musica"
+}, {
+  "id": 392,
+  "parola": "Opera",
+  "categoria": "Eventi",
+  "indizio": "Lirica"
+}, {
+  "id": 393,
+  "parola": "Circo",
+  "categoria": "Eventi",
+  "indizio": "Tendone"
+}, {
+  "id": 394,
+  "parola": "Carnevale",
+  "categoria": "Eventi",
+  "indizio": "Maschere"
+}, {
+  "id": 395,
+  "parola": "Pasqua",
+  "categoria": "Feste",
+  "indizio": "Uova"
+}, {
+  "id": 396,
+  "parola": "Capodanno",
+  "categoria": "Feste",
+  "indizio": "Brindisi"
+}, {
+  "id": 397,
+  "parola": "Compleanno",
+  "categoria": "Feste",
+  "indizio": "Torta"
+}, {
+  "id": 398,
+  "parola": "Funerale",
+  "categoria": "Eventi",
+  "indizio": "Nero"
+}, {
+  "id": 399,
+  "parola": "Laurea",
+  "categoria": "Eventi",
+  "indizio": "Tesi"
+}, {
+  "id": 400,
+  "parola": "Battesimo",
+  "categoria": "Eventi",
+  "indizio": "Acqua"
+}, {
+  "id": 401,
+  "parola": "Orecchini",
+  "categoria": "Gioielli",
+  "indizio": "Lobi"
+}, {
+  "id": 402,
+  "parola": "Collana",
+  "categoria": "Gioielli",
+  "indizio": "Collo"
+}, {
+  "id": 403,
+  "parola": "Bracciale",
+  "categoria": "Gioielli",
+  "indizio": "Polso"
+}, {
+  "id": 404,
+  "parola": "Orologio",
+  "categoria": "Gioielli",
+  "indizio": "Polso"
+}, {
+  "id": 405,
+  "parola": "Spilla",
+  "categoria": "Gioielli",
+  "indizio": "Giacca"
+}, {
+  "id": 406,
+  "parola": "Piercing",
+  "categoria": "Gioielli",
+  "indizio": "Metallo"
+}, {
+  "id": 407,
+  "parola": "Tatuaggio",
+  "categoria": "Corpo",
+  "indizio": "Inchiostro"
+}, {
+  "id": 408,
+  "parola": "Barba",
+  "categoria": "Corpo",
+  "indizio": "Mento"
+}, {
+  "id": 409,
+  "parola": "Baffi",
+  "categoria": "Corpo",
+  "indizio": "Bocca"
+}, {
+  "id": 410,
+  "parola": "Unie",
+  "categoria": "Corpo",
+  "indizio": "Mani"
+}, {
+  "id": 411,
+  "parola": "Birra",
+  "categoria": "Bevande",
+  "indizio": "Schiuma"
+}, {
+  "id": 412,
+  "parola": "Vino Rosso",
+  "categoria": "Bevande",
+  "indizio": "Uva"
+}, {
+  "id": 413,
+  "parola": "Vino Bianco",
+  "categoria": "Bevande",
+  "indizio": "Pesce"
+}, {
+  "id": 414,
+  "parola": "Champagne",
+  "categoria": "Bevande",
+  "indizio": "Bollicine"
+}, {
+  "id": 415,
+  "parola": "Cocktail",
+  "categoria": "Bevande",
+  "indizio": "Ghiaccio"
+}, {
+  "id": 416,
+  "parola": "Succo",
+  "categoria": "Bevande",
+  "indizio": "Frutta"
+}, {
+  "id": 417,
+  "parola": "Tè",
+  "categoria": "Bevande",
+  "indizio": "Caldo"
+}, {
+  "id": 418,
+  "parola": "Camomilla",
+  "categoria": "Bevande",
+  "indizio": "Dormire"
+}, {
+  "id": 419,
+  "parola": "Limonata",
+  "categoria": "Bevande",
+  "indizio": "Limoni"
+}, {
+  "id": 420,
+  "parola": "Bibita",
+  "categoria": "Bevande",
+  "indizio": "Gassata"
+}, {
+  "id": 421,
+  "parola": "Giornalista",
+  "categoria": "Professioni",
+  "indizio": "Notizie"
+}, {
+  "id": 422,
+  "parola": "Scienziato",
+  "categoria": "Professioni",
+  "indizio": "Laboratorio"
+}, {
+  "id": 423,
+  "parola": "Veterinario",
+  "categoria": "Professioni",
+  "indizio": "Animali"
+}, {
+  "id": 424,
+  "parola": "Farmacista",
+  "categoria": "Professioni",
+  "indizio": "Medicine"
+}, {
+  "id": 425,
+  "parola": "Infermiere",
+  "categoria": "Professioni",
+  "indizio": "Ospedale"
+}, {
+  "id": 426,
+  "parola": "Segretaria",
+  "categoria": "Professioni",
+  "indizio": "Telefono"
+}, {
+  "id": 427,
+  "parola": "Direttore",
+  "categoria": "Professioni",
+  "indizio": "Capo"
+}, {
+  "id": 428,
+  "parola": "Cassiere",
+  "categoria": "Professioni",
+  "indizio": "Supermercato"
+}, {
+  "id": 429,
+  "parola": "Magazziniere",
+  "categoria": "Professioni",
+  "indizio": "Scatole"
+}, {
+  "id": 430,
+  "parola": "Autista",
+  "categoria": "Professioni",
+  "indizio": "Guida"
+}, {
+  "id": 431,
+  "parola": "Terremoto",
+  "categoria": "Disastri",
+  "indizio": "Scossa"
+}, {
+  "id": 432,
+  "parola": "Incendio",
+  "categoria": "Disastri",
+  "indizio": "Fuoco"
+}, {
+  "id": 433,
+  "parola": "Alluvione",
+  "categoria": "Disastri",
+  "indizio": "Acqua"
+}, {
+  "id": 434,
+  "parola": "Tornado",
+  "categoria": "Disastri",
+  "indizio": "Vento"
+}, {
+  "id": 435,
+  "parola": "Valanga",
+  "categoria": "Disastri",
+  "indizio": "Neve"
+}, {
+  "id": 436,
+  "parola": "Esame",
+  "categoria": "Scuola",
+  "indizio": "Studio"
+}, {
+  "id": 437,
+  "parola": "Lezione",
+  "categoria": "Scuola",
+  "indizio": "Imparare"
+}, {
+  "id": 438,
+  "parola": "Ricreazione",
+  "categoria": "Scuola",
+  "indizio": "Pausa"
+}, {
+  "id": 439,
+  "parola": "Pagella",
+  "categoria": "Scuola",
+  "indizio": "Voti"
+}, {
+  "id": 440,
+  "parola": "Diploma",
+  "categoria": "Scuola",
+  "indizio": "Fine"
+}, {
+  "id": 441,
+  "parola": "Passaporto",
+  "categoria": "Documenti",
+  "indizio": "Estero"
+}, {
+  "id": 442,
+  "parola": "Patente",
+  "categoria": "Documenti",
+  "indizio": "Auto"
+}, {
+  "id": 443,
+  "parola": "Carta d'Identità",
+  "categoria": "Documenti",
+  "indizio": "Foto"
+}, {
+  "id": 444,
+  "parola": "Biglietto",
+  "categoria": "Oggetti",
+  "indizio": "Ingresso"
+}, {
+  "id": 445,
+  "parola": "Scontrino",
+  "categoria": "Oggetti",
+  "indizio": "Spesa"
+}, {
+  "id": 446,
+  "parola": "Fattura",
+  "categoria": "Oggetti",
+  "indizio": "Tasse"
+}, {
+  "id": 447,
+  "parola": "Contratto",
+  "categoria": "Lavoro",
+  "indizio": "Accordo"
+}, {
+  "id": 448,
+  "parola": "Firma",
+  "categoria": "Lavoro",
+  "indizio": "Nome"
+}, {
+  "id": 449,
+  "parola": "Timbro",
+  "categoria": "Ufficio",
+  "indizio": "Inchiostro"
+}, {
+  "id": 450,
+  "parola": "Busta Paga",
+  "categoria": "Lavoro",
+  "indizio": "Stipendio"
+}, {
+  "id": 451,
+  "parola": "Sassofono",
+  "categoria": "Strumenti",
+  "indizio": "Jazz"
+}, {
+  "id": 452,
+  "parola": "Arpa",
+  "categoria": "Strumenti",
+  "indizio": "Corde"
+}, {
+  "id": 453,
+  "parola": "Fisarmonica",
+  "categoria": "Strumenti",
+  "indizio": "Mantice"
+}, {
+  "id": 454,
+  "parola": "Tamburo",
+  "categoria": "Strumenti",
+  "indizio": "Battere"
+}, {
+  "id": 455,
+  "parola": "Clarinetto",
+  "categoria": "Strumenti",
+  "indizio": "Fiato"
+}, {
+  "id": 456,
+  "parola": "Casco",
+  "categoria": "Accessori",
+  "indizio": "Testa"
+}, {
+  "id": 457,
+  "parola": "Maschera",
+  "categoria": "Accessori",
+  "indizio": "Volto"
+}, {
+  "id": 458,
+  "parola": "Pigiama",
+  "categoria": "Abbigliamento",
+  "indizio": "Dormire"
+}, {
+  "id": 459,
+  "parola": "Ciabatte",
+  "categoria": "Calzature",
+  "indizio": "Casa"
+}, {
+  "id": 460,
+  "parola": "Costume",
+  "categoria": "Abbigliamento",
+  "indizio": "Nuotare"
+}, {
+  "id": 461,
+  "parola": "Cometa",
+  "categoria": "Astronomia",
+  "indizio": "Coda"
+}, {
+  "id": 462,
+  "parola": "Alieno",
+  "categoria": "Fantascienza",
+  "indizio": "Verde"
+}, {
+  "id": 463,
+  "parola": "Ufo",
+  "categoria": "Fantascienza",
+  "indizio": "Volare"
+}, {
+  "id": 464,
+  "parola": "Pianeta",
+  "categoria": "Astronomia",
+  "indizio": "Orbita"
+}, {
+  "id": 465,
+  "parola": "Galassia",
+  "categoria": "Astronomia",
+  "indizio": "Stelle"
+}, {
+  "id": 466,
+  "parola": "Mago",
+  "categoria": "Fantasia",
+  "indizio": "Incantesimi"
+}, {
+  "id": 467,
+  "parola": "Fata",
+  "categoria": "Fantasia",
+  "indizio": "Ali"
+}, {
+  "id": 468,
+  "parola": "Orco",
+  "categoria": "Fantasia",
+  "indizio": "Palude"
+}, {
+  "id": 469,
+  "parola": "Sirena",
+  "categoria": "Fantasia",
+  "indizio": "Coda"
+}, {
+  "id": 470,
+  "parola": "Gigante",
+  "categoria": "Fantasia",
+  "indizio": "Alto"
+}, {
+  "id": 471,
+  "parola": "Nebbia",
+  "categoria": "Meteo",
+  "indizio": "Grigia"
+}, {
+  "id": 472,
+  "parola": "Grandine",
+  "categoria": "Meteo",
+  "indizio": "Ghiaccio"
+}, {
+  "id": 473,
+  "parola": "Uragano",
+  "categoria": "Meteo",
+  "indizio": "Vento"
+}, {
+  "id": 474,
+  "parola": "Tempesta",
+  "categoria": "Meteo",
+  "indizio": "Fulmini"
+}, {
+  "id": 475,
+  "parola": "Primavera",
+  "categoria": "Stagioni",
+  "indizio": "Fiori"
+}, {
+  "id": 476,
+  "parola": "Estate",
+  "categoria": "Stagioni",
+  "indizio": "Caldo"
+}, {
+  "id": 477,
+  "parola": "Autunno",
+  "categoria": "Stagioni",
+  "indizio": "Foglie"
+}, {
+  "id": 478,
+  "parola": "Inverno",
+  "categoria": "Stagioni",
+  "indizio": "Neve"
+}, {
+  "id": 479,
+  "parola": "Oro",
+  "categoria": "Materiali",
+  "indizio": "Giallo"
+}, {
+  "id": 480,
+  "parola": "Argento",
+  "categoria": "Materiali",
+  "indizio": "Grigio"
+}, {
+  "id": 481,
+  "parola": "Plastica",
+  "categoria": "Materiali",
+  "indizio": "Inquinamento"
+}, {
+  "id": 482,
+  "parola": "Legno",
+  "categoria": "Materiali",
+  "indizio": "Tronco"
+}, {
+  "id": 483,
+  "parola": "Ferro",
+  "categoria": "Materiali",
+  "indizio": "Duro"
+}, {
+  "id": 484,
+  "parola": "Cotone",
+  "categoria": "Tessuti",
+  "indizio": "Bianco"
+}, {
+  "id": 485,
+  "parola": "Lana",
+  "categoria": "Tessuti",
+  "indizio": "Pecora"
+}, {
+  "id": 486,
+  "parola": "Seta",
+  "categoria": "Tessuti",
+  "indizio": "Morbida"
+}, {
+  "id": 487,
+  "parola": "Email",
+  "categoria": "Tecnologia",
+  "indizio": "Posta"
+}, {
+  "id": 488,
+  "parola": "App",
+  "categoria": "Tecnologia",
+  "indizio": "Smartphone"
+}, {
+  "id": 489,
+  "parola": "Batteria",
+  "categoria": "Tecnologia",
+  "indizio": "Carica"
+}, {
+  "id": 490,
+  "parola": "Caricabatterie",
+  "categoria": "Tecnologia",
+  "indizio": "Filo"
+}, {
+  "id": 491,
+  "parola": "Cuffie",
+  "categoria": "Tecnologia",
+  "indizio": "Musica"
+}, {
+  "id": 492,
+  "parola": "Telecomando",
+  "categoria": "Tecnologia",
+  "indizio": "Canali"
+}, {
+  "id": 493,
+  "parola": "Videocamera",
+  "categoria": "Tecnologia",
+  "indizio": "Film"
+}, {
+  "id": 494,
+  "parola": "Drone",
+  "categoria": "Tecnologia",
+  "indizio": "Eliche"
+}, {
+  "id": 495,
+  "parola": "Joystick",
+  "categoria": "Tecnologia",
+  "indizio": "Videogioco"
+}, {
+  "id": 496,
+  "parola": "Cavalletta",
+  "categoria": "Insetti",
+  "indizio": "Saltare"
+}, {
+  "id": 497,
+  "parola": "Scarafaggio",
+  "categoria": "Insetti",
+  "indizio": "Nero"
+}, {
+  "id": 498,
+  "parola": "Grillo",
+  "categoria": "Insetti",
+  "indizio": "Cantare"
+}, {
+  "id": 499,
+  "parola": "Lucciola",
+  "categoria": "Insetti",
+  "indizio": "Luce"
+}, {
+  "id": 500,
+  "parola": "Coccinella",
+  "categoria": "Insetti",
+  "indizio": "Punti"
+}, {
+  "id": 501,
+  "parola": "Ferro da stiro",
+  "categoria": "Elettrodomestici",
+  "indizio": "Vapore"
+}, {
+  "id": 502,
+  "parola": "Aspirapolvere",
+  "categoria": "Elettrodomestici",
+  "indizio": "Rumore"
+}, {
+  "id": 503,
+  "parola": "Mocio",
+  "categoria": "Pulizia",
+  "indizio": "Pavimento"
+}, {
+  "id": 504,
+  "parola": "Molletta",
+  "categoria": "Oggetti",
+  "indizio": "Panni"
+}, {
+  "id": 505,
+  "parola": "Stendino",
+  "categoria": "Oggetti",
+  "indizio": "Asciugare"
+}, {
+  "id": 506,
+  "parola": "Faro",
+  "categoria": "Edifici",
+  "indizio": "Porto"
+}, {
+  "id": 507,
+  "parola": "Igloo",
+  "categoria": "Edifici",
+  "indizio": "Ghiaccio"
+}, {
+  "id": 508,
+  "parola": "Mulino",
+  "categoria": "Edifici",
+  "indizio": "Pale"
+}, {
+  "id": 509,
+  "parola": "Granaio",
+  "categoria": "Edifici",
+  "indizio": "Grano"
+}, {
+  "id": 510,
+  "parola": "Serra",
+  "categoria": "Edifici",
+  "indizio": "Vetro"
+}, {
+  "id": 511,
+  "parola": "Acquario",
+  "categoria": "Oggetti",
+  "indizio": "Pesci"
+}, {
+  "id": 512,
+  "parola": "Gabbia",
+  "categoria": "Oggetti",
+  "indizio": "Uccelli"
+}, {
+  "id": 513,
+  "parola": "Cuccia",
+  "categoria": "Oggetti",
+  "indizio": "Cane"
+}, {
+  "id": 514,
+  "parola": "Guinzaglio",
+  "categoria": "Oggetti",
+  "indizio": "Collo"
+}, {
+  "id": 515,
+  "parola": "Museruola",
+  "categoria": "Oggetti",
+  "indizio": "Morso"
+}, {
+  "id": 516,
+  "parola": "Sella",
+  "categoria": "Equitazione",
+  "indizio": "Cavalcare"
+}, {
+  "id": 517,
+  "parola": "Ferro di cavallo",
+  "categoria": "Oggetti",
+  "indizio": "Fortuna"
+}, {
+  "id": 518,
+  "parola": "Fieno",
+  "categoria": "Natura",
+  "indizio": "Cavalli"
+}, {
+  "id": 519,
+  "parola": "Spaventapasseri",
+  "categoria": "Oggetti",
+  "indizio": "Uccelli"
+}, {
+  "id": 520,
+  "parola": "Trattore",
+  "categoria": "Veicoli",
+  "indizio": "Campi"
+}, {
+  "id": 521,
+  "parola": "Ambulanza",
+  "categoria": "Veicoli",
+  "indizio": "Sirena"
+}, {
+  "id": 522,
+  "parola": "Caserma",
+  "categoria": "Luoghi",
+  "indizio": "Pompieri"
+}, {
+  "id": 523,
+  "parola": "Prigione",
+  "categoria": "Luoghi",
+  "indizio": "Sbarre"
+}, {
+  "id": 524,
+  "parola": "Tribunale",
+  "categoria": "Luoghi",
+  "indizio": "Legge"
+}, {
+  "id": 525,
+  "parola": "Municipio",
+  "categoria": "Luoghi",
+  "indizio": "Sindaco"
+}, {
+  "id": 526,
+  "parola": "Panetteria",
+  "categoria": "Negozi",
+  "indizio": "Forno"
+}, {
+  "id": 527,
+  "parola": "Macelleria",
+  "categoria": "Negozi",
+  "indizio": "Bistecca"
+}, {
+  "id": 528,
+  "parola": "Pescheria",
+  "categoria": "Negozi",
+  "indizio": "Mare"
+}, {
+  "id": 529,
+  "parola": "Gelateria",
+  "categoria": "Negozi",
+  "indizio": "Cono"
+}, {
+  "id": 530,
+  "parola": "Pizzeria",
+  "categoria": "Negozi",
+  "indizio": "Cartone"
+}, {
+  "id": 531,
+  "parola": "Libreria",
+  "categoria": "Negozi",
+  "indizio": "Leggere"
+}, {
+  "id": 532,
+  "parola": "Cartoleria",
+  "categoria": "Negozi",
+  "indizio": "Quaderni"
+}, {
+  "id": 533,
+  "parola": "Centro Commerciale",
+  "categoria": "Luoghi",
+  "indizio": "Shopping"
+}, {
+  "id": 534,
+  "parola": "Bancomat",
+  "categoria": "Servizi",
+  "indizio": "Prelievo"
+}, {
+  "id": 535,
+  "parola": "Mercatino",
+  "categoria": "Luoghi",
+  "indizio": "Usato"
+}, {
+  "id": 536,
+  "parola": "Assegno",
+  "categoria": "Banca",
+  "indizio": "Firma"
+}, {
+  "id": 537,
+  "parola": "Carta di Credito",
+  "categoria": "Banca",
+  "indizio": "Pagare"
+}, {
+  "id": 538,
+  "parola": "Cassaforte",
+  "categoria": "Sicurezza",
+  "indizio": "Codice"
+}, {
+  "id": 539,
+  "parola": "Allarme",
+  "categoria": "Sicurezza",
+  "indizio": "Sirena"
+}, {
+  "id": 540,
+  "parola": "Lucchetto",
+  "categoria": "Sicurezza",
+  "indizio": "Chiave"
+}, {
+  "id": 541,
+  "parola": "Poltrona",
+  "categoria": "Arredamento",
+  "indizio": "Seduta"
+}, {
+  "id": 542,
+  "parola": "Comodino",
+  "categoria": "Arredamento",
+  "indizio": "Notte"
+}, {
+  "id": 543,
+  "parola": "Cassettiera",
+  "categoria": "Arredamento",
+  "indizio": "Cassetti"
+}, {
+  "id": 544,
+  "parola": "Scrivania",
+  "categoria": "Arredamento",
+  "indizio": "Studio"
+}, {
+  "id": 545,
+  "parola": "Mensola",
+  "categoria": "Arredamento",
+  "indizio": "Muro"
+}, {
+  "id": 546,
+  "parola": "Vaso",
+  "categoria": "Oggetti",
+  "indizio": "Fiori"
+}, {
+  "id": 547,
+  "parola": "Quadro",
+  "categoria": "Arte",
+  "indizio": "Dipinto"
+}, {
+  "id": 548,
+  "parola": "Cornice",
+  "categoria": "Oggetti",
+  "indizio": "Foto"
+}, {
+  "id": 549,
+  "parola": "Tappetino",
+  "categoria": "Arredamento",
+  "indizio": "Bagno"
+}, {
+  "id": 550,
+  "parola": "Zerbino",
+  "categoria": "Arredamento",
+  "indizio": "Ingresso"
+}, {
+  "id": 551,
+  "parola": "Lasagna",
+  "categoria": "Cibo",
+  "indizio": "Strati"
+}, {
+  "id": 552,
+  "parola": "Ravioli",
+  "categoria": "Cibo",
+  "indizio": "Ripieno"
+}, {
+  "id": 553,
+  "parola": "Gnocchi",
+  "categoria": "Cibo",
+  "indizio": "Patate"
+}, {
+  "id": 554,
+  "parola": "Polpetta",
+  "categoria": "Cibo",
+  "indizio": "Tonda"
+}, {
+  "id": 555,
+  "parola": "Spaghetto",
+  "categoria": "Cibo",
+  "indizio": "Lungo"
+}, {
+  "id": 556,
+  "parola": "Risotto",
+  "categoria": "Cibo",
+  "indizio": "Mantecare"
+}, {
+  "id": 557,
+  "parola": "Tiramisù",
+  "categoria": "Cibo",
+  "indizio": "Caffè"
+}, {
+  "id": 558,
+  "parola": "Basilico",
+  "categoria": "Cibo",
+  "indizio": "Pesto"
+}, {
+  "id": 559,
+  "parola": "Rosmarino",
+  "categoria": "Cibo",
+  "indizio": "Arrosto"
+}, {
+  "id": 560,
+  "parola": "Prezzemolo",
+  "categoria": "Cibo",
+  "indizio": "Verde"
+}, {
+  "id": 561,
+  "parola": "Koala",
+  "categoria": "Animali",
+  "indizio": "Eucalipto"
+}, {
+  "id": 562,
+  "parola": "Panda",
+  "categoria": "Animali",
+  "indizio": "Bambù"
+}, {
+  "id": 563,
+  "parola": "Cammello",
+  "categoria": "Animali",
+  "indizio": "Gobbe"
+}, {
+  "id": 564,
+  "parola": "Aquila",
+  "categoria": "Animali",
+  "indizio": "Rapace"
+}, {
+  "id": 565,
+  "parola": "Gufo",
+  "categoria": "Animali",
+  "indizio": "Notte"
+}, {
+  "id": 566,
+  "parola": "Pipistrello",
+  "categoria": "Animali",
+  "indizio": "Grotta"
+}, {
+  "id": 567,
+  "parola": "Topo",
+  "categoria": "Animali",
+  "indizio": "Formaggio"
+}, {
+  "id": 568,
+  "parola": "Criceto",
+  "categoria": "Animali",
+  "indizio": "Ruota"
+}, {
+  "id": 569,
+  "parola": "Volpe",
+  "categoria": "Animali",
+  "indizio": "Astuzia"
+}, {
+  "id": 570,
+  "parola": "Cervo",
+  "categoria": "Animali",
+  "indizio": "Corna"
+}, {
+  "id": 571,
+  "parola": "Accappatoio",
+  "categoria": "Abbigliamento",
+  "indizio": "Spugna"
+}, {
+  "id": 572,
+  "parola": "Costume da bagno",
+  "categoria": "Abbigliamento",
+  "indizio": "Spiaggia"
+}, {
+  "id": 573,
+  "parola": "Canottiera",
+  "categoria": "Abbigliamento",
+  "indizio": "Estate"
+}, {
+  "id": 574,
+  "parola": "Felpa",
+  "categoria": "Abbigliamento",
+  "indizio": "Cappuccio"
+}, {
+  "id": 575,
+  "parola": "Tuta",
+  "categoria": "Abbigliamento",
+  "indizio": "Ginnastica"
+}, {
+  "id": 576,
+  "parola": "Gilet",
+  "categoria": "Abbigliamento",
+  "indizio": "Smanicato"
+}, {
+  "id": 577,
+  "parola": "Papillon",
+  "categoria": "Accessori",
+  "indizio": "Collo"
+}, {
+  "id": 578,
+  "parola": "Occhiali da sole",
+  "categoria": "Accessori",
+  "indizio": "Estate"
+}, {
+  "id": 579,
+  "parola": "Ombrellone",
+  "categoria": "Oggetti",
+  "indizio": "Ombra"
+}, {
+  "id": 580,
+  "parola": "Sdraio",
+  "categoria": "Oggetti",
+  "indizio": "Relax"
+}, {
+  "id": 581,
+  "parola": "Corridoio",
+  "categoria": "Casa",
+  "indizio": "Passaggio"
+}, {
+  "id": 582,
+  "parola": "Veranda",
+  "categoria": "Casa",
+  "indizio": "Vetri"
+}, {
+  "id": 583,
+  "parola": "Terrazza",
+  "categoria": "Casa",
+  "indizio": "Panorama"
+}, {
+  "id": 584,
+  "parola": "Sgabello",
+  "categoria": "Arredamento",
+  "indizio": "Bar"
+}, {
+  "id": 585,
+  "parola": "Scaffale",
+  "categoria": "Arredamento",
+  "indizio": "Libri"
+}, {
+  "id": 586,
+  "parola": "Libreria",
+  "categoria": "Arredamento",
+  "indizio": "Leggere"
+}, {
+  "id": 587,
+  "parola": "Caminetto",
+  "categoria": "Casa",
+  "indizio": "Fuoco"
+}, {
+  "id": 588,
+  "parola": "Rubinetto",
+  "categoria": "Casa",
+  "indizio": "Acqua"
+}, {
+  "id": 589,
+  "parola": "Interruttore",
+  "categoria": "Casa",
+  "indizio": "Luce"
+}, {
+  "id": 590,
+  "parola": "Maniglia",
+  "categoria": "Casa",
+  "indizio": "Porta"
+}, {
+  "id": 591,
+  "parola": "Sega",
+  "categoria": "Attrezzi",
+  "indizio": "Legno"
+}, {
+  "id": 592,
+  "parola": "Trapano",
+  "categoria": "Attrezzi",
+  "indizio": "Buco"
+}, {
+  "id": 593,
+  "parola": "Pinza",
+  "categoria": "Attrezzi",
+  "indizio": "Stringere"
+}, {
+  "id": 594,
+  "parola": "Chiave Inglese",
+  "categoria": "Attrezzi",
+  "indizio": "Bulloni"
+}, {
+  "id": 595,
+  "parola": "Metro",
+  "categoria": "Attrezzi",
+  "indizio": "Misurare"
+}, {
+  "id": 596,
+  "parola": "Livella",
+  "categoria": "Attrezzi",
+  "indizio": "Dritto"
+}, {
+  "id": 597,
+  "parola": "Brucola",
+  "categoria": "Attrezzi",
+  "indizio": "Mobile"
+}, {
+  "id": 598,
+  "parola": "Vite",
+  "categoria": "Attrezzi",
+  "indizio": "Girare"
+}, {
+  "id": 599,
+  "parola": "Bullone",
+  "categoria": "Attrezzi",
+  "indizio": "Dado"
+}, {
+  "id": 600,
+  "parola": "Chiodo",
+  "categoria": "Attrezzi",
+  "indizio": "Martello"
+}, {
+  "id": 601,
+  "parola": "Deserto",
+  "categoria": "Geografia",
+  "indizio": "Caldo"
+}, {
+  "id": 602,
+  "parola": "Canyon",
+  "categoria": "Geografia",
+  "indizio": "Profondo"
+}, {
+  "id": 603,
+  "parola": "Scogliera",
+  "categoria": "Geografia",
+  "indizio": "Mare"
+}, {
+  "id": 604,
+  "parola": "Baia",
+  "categoria": "Geografia",
+  "indizio": "Porto"
+}, {
+  "id": 605,
+  "parola": "Sorgente",
+  "categoria": "Geografia",
+  "indizio": "Acqua"
+}, {
+  "id": 606,
+  "parola": "Fango",
+  "categoria": "Natura",
+  "indizio": "Sporco"
+}, {
+  "id": 607,
+  "parola": "Sabbia",
+  "categoria": "Natura",
+  "indizio": "Mare"
+}, {
+  "id": 608,
+  "parola": "Ghiaia",
+  "categoria": "Natura",
+  "indizio": "Sassi"
+}, {
+  "id": 609,
+  "parola": "Muschio",
+  "categoria": "Natura",
+  "indizio": "Verde"
+}, {
+  "id": 610,
+  "parola": "Fungo",
+  "categoria": "Natura",
+  "indizio": "Bosco"
+}, {
+  "id": 611,
+  "parola": "Bowling",
+  "categoria": "Sport",
+  "indizio": "Birilli"
+}, {
+  "id": 612,
+  "parola": "Pattinaggio",
+  "categoria": "Sport",
+  "indizio": "Ghiaccio"
+}, {
+  "id": 613,
+  "parola": "Surf",
+  "categoria": "Sport",
+  "indizio": "Onde"
+}, {
+  "id": 614,
+  "parola": "Yoga",
+  "categoria": "Sport",
+  "indizio": "Tappetino"
+}, {
+  "id": 615,
+  "parola": "Atletica",
+  "categoria": "Sport",
+  "indizio": "Correre"
+}, {
+  "id": 616,
+  "parola": "Scherma",
+  "categoria": "Sport",
+  "indizio": "Spada"
+}, {
+  "id": 617,
+  "parola": "Tiro con l'arco",
+  "categoria": "Sport",
+  "indizio": "Frecce"
+}, {
+  "id": 618,
+  "parola": "Hockey",
+  "categoria": "Sport",
+  "indizio": "Disco"
+}, {
+  "id": 619,
+  "parola": "Ping Pong",
+  "categoria": "Sport",
+  "indizio": "Racchetta"
+}, {
+  "id": 620,
+  "parola": "Freccette",
+  "categoria": "Giochi",
+  "indizio": "Centro"
+}, {
+  "id": 621,
+  "parola": "Falegname",
+  "categoria": "Professioni",
+  "indizio": "Legno"
+}, {
+  "id": 622,
+  "parola": "Sarto",
+  "categoria": "Professioni",
+  "indizio": "Ago"
+}, {
+  "id": 623,
+  "parola": "Bagnino",
+  "categoria": "Professioni",
+  "indizio": "Salvataggio"
+}, {
+  "id": 624,
+  "parola": "Fioraio",
+  "categoria": "Professioni",
+  "indizio": "Piante"
+}, {
+  "id": 625,
+  "parola": "Gommista",
+  "categoria": "Professioni",
+  "indizio": "Ruote"
+}, {
+  "id": 626,
+  "parola": "Gioielliere",
+  "categoria": "Professioni",
+  "indizio": "Oro"
+}, {
+  "id": 627,
+  "parola": "Regista",
+  "categoria": "Professioni",
+  "indizio": "Ciak"
+}, {
+  "id": 628,
+  "parola": "Attore",
+  "categoria": "Professioni",
+  "indizio": "Teatro"
+}, {
+  "id": 629,
+  "parola": "Modella",
+  "categoria": "Professioni",
+  "indizio": "Sfilata"
+}, {
+  "id": 630,
+  "parola": "Fotografo",
+  "categoria": "Professioni",
+  "indizio": "Scatto"
+}, {
+  "id": 631,
+  "parola": "Gomma",
+  "categoria": "Cancelleria",
+  "indizio": "Cancellare"
+}, {
+  "id": 632,
+  "parola": "Evidenziatore",
+  "categoria": "Cancelleria",
+  "indizio": "Giallo"
+}, {
+  "id": 633,
+  "parola": "Graffetta",
+  "categoria": "Cancelleria",
+  "indizio": "Fogli"
+}, {
+  "id": 634,
+  "parola": "Cucitrice",
+  "categoria": "Cancelleria",
+  "indizio": "Punti"
+}, {
+  "id": 635,
+  "parola": "Busta",
+  "categoria": "Cancelleria",
+  "indizio": "Lettera"
+}, {
+  "id": 636,
+  "parola": "Dizionario",
+  "categoria": "Libri",
+  "indizio": "Parole"
+}, {
+  "id": 637,
+  "parola": "Enciclopedia",
+  "categoria": "Libri",
+  "indizio": "Sapere"
+}, {
+  "id": 638,
+  "parola": "Diario",
+  "categoria": "Libri",
+  "indizio": "Segreti"
+}, {
+  "id": 639,
+  "parola": "Fumetto",
+  "categoria": "Libri",
+  "indizio": "Disegni"
+}, {
+  "id": 640,
+  "parola": "Romanzo",
+  "categoria": "Libri",
+  "indizio": "Storia"
+}, {
+  "id": 641,
+  "parola": "Traghetto",
+  "categoria": "Trasporti",
+  "indizio": "Auto"
+}, {
+  "id": 642,
+  "parola": "Canoa",
+  "categoria": "Trasporti",
+  "indizio": "Pagaia"
+}, {
+  "id": 643,
+  "parola": "Yacht",
+  "categoria": "Trasporti",
+  "indizio": "Lusso"
+}, {
+  "id": 644,
+  "parola": "Gommone",
+  "categoria": "Trasporti",
+  "indizio": "Aria"
+}, {
+  "id": 645,
+  "parola": "Funivia",
+  "categoria": "Trasporti",
+  "indizio": "Montagna"
+}, {
+  "id": 646,
+  "parola": "Seggiovia",
+  "categoria": "Trasporti",
+  "indizio": "Neve"
+}, {
+  "id": 647,
+  "parola": "Monopattino",
+  "categoria": "Trasporti",
+  "indizio": "Ruote"
+}, {
+  "id": 648,
+  "parola": "Skateboard",
+  "categoria": "Trasporti",
+  "indizio": "Tavola"
+}, {
+  "id": 649,
+  "parola": "Pattini",
+  "categoria": "Trasporti",
+  "indizio": "Rotelle"
+}, {
+  "id": 650,
+  "parola": "Carriola",
+  "categoria": "Trasporti",
+  "indizio": "Spingere"
+}, {
+  "id": 651,
+  "parola": "Anguria",
+  "categoria": "Frutta",
+  "indizio": "Verde"
+}, {
+  "id": 652,
+  "parola": "Melone",
+  "categoria": "Frutta",
+  "indizio": "Prosciutto"
+}, {
+  "id": 653,
+  "parola": "Ciliegia",
+  "categoria": "Frutta",
+  "indizio": "Nocciolo"
+}, {
+  "id": 654,
+  "parola": "Albicocca",
+  "categoria": "Frutta",
+  "indizio": "Arancione"
+}, {
+  "id": 655,
+  "parola": "Kiwi",
+  "categoria": "Frutta",
+  "indizio": "Peloso"
+}, {
+  "id": 656,
+  "parola": "Cocco",
+  "categoria": "Frutta",
+  "indizio": "Latte"
+}, {
+  "id": 657,
+  "parola": "Avocado",
+  "categoria": "Frutta",
+  "indizio": "Verde"
+}, {
+  "id": 658,
+  "parola": "Mandarino",
+  "categoria": "Frutta",
+  "indizio": "Inverno"
+}, {
+  "id": 659,
+  "parola": "Fico",
+  "categoria": "Frutta",
+  "indizio": "Dolce"
+}, {
+  "id": 660,
+  "parola": "Mora",
+  "categoria": "Frutta",
+  "indizio": "Rovo"
+}, {
+  "id": 661,
+  "parola": "Profumo",
+  "categoria": "Bellezza",
+  "indizio": "Naso"
+}, {
+  "id": 662,
+  "parola": "Rossetto",
+  "categoria": "Bellezza",
+  "indizio": "Labbra"
+}, {
+  "id": 663,
+  "parola": "Smalto",
+  "categoria": "Bellezza",
+  "indizio": "Unghie"
+}, {
+  "id": 664,
+  "parola": "Mascara",
+  "categoria": "Bellezza",
+  "indizio": "Ciglia"
+}, {
+  "id": 665,
+  "parola": "Cipria",
+  "categoria": "Bellezza",
+  "indizio": "Trucco"
+}, {
+  "id": 666,
+  "parola": "Rasoio",
+  "categoria": "Bellezza",
+  "indizio": "Barba"
+}, {
+  "id": 667,
+  "parola": "Pinzetta",
+  "categoria": "Bellezza",
+  "indizio": "Sopracciglia"
+}, {
+  "id": 668,
+  "parola": "Spazzola",
+  "categoria": "Bellezza",
+  "indizio": "Capelli"
+}, {
+  "id": 669,
+  "parola": "Crema",
+  "categoria": "Bellezza",
+  "indizio": "Pelle"
+}, {
+  "id": 670,
+  "parola": "Deodorante",
+  "categoria": "Bellezza",
+  "indizio": "Ascelle"
+}, {
+  "id": 671,
+  "parola": "Mongolfiera",
+  "categoria": "Trasporti",
+  "indizio": "Aria"
+}, {
+  "id": 672,
+  "parola": "Paracadute",
+  "categoria": "Trasporti",
+  "indizio": "Lanciarsi"
+}, {
+  "id": 673,
+  "parola": "Deltaplano",
+  "categoria": "Trasporti",
+  "indizio": "Volo"
+}, {
+  "id": 674,
+  "parola": "Slitta",
+  "categoria": "Trasporti",
+  "indizio": "Neve"
+}, {
+  "id": 675,
+  "parola": "Carrozza",
+  "categoria": "Trasporti",
+  "indizio": "Cavalli"
+}, {
+  "id": 676,
+  "parola": "Camper",
+  "categoria": "Trasporti",
+  "indizio": "Vacanze"
+}, {
+  "id": 677,
+  "parola": "Roulotte",
+  "categoria": "Trasporti",
+  "indizio": "Rimorchio"
+}, {
+  "id": 678,
+  "parola": "Motoscafo",
+  "categoria": "Trasporti",
+  "indizio": "Lago"
+}, {
+  "id": 679,
+  "parola": "Jet",
+  "categoria": "Trasporti",
+  "indizio": "Veloce"
+}, {
+  "id": 680,
+  "parola": "Segway",
+  "categoria": "Trasporti",
+  "indizio": "Elettrico"
+}, {
+  "id": 681,
+  "parola": "Bambola",
+  "categoria": "Giocattoli",
+  "indizio": "Bambina"
+}, {
+  "id": 682,
+  "parola": "Peluche",
+  "categoria": "Giocattoli",
+  "indizio": "Morbido"
+}, {
+  "id": 683,
+  "parola": "Mattoncini",
+  "categoria": "Giocattoli",
+  "indizio": "Costruire"
+}, {
+  "id": 684,
+  "parola": "Yo-yo",
+  "categoria": "Giocattoli",
+  "indizio": "Filo"
+}, {
+  "id": 685,
+  "parola": "Aquilone",
+  "categoria": "Giocattoli",
+  "indizio": "Vento"
+}, {
+  "id": 686,
+  "parola": "Altalena",
+  "categoria": "Parchi",
+  "indizio": "Spingere"
+}, {
+  "id": 687,
+  "parola": "Scivolo",
+  "categoria": "Parchi",
+  "indizio": "Scendere"
+}, {
+  "id": 688,
+  "parola": "Giostra",
+  "categoria": "Parchi",
+  "indizio": "Cavalli"
+}, {
+  "id": 689,
+  "parola": "Sabbiera",
+  "categoria": "Parchi",
+  "indizio": "Secchiello"
+}, {
+  "id": 690,
+  "parola": "Palloncino",
+  "categoria": "Feste",
+  "indizio": "Elio"
+}, {
+  "id": 691,
+  "parola": "Coriandoli",
+  "categoria": "Feste",
+  "indizio": "Carnevale"
+}, {
+  "id": 692,
+  "parola": "Festone",
+  "categoria": "Feste",
+  "indizio": "Carta"
+}, {
+  "id": 693,
+  "parola": "Candeline",
+  "categoria": "Feste",
+  "indizio": "Soffiare"
+}, {
+  "id": 694,
+  "parola": "Regalo",
+  "categoria": "Feste",
+  "indizio": "Sorpresa"
+}, {
+  "id": 695,
+  "parola": "Fiocco",
+  "categoria": "Feste",
+  "indizio": "Nastro"
+}, {
+  "id": 696,
+  "parola": "Invito",
+  "categoria": "Feste",
+  "indizio": "Festa"
+}, {
+  "id": 697,
+  "parola": "Fuochi d'artificio",
+  "categoria": "Feste",
+  "indizio": "Capodanno"
+}, {
+  "id": 698,
+  "parola": "Panettone",
+  "categoria": "Feste",
+  "indizio": "Milano"
+}, {
+  "id": 699,
+  "parola": "Pandoro",
+  "categoria": "Feste",
+  "indizio": "Verona"
+}, {
+  "id": 700,
+  "parola": "Uovo di Pasqua",
+  "categoria": "Feste",
+  "indizio": "Sorpresa"
+}, {
+  "id": 701,
+  "parola": "Astuccio",
+  "categoria": "Scuola",
+  "indizio": "Penne"
+}, {
+  "id": 702,
+  "parola": "Temperino",
+  "categoria": "Scuola",
+  "indizio": "Punta"
+}, {
+  "id": 703,
+  "parola": "Compasso",
+  "categoria": "Scuola",
+  "indizio": "Cerchi"
+}, {
+  "id": 704,
+  "parola": "Squadra",
+  "categoria": "Scuola",
+  "indizio": "Disegno"
+}, {
+  "id": 705,
+  "parola": "Goniometro",
+  "categoria": "Scuola",
+  "indizio": "Angoli"
+}, {
+  "id": 706,
+  "parola": "Cancellino",
+  "categoria": "Scuola",
+  "indizio": "Gesso"
+}, {
+  "id": 707,
+  "parola": "Banco",
+  "categoria": "Scuola",
+  "indizio": "Sedersi"
+}, {
+  "id": 708,
+  "parola": "Cattedra",
+  "categoria": "Scuola",
+  "indizio": "Maestra"
+}, {
+  "id": 709,
+  "parola": "Mappamondo",
+  "categoria": "Scuola",
+  "indizio": "Terra"
+}, {
+  "id": 710,
+  "parola": "Cartella",
+  "categoria": "Scuola",
+  "indizio": "Libri"
+}, {
+  "id": 711,
+  "parola": "Moka",
+  "categoria": "Cucina",
+  "indizio": "Caffè"
+}, {
+  "id": 712,
+  "parola": "Tazzina",
+  "categoria": "Cucina",
+  "indizio": "Piattino"
+}, {
+  "id": 713,
+  "parola": "Bicchiere",
+  "categoria": "Cucina",
+  "indizio": "Acqua"
+}, {
+  "id": 714,
+  "parola": "Caraffa",
+  "categoria": "Cucina",
+  "indizio": "Vino"
+}, {
+  "id": 715,
+  "parola": "Tovaglia",
+  "categoria": "Cucina",
+  "indizio": "Tavolo"
+}, {
+  "id": 716,
+  "parola": "Tovagliolo",
+  "categoria": "Cucina",
+  "indizio": "Bocca"
+}, {
+  "id": 717,
+  "parola": "Scolapasta",
+  "categoria": "Cucina",
+  "indizio": "Pasta"
+}, {
+  "id": 718,
+  "parola": "Frusta",
+  "categoria": "Cucina",
+  "indizio": "Uova"
+}, {
+  "id": 719,
+  "parola": "Spatola",
+  "categoria": "Cucina",
+  "indizio": "Dolci"
+}, {
+  "id": 720,
+  "parola": "Mattarello",
+  "categoria": "Cucina",
+  "indizio": "Stendere"
+}, {
+  "id": 721,
+  "parola": "Ginocchio",
+  "categoria": "Corpo",
+  "indizio": "Gamba"
+}, {
+  "id": 722,
+  "parola": "Gomito",
+  "categoria": "Corpo",
+  "indizio": "Braccio"
+}, {
+  "id": 723,
+  "parola": "Spalla",
+  "categoria": "Corpo",
+  "indizio": "Braccio"
+}, {
+  "id": 724,
+  "parola": "Schiena",
+  "categoria": "Corpo",
+  "indizio": "Vertebre"
+}, {
+  "id": 725,
+  "parola": "Pancia",
+  "categoria": "Corpo",
+  "indizio": "Ombelico"
+}, {
+  "id": 726,
+  "parola": "Ombelico",
+  "categoria": "Corpo",
+  "indizio": "Centro"
+}, {
+  "id": 727,
+  "parola": "Collo",
+  "categoria": "Corpo",
+  "indizio": "Sciarpa"
+}, {
+  "id": 728,
+  "parola": "Fronte",
+  "categoria": "Corpo",
+  "indizio": "Testa"
+}, {
+  "id": 729,
+  "parola": "Guancia",
+  "categoria": "Corpo",
+  "indizio": "Viso"
+}, {
+  "id": 730,
+  "parola": "Mento",
+  "categoria": "Corpo",
+  "indizio": "Barba"
+}, {
+  "id": 731,
+  "parola": "Stalla",
+  "categoria": "Fattoria",
+  "indizio": "Mucche"
+}, {
+  "id": 732,
+  "parola": "Pollaio",
+  "categoria": "Fattoria",
+  "indizio": "Galline"
+}, {
+  "id": 733,
+  "parola": "Recinto",
+  "categoria": "Fattoria",
+  "indizio": "Animali"
+}, {
+  "id": 734,
+  "parola": "Orto",
+  "categoria": "Fattoria",
+  "indizio": "Verdura"
+}, {
+  "id": 735,
+  "parola": "Aratro",
+  "categoria": "Fattoria",
+  "indizio": "Terra"
+}, {
+  "id": 736,
+  "parola": "Mietitrebbia",
+  "categoria": "Fattoria",
+  "indizio": "Grano"
+}, {
+  "id": 737,
+  "parola": "Fienile",
+  "categoria": "Fattoria",
+  "indizio": "Paglia"
+}, {
+  "id": 738,
+  "parola": "Pozzo",
+  "categoria": "Fattoria",
+  "indizio": "Acqua"
+}, {
+  "id": 739,
+  "parola": "Secchio",
+  "categoria": "Fattoria",
+  "indizio": "Latte"
+}, {
+  "id": 740,
+  "parola": "Vanga",
+  "categoria": "Fattoria",
+  "indizio": "Scavare"
+}, {
+  "id": 741,
+  "parola": "Giradischi",
+  "categoria": "Musica",
+  "indizio": "Dischi"
+}, {
+  "id": 742,
+  "parola": "Stereo",
+  "categoria": "Musica",
+  "indizio": "Musica"
+}, {
+  "id": 743,
+  "parola": "Altoparlante",
+  "categoria": "Musica",
+  "indizio": "Volume"
+}, {
+  "id": 744,
+  "parola": "Cassetta",
+  "categoria": "Musica",
+  "indizio": "Nastro"
+}, {
+  "id": 745,
+  "parola": "Vinile",
+  "categoria": "Musica",
+  "indizio": "Nero"
+}, {
+  "id": 746,
+  "parola": "Spartito",
+  "categoria": "Musica",
+  "indizio": "Note"
+}, {
+  "id": 747,
+  "parola": "Direttore d'orchestra",
+  "categoria": "Musica",
+  "indizio": "Bacchetta"
+}, {
+  "id": 748,
+  "parola": "Coro",
+  "categoria": "Musica",
+  "indizio": "Voci"
+}, {
+  "id": 749,
+  "parola": "Palco",
+  "categoria": "Musica",
+  "indizio": "Concerto"
+}, {
+  "id": 750,
+  "parola": "Microfono",
+  "categoria": "Musica",
+  "indizio": "Cantare"
+}, {
+  "id": 751,
+  "parola": "Rosa",
+  "categoria": "Fiori",
+  "indizio": "Spine"
+}, {
+  "id": 752,
+  "parola": "Tulipano",
+  "categoria": "Fiori",
+  "indizio": "Olanda"
+}, {
+  "id": 753,
+  "parola": "Girasole",
+  "categoria": "Fiori",
+  "indizio": "Giallo"
+}, {
+  "id": 754,
+  "parola": "Margherita",
+  "categoria": "Fiori",
+  "indizio": "Petali"
+}, {
+  "id": 755,
+  "parola": "Orchidea",
+  "categoria": "Fiori",
+  "indizio": "Elegante"
+}, {
+  "id": 756,
+  "parola": "Viola",
+  "categoria": "Fiori",
+  "indizio": "Blu"
+}, {
+  "id": 757,
+  "parola": "Giglio",
+  "categoria": "Fiori",
+  "indizio": "Bianco"
+}, {
+  "id": 758,
+  "parola": "Papavero",
+  "categoria": "Fiori",
+  "indizio": "Rosso"
+}, {
+  "id": 759,
+  "parola": "Cactus",
+  "categoria": "Piante",
+  "indizio": "Deserto"
+}, {
+  "id": 760,
+  "parola": "Palma",
+  "categoria": "Piante",
+  "indizio": "Cocco"
+}, {
+  "id": 761,
+  "parola": "Diamante",
+  "categoria": "Preziosi",
+  "indizio": "Anello"
+}, {
+  "id": 762,
+  "parola": "Perla",
+  "categoria": "Preziosi",
+  "indizio": "Collana"
+}, {
+  "id": 763,
+  "parola": "Rubino",
+  "categoria": "Preziosi",
+  "indizio": "Rosso"
+}, {
+  "id": 764,
+  "parola": "Zaffiro",
+  "categoria": "Preziosi",
+  "indizio": "Blu"
+}, {
+  "id": 765,
+  "parola": "Smeraldo",
+  "categoria": "Preziosi",
+  "indizio": "Verde"
+}, {
+  "id": 766,
+  "parola": "Cristallo",
+  "categoria": "Materiali",
+  "indizio": "Trasparente"
+}, {
+  "id": 767,
+  "parola": "Bronzo",
+  "categoria": "Materiali",
+  "indizio": "Medaglia"
+}, {
+  "id": 768,
+  "parola": "Rame",
+  "categoria": "Materiali",
+  "indizio": "Fili"
+}, {
+  "id": 769,
+  "parola": "Carbone",
+  "categoria": "Materiali",
+  "indizio": "Befana"
+}, {
+  "id": 770,
+  "parola": "Marmo",
+  "categoria": "Materiali",
+  "indizio": "Statua"
+}, {
+  "id": 771,
+  "parola": "Mummia",
+  "categoria": "Storia",
+  "indizio": "Bende"
+}, {
+  "id": 772,
+  "parola": "Piramide",
+  "categoria": "Storia",
+  "indizio": "Triangolo"
+}, {
+  "id": 773,
+  "parola": "Faraone",
+  "categoria": "Storia",
+  "indizio": "Egitto"
+}, {
+  "id": 774,
+  "parola": "Gladiatore",
+  "categoria": "Storia",
+  "indizio": "Roma"
+}, {
+  "id": 775,
+  "parola": "Imperatore",
+  "categoria": "Storia",
+  "indizio": "Corona"
+}, {
+  "id": 776,
+  "parola": "Vichingo",
+  "categoria": "Storia",
+  "indizio": "Nave"
+}, {
+  "id": 777,
+  "parola": "Samurai",
+  "categoria": "Storia",
+  "indizio": "Spada"
+}, {
+  "id": 778,
+  "parola": "Ninja",
+  "categoria": "Storia",
+  "indizio": "Silenzioso"
+}, {
+  "id": 779,
+  "parola": "Cowboy",
+  "categoria": "Storia",
+  "indizio": "Pistola"
+}, {
+  "id": 780,
+  "parola": "Indiano",
+  "categoria": "Storia",
+  "indizio": "Piume"
+}, {
+  "id": 781,
+  "parola": "Kebab",
+  "categoria": "Cibo",
+  "indizio": "Carne"
+}, {
+  "id": 782,
+  "parola": "Sashimi",
+  "categoria": "Cibo",
+  "indizio": "Crudo"
+}, {
+  "id": 783,
+  "parola": "Tacos",
+  "categoria": "Cibo",
+  "indizio": "Messico"
+}, {
+  "id": 784,
+  "parola": "Curry",
+  "categoria": "Cibo",
+  "indizio": "Spezia"
+}, {
+  "id": 785,
+  "parola": "Couscous",
+  "categoria": "Cibo",
+  "indizio": "Semola"
+}, {
+  "id": 786,
+  "parola": "Paella",
+  "categoria": "Cibo",
+  "indizio": "Spagna"
+}, {
+  "id": 787,
+  "parola": "Crepes",
+  "categoria": "Cibo",
+  "indizio": "Nutella"
+}, {
+  "id": 788,
+  "parola": "Waffle",
+  "categoria": "Cibo",
+  "indizio": "Quadretti"
+}, {
+  "id": 789,
+  "parola": "Pancake",
+  "categoria": "Cibo",
+  "indizio": "Colazione"
+}, {
+  "id": 790,
+  "parola": "Muffin",
+  "categoria": "Cibo",
+  "indizio": "Dolcetto"
+}, {
+  "id": 791,
+  "parola": "Calendario",
+  "categoria": "Tempo",
+  "indizio": "Giorni"
+}, {
+  "id": 792,
+  "parola": "Clessidra",
+  "categoria": "Tempo",
+  "indizio": "Sabbia"
+}, {
+  "id": 793,
+  "parola": "Cronometro",
+  "categoria": "Tempo",
+  "indizio": "Gara"
+}, {
+  "id": 794,
+  "parola": "Agenda",
+  "categoria": "Ufficio",
+  "indizio": "Appuntamenti"
+}, {
+  "id": 795,
+  "parola": "Sveglia",
+  "categoria": "Casa",
+  "indizio": "Mattina"
+}, {
+  "id": 796,
+  "parola": "Minuto",
+  "categoria": "Tempo",
+  "indizio": "Ora"
+}, {
+  "id": 797,
+  "parola": "Secondo",
+  "categoria": "Tempo",
+  "indizio": "Tempo"
+}, {
+  "id": 798,
+  "parola": "Anno",
+  "categoria": "Tempo",
+  "indizio": "Capodanno"
+}, {
+  "id": 799,
+  "parola": "Secolo",
+  "categoria": "Tempo",
+  "indizio": "Storia"
+}, {
+  "id": 800,
+  "parola": "Millennio",
+  "categoria": "Tempo",
+  "indizio": "Mille"
+}, {
+  "id": 801,
+  "parola": "Marte",
+  "categoria": "Astronomia",
+  "indizio": "Rosso"
+}, {
+  "id": 802,
+  "parola": "Giove",
+  "categoria": "Astronomia",
+  "indizio": "Grande"
+}, {
+  "id": 803,
+  "parola": "Saturno",
+  "categoria": "Astronomia",
+  "indizio": "Anelli"
+}, {
+  "id": 804,
+  "parola": "Venere",
+  "categoria": "Astronomia",
+  "indizio": "Pianeta"
+}, {
+  "id": 805,
+  "parola": "Mercurio",
+  "categoria": "Astronomia",
+  "indizio": "Caldo"
+}, {
+  "id": 806,
+  "parola": "Eclissi",
+  "categoria": "Astronomia",
+  "indizio": "Sole"
+}, {
+  "id": 807,
+  "parola": "Buco Nero",
+  "categoria": "Astronomia",
+  "indizio": "Spazio"
+}, {
+  "id": 808,
+  "parola": "Asteroide",
+  "categoria": "Astronomia",
+  "indizio": "Sasso"
+}, {
+  "id": 809,
+  "parola": "Tuta Spaziale",
+  "categoria": "Astronomia",
+  "indizio": "Casco"
+}, {
+  "id": 810,
+  "parola": "Satellite",
+  "categoria": "Astronomia",
+  "indizio": "Antenna"
+}, {
+  "id": 811,
+  "parola": "Conchiglia",
+  "categoria": "Mare",
+  "indizio": "Mare"
+}, {
+  "id": 812,
+  "parola": "Granchio",
+  "categoria": "Mare",
+  "indizio": "Chele"
+}, {
+  "id": 813,
+  "parola": "Stella Marina",
+  "categoria": "Mare",
+  "indizio": "Punte"
+}, {
+  "id": 814,
+  "parola": "Medusa",
+  "categoria": "Mare",
+  "indizio": "Brucia"
+}, {
+  "id": 815,
+  "parola": "Polpo",
+  "categoria": "Mare",
+  "indizio": "Tentacoli"
+}, {
+  "id": 816,
+  "parola": "Calamaro",
+  "categoria": "Mare",
+  "indizio": "Frittura"
+}, {
+  "id": 817,
+  "parola": "Gabbiano",
+  "categoria": "Mare",
+  "indizio": "Uccello"
+}, {
+  "id": 818,
+  "parola": "Ancora",
+  "categoria": "Mare",
+  "indizio": "Nave"
+}, {
+  "id": 819,
+  "parola": "Salvagente",
+  "categoria": "Mare",
+  "indizio": "Galleggiare"
+}, {
+  "id": 820,
+  "parola": "Pinne",
+  "categoria": "Mare",
+  "indizio": "Nuotare"
+}, {
+  "id": 821,
+  "parola": "Cotton fioc",
+  "categoria": "Igiene",
+  "indizio": "Orecchie"
+}, {
+  "id": 822,
+  "parola": "Filo interdentale",
+  "categoria": "Igiene",
+  "indizio": "Denti"
+}, {
+  "id": 823,
+  "parola": "Collutorio",
+  "categoria": "Igiene",
+  "indizio": "Bocca"
+}, {
+  "id": 824,
+  "parola": "Crema solare",
+  "categoria": "Igiene",
+  "indizio": "Sole"
+}, {
+  "id": 825,
+  "parola": "Bagnoschiuma",
+  "categoria": "Igiene",
+  "indizio": "Vasca"
+}, {
+  "id": 826,
+  "parola": "Spugna",
+  "categoria": "Igiene",
+  "indizio": "Lavarsi"
+}, {
+  "id": 827,
+  "parola": "Borotalco",
+  "categoria": "Igiene",
+  "indizio": "Polvere"
+}, {
+  "id": 828,
+  "parola": "Fazzoletto",
+  "categoria": "Igiene",
+  "indizio": "Naso"
+}, {
+  "id": 829,
+  "parola": "Carta assorbente",
+  "categoria": "Cucina",
+  "indizio": "Rotolo"
+}, {
+  "id": 830,
+  "parola": "Stuzzicadenti",
+  "categoria": "Cucina",
+  "indizio": "Legno"
+}, {
+  "id": 831,
+  "parola": "Escavatore",
+  "categoria": "Mezzi",
+  "indizio": "Buca"
+}, {
+  "id": 832,
+  "parola": "Gru",
+  "categoria": "Mezzi",
+  "indizio": "Alto"
+}, {
+  "id": 833,
+  "parola": "Betoniera",
+  "categoria": "Mezzi",
+  "indizio": "Cemento"
+}, {
+  "id": 834,
+  "parola": "Autopompa",
+  "categoria": "Mezzi",
+  "indizio": "Pompieri"
+}, {
+  "id": 835,
+  "parola": "Volante",
+  "categoria": "Auto",
+  "indizio": "Guidare"
+}, {
+  "id": 836,
+  "parola": "Freno",
+  "categoria": "Auto",
+  "indizio": "Fermarsi"
+}, {
+  "id": 837,
+  "parola": "Frizione",
+  "categoria": "Auto",
+  "indizio": "Pedale"
+}, {
+  "id": 838,
+  "parola": "Cambio",
+  "categoria": "Auto",
+  "indizio": "Marcia"
+}, {
+  "id": 839,
+  "parola": "Motore",
+  "categoria": "Auto",
+  "indizio": "Cofano"
+}, {
+  "id": 840,
+  "parola": "Ruota di scorta",
+  "categoria": "Auto",
+  "indizio": "Emergenza"
+}, {
+  "id": 841,
+  "parola": "Chitarra Elettrica",
+  "categoria": "Musica",
+  "indizio": "Rock"
+}, {
+  "id": 842,
+  "parola": "Basso",
+  "categoria": "Musica",
+  "indizio": "Corde"
+}, {
+  "id": 843,
+  "parola": "Ukulele",
+  "categoria": "Musica",
+  "indizio": "Hawaii"
+}, {
+  "id": 844,
+  "parola": "Maracas",
+  "categoria": "Musica",
+  "indizio": "Ritmo"
+}, {
+  "id": 845,
+  "parola": "Triangolo",
+  "categoria": "Musica",
+  "indizio": "Ferro"
+}, {
+  "id": 846,
+  "parola": "Xilofono",
+  "categoria": "Musica",
+  "indizio": "Bacchette"
+}, {
+  "id": 847,
+  "parola": "Organo",
+  "categoria": "Musica",
+  "indizio": "Chiesa"
+}, {
+  "id": 848,
+  "parola": "Violoncello",
+  "categoria": "Musica",
+  "indizio": "Archetto"
+}, {
+  "id": 849,
+  "parola": "Armonica",
+  "categoria": "Musica",
+  "indizio": "Fiato"
+}, {
+  "id": 850,
+  "parola": "Piffero",
+  "categoria": "Musica",
+  "indizio": "Legno"
+}, {
+  "id": 851,
+  "parola": "Amore",
+  "categoria": "Emozioni",
+  "indizio": "Cuore"
+}, {
+  "id": 852,
+  "parola": "Odio",
+  "categoria": "Emozioni",
+  "indizio": "Nemico"
+}, {
+  "id": 853,
+  "parola": "Paura",
+  "categoria": "Emozioni",
+  "indizio": "Buio"
+}, {
+  "id": 854,
+  "parola": "Rabbia",
+  "categoria": "Emozioni",
+  "indizio": "Rosso"
+}, {
+  "id": 855,
+  "parola": "Gioia",
+  "categoria": "Emozioni",
+  "indizio": "Ridere"
+}, {
+  "id": 856,
+  "parola": "Noia",
+  "categoria": "Emozioni",
+  "indizio": "Sbadigliare"
+}, {
+  "id": 857,
+  "parola": "Sogno",
+  "categoria": "Astratto",
+  "indizio": "Dormire"
+}, {
+  "id": 858,
+  "parola": "Incubo",
+  "categoria": "Astratto",
+  "indizio": "Paura"
+}, {
+  "id": 859,
+  "parola": "Bugia",
+  "categoria": "Astratto",
+  "indizio": "Naso"
+}, {
+  "id": 860,
+  "parola": "Segreto",
+  "categoria": "Astratto",
+  "indizio": "Silenzio"
+}, {
+  "id": 861,
+  "parola": "Bacio",
+  "categoria": "Azioni",
+  "indizio": "Labbra"
+}, {
+  "id": 862,
+  "parola": "Abbraccio",
+  "categoria": "Azioni",
+  "indizio": "Stringere"
+}, {
+  "id": 863,
+  "parola": "Schiaffo",
+  "categoria": "Azioni",
+  "indizio": "Faccia"
+}, {
+  "id": 864,
+  "parola": "Sorriso",
+  "categoria": "Azioni",
+  "indizio": "Felice"
+}, {
+  "id": 865,
+  "parola": "Pianto",
+  "categoria": "Azioni",
+  "indizio": "Lacrime"
+}, {
+  "id": 866,
+  "parola": "Saluto",
+  "categoria": "Azioni",
+  "indizio": "Mano"
+}, {
+  "id": 867,
+  "parola": "Applauso",
+  "categoria": "Azioni",
+  "indizio": "Mani"
+}, {
+  "id": 868,
+  "parola": "Urlo",
+  "categoria": "Azioni",
+  "indizio": "Voce"
+}, {
+  "id": 869,
+  "parola": "Starnuto",
+  "categoria": "Azioni",
+  "indizio": "Salute"
+}, {
+  "id": 870,
+  "parola": "Sbadiglio",
+  "categoria": "Azioni",
+  "indizio": "Sonno"
+}, {
+  "id": 871,
+  "parola": "Alba",
+  "categoria": "Tempo",
+  "indizio": "Sole"
+}, {
+  "id": 872,
+  "parola": "Tramonto",
+  "categoria": "Tempo",
+  "indizio": "Sera"
+}, {
+  "id": 873,
+  "parola": "Mezzogiorno",
+  "categoria": "Tempo",
+  "indizio": "Pranzo"
+}, {
+  "id": 874,
+  "parola": "Mezzanotte",
+  "categoria": "Tempo",
+  "indizio": "Cenerentola"
+}, {
+  "id": 875,
+  "parola": "Orizzonte",
+  "categoria": "Natura",
+  "indizio": "Lontano"
+}, {
+  "id": 876,
+  "parola": "Eco",
+  "categoria": "Natura",
+  "indizio": "Ripetere"
+}, {
+  "id": 877,
+  "parola": "Ombra",
+  "categoria": "Natura",
+  "indizio": "Sole"
+}, {
+  "id": 878,
+  "parola": "Rugiada",
+  "categoria": "Natura",
+  "indizio": "Mattina"
+}, {
+  "id": 879,
+  "parola": "Fulmine",
+  "categoria": "Meteo",
+  "indizio": "Tuono"
+}, {
+  "id": 880,
+  "parola": "Arcobaleno",
+  "categoria": "Meteo",
+  "indizio": "Colori"
+}, {
+  "id": 881,
+  "parola": "Unicorno",
+  "categoria": "Fantasia",
+  "indizio": "Corno"
+}, {
+  "id": 882,
+  "parola": "Centauro",
+  "categoria": "Fantasia",
+  "indizio": "Cavallo"
+}, {
+  "id": 883,
+  "parola": "Fenice",
+  "categoria": "Fantasia",
+  "indizio": "Cenere"
+}, {
+  "id": 884,
+  "parola": "Minotauro",
+  "categoria": "Fantasia",
+  "indizio": "Labirinto"
+}, {
+  "id": 885,
+  "parola": "Ciclope",
+  "categoria": "Fantasia",
+  "indizio": "Occhio"
+}, {
+  "id": 886,
+  "parola": "Pozione",
+  "categoria": "Fantasia",
+  "indizio": "Bere"
+}, {
+  "id": 887,
+  "parola": "Calderone",
+  "categoria": "Fantasia",
+  "indizio": "Strega"
+}, {
+  "id": 888,
+  "parola": "Mantello",
+  "categoria": "Fantasia",
+  "indizio": "Coprire"
+}, {
+  "id": 889,
+  "parola": "Scettro",
+  "categoria": "Fantasia",
+  "indizio": "Re"
+}, {
+  "id": 890,
+  "parola": "Bacchetta Magica",
+  "categoria": "Fantasia",
+  "indizio": "Trucco"
+}, {
+  "id": 891,
+  "parola": "Bottone",
+  "categoria": "Sartoria",
+  "indizio": "Buco"
+}, {
+  "id": 892,
+  "parola": "Cerniera",
+  "categoria": "Sartoria",
+  "indizio": "Chiudere"
+}, {
+  "id": 893,
+  "parola": "Tasca",
+  "categoria": "Sartoria",
+  "indizio": "Pantaloni"
+}, {
+  "id": 894,
+  "parola": "Manica",
+  "categoria": "Sartoria",
+  "indizio": "Braccio"
+}, {
+  "id": 895,
+  "parola": "Colletto",
+  "categoria": "Sartoria",
+  "indizio": "Collo"
+}, {
+  "id": 896,
+  "parola": "Tacco",
+  "categoria": "Calzature",
+  "indizio": "Scarpa"
+}, {
+  "id": 897,
+  "parola": "Suola",
+  "categoria": "Calzature",
+  "indizio": "Piede"
+}, {
+  "id": 898,
+  "parola": "Laccio",
+  "categoria": "Calzature",
+  "indizio": "Nodo"
+}, {
+  "id": 899,
+  "parola": "Fibbia",
+  "categoria": "Accessori",
+  "indizio": "Cintura"
+}, {
+  "id": 900,
+  "parola": "Spilla da balia",
+  "categoria": "Accessori",
+  "indizio": "Pungere"
+}, {
+  "id": 901,
+  "parola": "Velluto",
+  "categoria": "Tessuti",
+  "indizio": "Liscio"
+}, {
+  "id": 902,
+  "parola": "Jeans",
+  "categoria": "Tessuti",
+  "indizio": "Blu"
+}, {
+  "id": 903,
+  "parola": "Cuoio",
+  "categoria": "Materiali",
+  "indizio": "Pelle"
+}, {
+  "id": 904,
+  "parola": "Cartone",
+  "categoria": "Materiali",
+  "indizio": "Scatola"
+}, {
+  "id": 905,
+  "parola": "Vetro",
+  "categoria": "Materiali",
+  "indizio": "Rompere"
+}, {
+  "id": 906,
+  "parola": "Ceramica",
+  "categoria": "Materiali",
+  "indizio": "Vaso"
+}, {
+  "id": 907,
+  "parola": "Acciaio",
+  "categoria": "Materiali",
+  "indizio": "Duro"
+}, {
+  "id": 908,
+  "parola": "Cemento",
+  "categoria": "Materiali",
+  "indizio": "Grigio"
+}, {
+  "id": 909,
+  "parola": "Mattone",
+  "categoria": "Materiali",
+  "indizio": "Muro"
+}, {
+  "id": 910,
+  "parola": "Gesso",
+  "categoria": "Materiali",
+  "indizio": "Lavagna"
+}, {
+  "id": 911,
+  "parola": "Selfie",
+  "categoria": "Internet",
+  "indizio": "Foto"
+}, {
+  "id": 912,
+  "parola": "Chat",
+  "categoria": "Internet",
+  "indizio": "Scrivere"
+}, {
+  "id": 913,
+  "parola": "Virus",
+  "categoria": "Informatica",
+  "indizio": "Malattia"
+}, {
+  "id": 914,
+  "parola": "Link",
+  "categoria": "Internet",
+  "indizio": "Clic"
+}, {
+  "id": 915,
+  "parola": "Antivirus",
+  "categoria": "Informatica",
+  "indizio": "Protezione"
+}, {
+  "id": 916,
+  "parola": "Social",
+  "categoria": "Internet",
+  "indizio": "Amici"
+}, {
+  "id": 917,
+  "parola": "Like",
+  "categoria": "Internet",
+  "indizio": "Pollice"
+}, {
+  "id": 918,
+  "parola": "Influencer",
+  "categoria": "Internet",
+  "indizio": "Follower"
+}, {
+  "id": 919,
+  "parola": "Hacker",
+  "categoria": "Informatica",
+  "indizio": "Computer"
+}, {
+  "id": 920,
+  "parola": "Emoji",
+  "categoria": "Internet",
+  "indizio": "Faccina"
+}, {
+  "id": 921,
+  "parola": "Pelapatate",
+  "categoria": "Cucina",
+  "indizio": "Buccia"
+}, {
+  "id": 922,
+  "parola": "Schiaccianoci",
+  "categoria": "Cucina",
+  "indizio": "Noce"
+}, {
+  "id": 923,
+  "parola": "Imbuto",
+  "categoria": "Cucina",
+  "indizio": "Liquidi"
+}, {
+  "id": 924,
+  "parola": "Vassoio",
+  "categoria": "Cucina",
+  "indizio": "Portare"
+}, {
+  "id": 925,
+  "parola": "Thermos",
+  "categoria": "Cucina",
+  "indizio": "Caldo"
+}, {
+  "id": 926,
+  "parola": "Fiaschetta",
+  "categoria": "Oggetti",
+  "indizio": "Liquore"
+}, {
+  "id": 927,
+  "parola": "Tappo",
+  "categoria": "Oggetti",
+  "indizio": "Bottiglia"
+}, {
+  "id": 928,
+  "parola": "Etichetta",
+  "categoria": "Oggetti",
+  "indizio": "Prezzo"
+}, {
+  "id": 929,
+  "parola": "Lattina",
+  "categoria": "Cucina",
+  "indizio": "Coca"
+}, {
+  "id": 930,
+  "parola": "Scatola",
+  "categoria": "Oggetti",
+  "indizio": "Cartone"
+}, {
+  "id": 931,
+  "parola": "Pilates",
+  "categoria": "Sport",
+  "indizio": "Tappetino"
+}, {
+  "id": 932,
+  "parola": "Sauna",
+  "categoria": "Wellness",
+  "indizio": "Sudore"
+}, {
+  "id": 933,
+  "parola": "Massaggio",
+  "categoria": "Wellness",
+  "indizio": "Schiena"
+}, {
+  "id": 934,
+  "parola": "Tapis Roulant",
+  "categoria": "Palestra",
+  "indizio": "Correre"
+}, {
+  "id": 935,
+  "parola": "Pesi",
+  "categoria": "Palestra",
+  "indizio": "Muscoli"
+}, {
+  "id": 936,
+  "parola": "Arbitro",
+  "categoria": "Sport",
+  "indizio": "Fischietto"
+}, {
+  "id": 937,
+  "parola": "Fischietto",
+  "categoria": "Sport",
+  "indizio": "Arbitro"
+}, {
+  "id": 938,
+  "parola": "Cartellino",
+  "categoria": "Sport",
+  "indizio": "Espulsione"
+}, {
+  "id": 939,
+  "parola": "Coppa",
+  "categoria": "Sport",
+  "indizio": "Vittoria"
+}, {
+  "id": 940,
+  "parola": "Medaglia",
+  "categoria": "Sport",
+  "indizio": "Podio"
+}, {
+  "id": 941,
+  "parola": "Lontra",
+  "categoria": "Animali",
+  "indizio": "Fiume"
+}, {
+  "id": 942,
+  "parola": "Castoro",
+  "categoria": "Animali",
+  "indizio": "Diga"
+}, {
+  "id": 943,
+  "parola": "Procione",
+  "categoria": "Animali",
+  "indizio": "Spazzatura"
+}, {
+  "id": 944,
+  "parola": "Puzzola",
+  "categoria": "Animali",
+  "indizio": "Puzza"
+}, {
+  "id": 945,
+  "parola": "Istrice",
+  "categoria": "Animali",
+  "indizio": "Spine"
+}, {
+  "id": 946,
+  "parola": "Armadillo",
+  "categoria": "Animali",
+  "indizio": "Corazza"
+}, {
+  "id": 947,
+  "parola": "Bradipo",
+  "categoria": "Animali",
+  "indizio": "Lento"
+}, {
+  "id": 948,
+  "parola": "Lemure",
+  "categoria": "Animali",
+  "indizio": "Madagascar"
+}, {
+  "id": 949,
+  "parola": "Suricato",
+  "categoria": "Animali",
+  "indizio": "Sentinella"
+}, {
+  "id": 950,
+  "parola": "Formichiere",
+  "categoria": "Animali",
+  "indizio": "Formiche"
+}, {
+  "id": 951,
+  "parola": "Allenatore",
+  "categoria": "Sport",
+  "indizio": "Squadra"
+}, {
+  "id": 952,
+  "parola": "Spogliatoio",
+  "categoria": "Sport",
+  "indizio": "Doccia"
+}, {
+  "id": 953,
+  "parola": "Cyclette",
+  "categoria": "Palestra",
+  "indizio": "Pedalare"
+}, {
+  "id": 954,
+  "parola": "Borraccia",
+  "categoria": "Sport",
+  "indizio": "Acqua"
+}, {
+  "id": 955,
+  "parola": "Armadietto",
+  "categoria": "Palestra",
+  "indizio": "Chiave"
+}, {
+  "id": 956,
+  "parola": "Tela",
+  "categoria": "Arte",
+  "indizio": "Dipingere"
+}, {
+  "id": 957,
+  "parola": "Pennello",
+  "categoria": "Arte",
+  "indizio": "Colori"
+}, {
+  "id": 958,
+  "parola": "Scultura",
+  "categoria": "Arte",
+  "indizio": "Marmo"
+}, {
+  "id": 959,
+  "parola": "Mostra",
+  "categoria": "Arte",
+  "indizio": "Museo"
+}, {
+  "id": 960,
+  "parola": "Biglietteria",
+  "categoria": "Luoghi",
+  "indizio": "Fila"
+}, {
+  "id": 961,
+  "parola": "Tombino",
+  "categoria": "Città",
+  "indizio": "Fogna"
+}, {
+  "id": 962,
+  "parola": "Lampione",
+  "categoria": "Città",
+  "indizio": "Luce"
+}, {
+  "id": 963,
+  "parola": "Strisce Pedonali",
+  "categoria": "Città",
+  "indizio": "Zebra"
+}, {
+  "id": 964,
+  "parola": "Rotonda",
+  "categoria": "Città",
+  "indizio": "Girare"
+}, {
+  "id": 965,
+  "parola": "Vicolo",
+  "categoria": "Città",
+  "indizio": "Stretto"
+}, {
+  "id": 966,
+  "parola": "Salvadanaio",
+  "categoria": "Oggetti",
+  "indizio": "Maiale"
+}, {
+  "id": 967,
+  "parola": "Portachiavi",
+  "categoria": "Oggetti",
+  "indizio": "Anello"
+}, {
+  "id": 968,
+  "parola": "Posacenere",
+  "categoria": "Oggetti",
+  "indizio": "Sigaretta"
+}, {
+  "id": 969,
+  "parola": "Candelabro",
+  "categoria": "Oggetti",
+  "indizio": "Cera"
+}, {
+  "id": 970,
+  "parola": "Annaffiatoio",
+  "categoria": "Giardinaggio",
+  "indizio": "Acqua"
+}, {
+  "id": 971,
+  "parola": "Cigno",
+  "categoria": "Animali",
+  "indizio": "Lago"
+}, {
+  "id": 972,
+  "parola": "Pavone",
+  "categoria": "Animali",
+  "indizio": "Coda"
+}, {
+  "id": 973,
+  "parola": "Pappagallo",
+  "categoria": "Animali",
+  "indizio": "Ripetere"
+}, {
+  "id": 974,
+  "parola": "Pellicano",
+  "categoria": "Animali",
+  "indizio": "Becco"
+}, {
+  "id": 975,
+  "parola": "Fenicottero",
+  "categoria": "Animali",
+  "indizio": "Rosa"
+}, {
+  "id": 976,
+  "parola": "Popcorn",
+  "categoria": "Cibo",
+  "indizio": "Cinema"
+}, {
+  "id": 977,
+  "parola": "Nachos",
+  "categoria": "Cibo",
+  "indizio": "Salsa"
+}, {
+  "id": 978,
+  "parola": "Hot Dog",
+  "categoria": "Cibo",
+  "indizio": "Wurstel"
+}, {
+  "id": 979,
+  "parola": "Piadina",
+  "categoria": "Cibo",
+  "indizio": "Romagna"
+}, {
+  "id": 980,
+  "parola": "Tramezzino",
+  "categoria": "Cibo",
+  "indizio": "Triangolo"
+}, {
+  "id": 981,
+  "parola": "Clown",
+  "categoria": "Circo",
+  "indizio": "Naso"
+}, {
+  "id": 982,
+  "parola": "Acrobata",
+  "categoria": "Circo",
+  "indizio": "Flessibile"
+}, {
+  "id": 983,
+  "parola": "Domatore",
+  "categoria": "Circo",
+  "indizio": "Leone"
+}, {
+  "id": 984,
+  "parola": "Giocoliere",
+  "categoria": "Circo",
+  "indizio": "Palline"
+}, {
+  "id": 985,
+  "parola": "Mimo",
+  "categoria": "Circo",
+  "indizio": "Silenzio"
+}, {
+  "id": 986,
+  "parola": "Lupo Mannaro",
+  "categoria": "Fantasia",
+  "indizio": "Luna"
+}, {
+  "id": 987,
+  "parola": "Teschio",
+  "categoria": "Horror",
+  "indizio": "Ossa"
+}, {
+  "id": 988,
+  "parola": "Spirito",
+  "categoria": "Horror",
+  "indizio": "Trasparente"
+}, {
+  "id": 989,
+  "parola": "Incantesimo",
+  "categoria": "Fantasia",
+  "indizio": "Magia"
+}, {
+  "id": 990,
+  "parola": "Torre",
+  "categoria": "Fiabe",
+  "indizio": "Principessa"
+}, {
+  "id": 991,
+  "parola": "Galleria",
+  "categoria": "Strada",
+  "indizio": "Buio"
+}, {
+  "id": 992,
+  "parola": "Autostrada",
+  "categoria": "Strada",
+  "indizio": "Veloce"
+}, {
+  "id": 993,
+  "parola": "Casello",
+  "categoria": "Strada",
+  "indizio": "Pagare"
+}, {
+  "id": 994,
+  "parola": "Autogrill",
+  "categoria": "Viaggio",
+  "indizio": "Sosta"
+}, {
+  "id": 995,
+  "parola": "Traguardo",
+  "categoria": "Sport",
+  "indizio": "Arrivo"
+}, {
+  "id": 996,
+  "parola": "Inizio",
+  "categoria": "Concetti",
+  "indizio": "Partenza"
+}, {
+  "id": 997,
+  "parola": "Fine",
+  "categoria": "Concetti",
+  "indizio": "Ultimo"
+}, {
+  "id": 998,
+  "parola": "Vittoria",
+  "categoria": "Concetti",
+  "indizio": "Coppa"
+}, {
+  "id": 999,
+  "parola": "Sconfitta",
+  "categoria": "Concetti",
+  "indizio": "Perdere"
+}, {
+  "id": 1000,
+  "parola": "Impostore",
+  "categoria": "Gioco",
+  "indizio": "Segreto"
+}] 
